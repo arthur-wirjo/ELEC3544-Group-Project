@@ -1,0 +1,4655 @@
+{
+    "CCST9013": {
+        "course_name": "Our Living Environment",
+        "sdgs": [
+            "SDG-11",
+            "SDG-12",
+            "SDG-14",
+            "SDG-15"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "20",
+            "Tutorials": "8",
+            "Visit": "4",
+            "Reading / Self-study": "84",
+            "Assessment: Essay / Report writing": "6",
+            "Assessment: Presentation (incl preparation)": "20",
+            "Assessment: Quiz": "2"
+        },
+        "study_load_total": "144",
+        "ass_dist": {
+            "Tutorial exercises": "40",
+            "Project presentation": "30",
+            "Multiple choice quiz": "30"
+        }
+    },
+    "CCHU9012": {
+        "course_name": "Body, Beauty and Fashion",
+        "sdgs": [
+            "SDG-03",
+            "SDG-05",
+            "SDG-10"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "24",
+            "Assessment: Essay / Report writing": "40",
+            "Assessment: Presentation (incl preparation)": "30",
+            "Assessment: In-class quizzes (incl preparation)": "12"
+        },
+        "study_load_total": "140",
+        "ass_dist": {
+            "Reflective journal": "35",
+            "In-class quizzes": "30",
+            "Tutorial presentation and participation": "35"
+        }
+    },
+    "CCGL9030": {
+        "course_name": "Financial Crises: History, Solutions, and Our Economic Futures",
+        "sdgs": [
+            "SDG-08",
+            "SDG-10",
+            "SDG-17"
+        ],
+        "sem_offered": "Course will be offered twice:",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "40",
+            "Assessment: Individual report on group project": "10",
+            "Assessment: Group presentation of group project": "20",
+            "Assessment: Case summaries and homework": "20",
+            "Assessment: Take-home test": "4"
+        },
+        "study_load_total": "130",
+        "ass_dist": {
+            "Class participation and tutorial discussions": "10",
+            "Homework and case summaries": "30",
+            "Group project and presentation": "20",
+            "Group project report": "10",
+            "Take-home test": "30"
+        }
+    },
+    "CCHU9005": {
+        "course_name": "Food and Values",
+        "sdgs": [
+            "SDG-02",
+            "SDG-08",
+            "SDG-12"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "40",
+            "Assessment: Writing assignments": "50",
+            "Assessment: Special project": "30"
+        },
+        "study_load_total": "152",
+        "ass_dist": {
+            "Short writing assignments": "70",
+            "Special project": "15",
+            "Tutorial participation": "15"
+        }
+    },
+    "CCAI9002": {
+        "course_name": "Thinking Machines: Philosophical and Ethical Explorations",
+        "sdgs": [
+            "SDG-09"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "60",
+            "Assessment: Essay / Report writing": "24",
+            "Assessment: Presentation (incl preparation)": "12"
+        },
+        "study_load_total": "132",
+        "ass_dist": {
+            "Reflection writing": "20",
+            "Group report on presentation topic": "15",
+            "Case analysis": "25",
+            "In-class test": "30",
+            "Tutorial participation": "10"
+        }
+    },
+    "CCST9012": {
+        "course_name": "Our Place in the Universe",
+        "sdgs": [
+            "SDG-04",
+            "SDG-09"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "40",
+            "Assessment: Quizzes": "1",
+            "Assessment: Assignments / Reports": "20",
+            "Assessment: Mid-term test (incl preparation)": "12",
+            "Assessment: Examination (incl preparation)": "15"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Assignments": "30",
+            "Quizzes": "10",
+            "Mid-term test": "20",
+            "Examination": "40"
+        }
+    },
+    "CCHU9065": {
+        "course_name": "A Life Worth Living",
+        "sdgs": [
+            "SDG-03",
+            "SDG-10"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "36",
+            "Preparing materials and questions for discussion": "10",
+            "Assessment: Essay / Report writing": "36",
+            "Assessment: Presentation": "6"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Individual presentation": "20",
+            "Tutorial participation and assignments / discussions": "10",
+            "In-class discussion": "10",
+            "Short writing assignments": "30",
+            "Final essay or artwork": "30"
+        }
+    },
+    "CCAI9019": {
+        "course_name": "The Political Economy of AI and Big Data",
+        "sdgs": [
+            "SDG-08",
+            "SDG-10",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "20",
+            "Tutorials": "8",
+            "Seminars": "2",
+            "Reading / Self-study": "28",
+            "Assessment: Reflective journal\u00a0": "25",
+            "Assessment: Group presentation (incl preparation)\u00a0": "31",
+            "Assessment: In-class peer-reviewed assessment": "6"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Group presentation": "30",
+            "Peer-review of group project presentation": "15",
+            "Reflective journal": "45",
+            "Class participation": "10"
+        }
+    },
+    "CCHU9030": {
+        "course_name": "Image, Space and Society",
+        "sdgs": [
+            "SDG-07",
+            "SDG-09",
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "26",
+            "Tutorials": "8",
+            "Reading / Self-study": "15",
+            "Assignment: Photo essay": "20",
+            "Assessment: Film production": "20",
+            "Assessment: Essay writing": "20",
+            "Assessment: Reflective practice": "15"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "Photo essay": "15",
+            "Film production": "25",
+            "Essay": "20",
+            "Participation in lectures and tutorials": "20",
+            "Reflective writing": "20"
+        }
+    },
+    "CCGL9080": {
+        "course_name": "Societies on the Water",
+        "sdgs": [
+            "SDG-11",
+            "SDG-13",
+            "SDG-14",
+            "SDG-15"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Fieldwork / Visits": "12",
+            "Reading / Self-study": "24",
+            "Assessment: Interview report (incl interview)\u00a0": "30",
+            "Assessment: Group project and presentation\u00a0": "32"
+        },
+        "study_load_total": "132",
+        "ass_dist": {
+            "Homework": "25",
+            "Public exhibition": "25",
+            "Group project": "25",
+            "Interview report": "25"
+        }
+    },
+    "CCST9017": {
+        "course_name": "Hidden Order in Daily Life: A Mathematical Perspective",
+        "sdgs": [
+            "SDG-04",
+            "SDG-09",
+            "SDG-16"
+        ],
+        "sem_offered": "Course will be offered twice:\nSection 1 \u2013 First semester (Wed); Section 2 \u2013 First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "36",
+            "Assessment: Essay / Report writing": "25",
+            "Assessment: Presentation (incl preparation)": "10",
+            "Assessment: In-class test (incl preparation)": "20",
+            "Assessment: Assignments": "30"
+        },
+        "study_load_total": "157",
+        "ass_dist": {
+            "Writing assignments": "35",
+            "Mini project and group presentation": "35",
+            "In-class test": "30"
+        }
+    },
+    "CCHU9094": {
+        "course_name": "From Grunts to Grammar: The Evolution of Human Communication",
+        "sdgs": [
+            "SDG-04"
+        ],
+        "sem_offered": "Course will be offered twice:\nSection 1 \u2013 First semester (Wed); Section 2 \u2013 Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "30",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Presentation (incl preparation)": "30",
+            "Assessment: Individual report on group project": "10"
+        },
+        "study_load_total": "136",
+        "ass_dist": {
+            "Essay": "35",
+            "Group project and presentation": "40",
+            "Individual report on group project": "25"
+        }
+    },
+    "CCAI9021": {
+        "course_name": "Human 2.0: Built from Nature, Reshaped by AI",
+        "sdgs": [
+            "SDG-09",
+            "SDG-11",
+            "SDG-15"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "60",
+            "Assessment: Project assignments\u00a0": "30",
+            "Assessment: In-class assessments\u00a0": "2"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "Group project and presentation": "20",
+            "Video report": "30",
+            "Tutorial exercises": "30",
+            "In-class assessment": "20"
+        }
+    },
+    "CCGL9007": {
+        "course_name": "Youth in a Global World",
+        "sdgs": [
+            "SDG-05",
+            "SDG-08",
+            "SDG-10"
+        ],
+        "sem_offered": "Course will be offered twice:",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "40",
+            "Assessment: Essay / Report writing": "40",
+            "Assessment: Group presentation (incl preparation)": "20"
+        },
+        "study_load_total": "132",
+        "ass_dist": {
+            "Tutorial participation": "20",
+            "Group presentation": "25",
+            "In-class quizzes": "25",
+            "Individual essay": "30"
+        }
+    },
+    "CCST9062": {
+        "course_name": "Sports: For you and Hong Kong",
+        "sdgs": [
+            "SDG-03",
+            "SDG-17"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "43",
+            "Assessment: Essay / Report writing": "6",
+            "Assessment: Presentation (incl preparation)": "12",
+            "Assessment: Group project": "30"
+        },
+        "study_load_total": "127",
+        "ass_dist": {
+            "Class participation": "10",
+            "Presentation": "35",
+            "Reflective writing": "25",
+            "Group project": "30"
+        }
+    },
+    "CCST9084": {
+        "course_name": "From Ancient Remedies to Modern Medicine: A Historical Perspective on Health Technology",
+        "sdgs": [
+            "SDG-03",
+            "SDG-04",
+            "SDG-09"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Fieldwork / Visits": "12",
+            "Reading / Self-study": "30",
+            "Assessment: Group poster production and presentation": "28",
+            "Assessment: Essay / Report writing": "30"
+        },
+        "study_load_total": "132",
+        "ass_dist": {
+            "Field Trip report": "20",
+            "Lecture and tutorial participation": "30",
+            "Poster presentation": "30",
+            "Short essay": "20"
+        }
+    },
+    "CCGL9018": {
+        "course_name": "Corporate Social Responsibility",
+        "sdgs": [
+            "SDG-08",
+            "SDG-10",
+            "SDG-17"
+        ],
+        "sem_offered": "Course will be offered twice:\nSection 1 \u2013 First semester (Sat); Section 2 \u2013 Second semester (Sat)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Preparation for tutorials": "12",
+            "Reading / Self-study": "60",
+            "Assessment: Essay / Report writing": "60"
+        },
+        "study_load_total": "168",
+        "ass_dist": {
+            "Written report": "50",
+            "Class participation": "10",
+            "Essay": "40"
+        }
+    },
+    "CCHU9093": {
+        "course_name": "Everyday Ethics and the Moral Imagination",
+        "sdgs": [
+            "SDG-15"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "25",
+            "Assessment: Essay / Report writing": "10",
+            "Assessment: Presentation (incl preparation)": "60"
+        },
+        "study_load_total": "131",
+        "ass_dist": {
+            "Participation in lectures and tutorials": "15",
+            "Quiz": "15",
+            "Individual assignment (linked with group project)": "25",
+            "Group video presentation": "25",
+            "Reflective writing": "20"
+        }
+    },
+    "CCGL9011": {
+        "course_name": "Media in the Age of Globalization",
+        "sdgs": [],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Classroom sessions": "24",
+            "Tutorials": "10",
+            "Preparing materials and questions for discussion": "46",
+            "Assessment: Group debate": "45",
+            "Assessment: Essay writing": "10"
+        },
+        "study_load_total": "135",
+        "ass_dist": {
+            "In-class quizzes": "25",
+            "Class participation": "10",
+            "Group project": "40",
+            "Individual essay": "25"
+        }
+    },
+    "CCGL9056": {
+        "course_name": "How We Move: Migration, Border Crossing, and Identity",
+        "sdgs": [],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "38",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Presentation (incl preparation)": "20"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Meeting participation": "25",
+            "Mid-term essay": "40",
+            "Final project": "35"
+        }
+    },
+    "CCST9025": {
+        "course_name": "Genetics and Human Nature",
+        "sdgs": [
+            "SDG-03",
+            "SDG-10"
+        ],
+        "sem_offered": "Course will be offered twice:\nSection 1 \u2013 First semester (Wed); Section 2 \u2013 Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "60",
+            "Assessment: Poster presentation (incl preparation)": "40"
+        },
+        "study_load_total": "134",
+        "ass_dist": {
+            "Tutorial discussion": "30",
+            "Poster presentation": "30",
+            "In-class quizzes": "30",
+            "Individual mini-project": "10"
+        }
+    },
+    "CCGL9055": {
+        "course_name": "Genocide: The Nightmare from History",
+        "sdgs": [],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorial (i.e. small group face-to-face discussions)\u00a0": "12",
+            "Reading / Self-study": "40",
+            "Assessment: Essay / Report writing": "46"
+        },
+        "study_load_total": "122",
+        "ass_dist": {
+            "Group project and presentation": "40",
+            "Quizzes": "30",
+            "Participation in lectures and tutorials": "30"
+        }
+    },
+    "CCHU9082": {
+        "course_name": "24 Frames: Communicating Ideas through Film",
+        "sdgs": [
+            "SDG-04"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Seminars": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "40",
+            "Film viewing": "20",
+            "Assessment: Writing assignments / Report writing": "10",
+            "Assessment: Presentation (incl preparation)": "20"
+        },
+        "study_load_total": "122",
+        "ass_dist": {
+            "3-minute film": "30",
+            "Poster": "20",
+            "Film review and analysis": "20",
+            "Peer evaluation": "15",
+            "In-class presentation / Class discussion": "15"
+        }
+    },
+    "CCCH9005": {
+        "course_name": "The Chinese Cultural Revolution",
+        "sdgs": [
+            "SDG-11",
+            "SDG-16"
+        ],
+        "sem_offered": "Courses will be offered four times:\nSections 1 and 2 \u2013 First semester (Wed); Sections 3 and 4 \u2013 Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "40",
+            "Film viewing, internet research": "18",
+            "Assessment: In-class quizzes (incl preparation)": "16",
+            "Assessment: Presentations (incl preparation)": "16"
+        },
+        "study_load_total": "122",
+        "ass_dist": {
+            "Class participation and weekly discussion questions": "30",
+            "Tutorial exercises": "30",
+            "In-class quizzes": "40"
+        }
+    },
+    "CCCH9018": {
+        "course_name": "Buddhism and Chinese Culture",
+        "sdgs": [
+            "SDG-03",
+            "SDG-05",
+            "SDG-16"
+        ],
+        "sem_offered": "Course will be offered twice:",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "60",
+            "Assessment: Essay writing": "22",
+            "Assessment: Quiz (incl preparation)": "3",
+            "Assessment: Presentation (incl preparation)": "15"
+        },
+        "study_load_total": "134",
+        "ass_dist": {
+            "Lecture and tutorial participation": "25",
+            "Presentation": "20",
+            "Mid-term essay / Quiz": "20",
+            "Final essay": "35"
+        }
+    },
+    "CCCH9014": {
+        "course_name": "Social Development: China, Asia, and the World",
+        "sdgs": [
+            "SDG-08",
+            "SDG-10",
+            "SDG-17"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "8",
+            "Reading / Self-study": "40",
+            "Assessment: Essay writing": "20",
+            "Assessment: Group project (incl preparation)": "20",
+            "Assessment: Quiz (incl preparation)": "20"
+        },
+        "study_load_total": "130",
+        "ass_dist": {
+            "Individual essay": "20",
+            "Group project and presentation": "40",
+            "In-class quizzes": "20",
+            "In-class discussion": "10",
+            "Tutorial participation": "10"
+        }
+    },
+    "CCST9073": {
+        "course_name": "Emotion, Cognition, and Brain",
+        "sdgs": [
+            "SDG-03"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "40",
+            "Assessment: Assignments": "20",
+            "Assessment: Project": "40"
+        },
+        "study_load_total": "136",
+        "ass_dist": {
+            "Project": "40",
+            "Assignments": "60"
+        }
+    },
+    "CCCH5039": {
+        "course_name": "Curing the Chinese: Medicine and Society in Modern China (Online)",
+        "sdgs": [
+            "SDG-03"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "26",
+            "Tutorials": "10",
+            "Fieldwork / Visits": "4",
+            "Reading / Self-study": "30",
+            "Assessment: Essay / Report writing": "15",
+            "Assessment: Presentation (incl preparation)": "20",
+            "Assessment: End of term take-home test (incl preparation)": "30"
+        },
+        "study_load_total": "135",
+        "ass_dist": {
+            "Participation in lectures and tutorials": "25",
+            "Case analysis": "20",
+            "End of term take-home test": "30",
+            "Group video presentation": "25"
+        }
+    },
+    "CCAI9034": {
+        "course_name": "Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing",
+        "sdgs": [
+            "SDG-03",
+            "SDG-09",
+            "SDG-10",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "24",
+            "Assessment: Essay / Report writing\u00a0": "15",
+            "Assessment: Group project\u00a0": "30",
+            "Assessment: Presentation (incl preparation)\u00a0": "15",
+            "Assessment: In-class quiz\u00a0": "2"
+        },
+        "study_load_total": "122",
+        "ass_dist": {
+            "Group project": "40",
+            "Case analysis": "20",
+            "In-class quizzes": "20",
+            "Weekly study questions": "10",
+            "Tutorial participation": "10"
+        }
+    },
+    "CCST9026": {
+        "course_name": "Scientific Revolutions: Their Continuing Impact on Our World and Society",
+        "sdgs": [
+            "SDG-04",
+            "SDG-09"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "9",
+            "Reading / Self-study": "40",
+            "Assessment: Presentation (incl preparation)": "30",
+            "Assessment: Mini-project (incl preparation)": "20",
+            "Assessment: Essay writing": "4",
+            "In-class test": "2"
+        },
+        "study_load_total": "127",
+        "ass_dist": {
+            "In-class test": "40",
+            "Individual mini project": "10",
+            "Group project and presentation": "30",
+            "Short essay": "20"
+        }
+    },
+    "CCAI9028": {
+        "course_name": "The Age of Big Data",
+        "sdgs": [
+            "SDG-09",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "20",
+            "Group projects and case studies": "30",
+            "Assessment: Writing assignments / Report writing": "15",
+            "Assessment: Presentation (incl preparation)": "20"
+        },
+        "study_load_total": "121",
+        "ass_dist": {
+            "Class participation": "5",
+            "PBL sessions": "25",
+            "Group projects": "40",
+            "Quizzes": "30"
+        }
+    },
+    "CCGL5005": {
+        "course_name": "Poverty, Development, and the Next Generation: Challenges for a Global World (Online)",
+        "sdgs": [
+            "SDG-01",
+            "SDG-08",
+            "SDG-10",
+            "SDG-16"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Out of class experiences": "10",
+            "Reading / Self-study": "46",
+            "Assessment: Group presentation (incl preparation)": "34"
+        },
+        "study_load_total": "122",
+        "ass_dist": {
+            "Reflective writing": "15",
+            "Photo essay": "15",
+            "Film review and analysis": "15",
+            "Group presentation": "30",
+            "Tutorial participation": "15",
+            "Lecture participation": "10"
+        }
+    },
+    "CCGL9049": {
+        "course_name": "Carbon, Money, and Lifestyle",
+        "sdgs": [
+            "SDG-11",
+            "SDG-12",
+            "SDG-13"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Fieldwork / Visits": "2",
+            "Reading / Self-study": "60",
+            "Assessment: Essay / Report writing": "32",
+            "Assessment: Presentation (incl preparation)": "14"
+        },
+        "study_load_total": "140",
+        "ass_dist": {
+            "Tutorial participation": "20",
+            "Quizzes": "20",
+            "Individual essay": "25",
+            "Group project report": "25",
+            "Group presentation": "10"
+        }
+    },
+    "CCGL9025": {
+        "course_name": "The Political Economy of Growth and Poverty in the World",
+        "sdgs": [
+            "SDG-01",
+            "SDG-08",
+            "SDG-10"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "20",
+            "Tutorials": "8",
+            "Interactive games": "9",
+            "Reading / Self-study": "53",
+            "Preparation of case/data analysis for tutorials": "8",
+            "Assessment: Assignments (incl preparation)": "22"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Assignments": "50",
+            "Simulation game": "30",
+            "Participation in lectures and tutorials": "20"
+        }
+    },
+    "CCHU9010": {
+        "course_name": "Being Different: Understanding People with Disabilities",
+        "sdgs": [
+            "SDG-03",
+            "SDG-10",
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Fieldwork / Visits (incl preparation)": "8",
+            "Reading / Self-study": "20",
+            "Assessment: Group project": "40",
+            "Assessment: Presentation (incl preparation)": "40"
+        },
+        "study_load_total": "140",
+        "ass_dist": {
+            "Participation": "25",
+            "Tutorial presentation": "20",
+            "Group project": "30",
+            "Quizzes": "20",
+            "Fieldwork assignment": "5"
+        }
+    },
+    "CCGL9062": {
+        "course_name": "Shaping our Health Across Cultures",
+        "sdgs": [
+            "SDG-03",
+            "SDG-17"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Online course material": "16",
+            "Classroom sessions": "16",
+            "Tutorials": "8",
+            "Reading / Self-study": "36",
+            "Assessment: Essay / Report writing": "40",
+            "Assessment: Presentation (incl preparation)": "12",
+            "Assessment: Reading responses": "12"
+        },
+        "study_load_total": "140",
+        "ass_dist": {
+            "Group presentation": "30",
+            "Class participation": "30",
+            "Written assignment": "40"
+        }
+    },
+    "CCCH9033": {
+        "course_name": "Sustainable Urban Development and Hong Kong",
+        "sdgs": [
+            "SDG-06",
+            "SDG-07",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "20",
+            "Tutorials": "10",
+            "Fieldwork / Visits": "15",
+            "Reading / Self-study": "45",
+            "Video": "5",
+            "Assessment: In-class assessments": "10",
+            "Assessment: Presentation (incl preparation)": "30"
+        },
+        "study_load_total": "135",
+        "ass_dist": {
+            "Class participation": "10",
+            "Individual oral presentation on selected reading": "10",
+            "Reflection writing": "30",
+            "In-class quizzes": "10",
+            "Group report": "40"
+        }
+    },
+    "CCHU9048": {
+        "course_name": "The City: Histories of Urbanism and the Built Environment",
+        "sdgs": [
+            "SDG-09",
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "20",
+            "Tutorials": "9",
+            "Reading / Self-study": "33",
+            "Assessment: Project assignments": "70"
+        },
+        "study_load_total": "132",
+        "ass_dist": {
+            "Project assignments": "80",
+            "In-class assessments": "20"
+        }
+    },
+    "CCGL9040": {
+        "course_name": "Energy Futures, Globalization and Sustainability",
+        "sdgs": [
+            "SDG-07",
+            "SDG-11",
+            "SDG-13",
+            "SDG-17"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Workshop / Visits": "6",
+            "Reading / Self-study": "60",
+            "Assessment: Essay / Report writing": "25",
+            "Assessment: Group project presentation (incl preparation)": "15"
+        },
+        "study_load_total": "138",
+        "ass_dist": {
+            "Presentation": "40",
+            "Individual assignment": "30",
+            "In-class worksheets": "18",
+            "Participation": "12"
+        }
+    },
+    "CCHU5088": {
+        "course_name": "We are Family: Myths, Realities and the Future of an Idea (Online)",
+        "sdgs": [
+            "SDG-01",
+            "SDG-03",
+            "SDG-05",
+            "SDG-08"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "38",
+            "Assessment: Writing assignments": "30",
+            "Assessment: Group project and presentation (incl preparation)": "20"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Tutorial presentations and debates": "40",
+            "In-class assessments": "20",
+            "Podcast": "40"
+        }
+    },
+    "CCHU9060": {
+        "course_name": "Gaming: Play, Learning and Society",
+        "sdgs": [
+            "SDG-04",
+            "SDG-05",
+            "SDG-09"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "40",
+            "Assessment: Essay / Report writing": "40",
+            "Assessment: Presentation (incl preparation)": "30"
+        },
+        "study_load_total": "142",
+        "ass_dist": {
+            "Individual assignments": "60",
+            "Group project and presentation": "40"
+        }
+    },
+    "CCAI9003": {
+        "course_name": "AI Safety: Catastrophe, Alignment, and Governance",
+        "sdgs": [
+            "SDG-09"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "60",
+            "Assessment: Essay / Report writing": "24",
+            "Assessment: Presentation (incl preparation)\u00a0": "12"
+        },
+        "study_load_total": "132",
+        "ass_dist": {
+            "Case analysis": "20",
+            "Issue papers": "20",
+            "Design proposal": "20",
+            "Reflective journal": "10",
+            "Group presentation": "20",
+            "Tutorial discussion": "10"
+        }
+    },
+    "CCCH9045": {
+        "course_name": "\u2018Superpower\u2019: Engaging with the Global Implications of China\u2019s Rise",
+        "sdgs": [
+            "SDG-08",
+            "SDG-16"
+        ],
+        "sem_offered": "First Semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "40",
+            "Assessment: Tutorial participation": "8",
+            "Assessment: Group presentation (incl preparation)": "20",
+            "Assessment: In-class quizzes (incl preparation)": "30"
+        },
+        "study_load_total": "130",
+        "ass_dist": {
+            "Tutorial participation and assignments/discussions": "20",
+            "Group presentation": "20",
+            "In-class quizzes": "60"
+        }
+    },
+    "CCHU9009": {
+        "course_name": "Moral Controversies in Contemporary Society",
+        "sdgs": [
+            "SDG-05",
+            "SDG-10",
+            "SDG-16"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "60",
+            "Assessment: Essay writing": "50",
+            "Assessment: In-class assessments": "1"
+        },
+        "study_load_total": "145",
+        "ass_dist": {
+            "Tutorial participation": "10",
+            "Tutorial presentation": "25",
+            "Mid-term essay": "20",
+            "Final essay": "35",
+            "In-class assessments": "10"
+        }
+    },
+    "CCGL9069": {
+        "course_name": "Multinationals and the Global Economy",
+        "sdgs": [],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "36",
+            "Assessment: Group presentation (incl preparation)": "8",
+            "Assessment: Journal": "18",
+            "Assessment: Group project": "24"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Participation in lectures and tutorials": "20",
+            "Tutorial presentation": "15",
+            "Individual student journal": "30",
+            "Group project": "35"
+        }
+    },
+    "CCGL9019": {
+        "course_name": "Economic Globalization: Issues and Challenges",
+        "sdgs": [
+            "SDG-01",
+            "SDG-08",
+            "SDG-16"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study / Preparation for tutorials": "50",
+            "Assessment: Group project (incl preparation)": "28",
+            "Assessment: Group report writing": "8",
+            "Assessment: Examination": "2"
+        },
+        "study_load_total": "122",
+        "ass_dist": {
+            "Examination": "35",
+            "Tutorials": "30",
+            "Group project": "35"
+        }
+    },
+    "CCAI9033": {
+        "course_name": "War and Peace 2.0: How AI Transforms Conflicts and Humanitarian Response",
+        "sdgs": [
+            "SDG-09",
+            "SDG-10",
+            "SDG-11",
+            "SDG-17"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "40",
+            "Assessment: Image creation": "10",
+            "Assessment: Group project and presentation": "16",
+            "Assessment: Individual assignment": "20"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Quizzes": "10",
+            "Image creation": "20",
+            "Group project and presentation": "30",
+            "Individual assignments": "30",
+            "Participation": "10"
+        }
+    },
+    "CCHU9007": {
+        "course_name": "Sexuality and Gender: Diversity and Society",
+        "sdgs": [
+            "SDG-03",
+            "SDG-05",
+            "SDG-10"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "20",
+            "Online course material": "4",
+            "Tutorials": "11",
+            "Reading / Self-study": "48",
+            "Assessment: Reflective journal": "20",
+            "Assessment: Quiz (incl preparation)": "8",
+            "Assessment: Group Project": "27"
+        },
+        "study_load_total": "138",
+        "ass_dist": {
+            "Continuous assessment and task focused activities": "50",
+            "Group project": "50"
+        }
+    },
+    "CCAI9027": {
+        "course_name": "Web3: Social Futures of Decentralised Artificial Intelligence",
+        "sdgs": [
+            "SDG-03",
+            "SDG-09",
+            "SDG-12"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "36",
+            "Assessment: Individual tasks": "36",
+            "Assessment: Group project presentation (incl preparation)": "24"
+        },
+        "study_load_total": "130",
+        "ass_dist": {
+            "Creative productions": "25",
+            "Mini-project": "25",
+            "Group project and presentation": "30",
+            "In-class presentation / class discussion": "20"
+        }
+    },
+    "CCST9034": {
+        "course_name": "Living in a Hazardous World",
+        "sdgs": [
+            "SDG-11",
+            "SDG-13",
+            "SDG-17"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "44",
+            "Assessment: Hazard portfolio": "46",
+            "Assessment: Presentation (incl preparation)": "20",
+            "Assessment: Essay writing": "4"
+        },
+        "study_load_total": "150",
+        "ass_dist": {
+            "Hazard portfolio": "40",
+            "Tutorial presentation and discussion": "25",
+            "Quiz": "15",
+            "Essay": "20"
+        }
+    },
+    "CCGL9083": {
+        "course_name": "Happiness Amidst Climate Crisis?",
+        "sdgs": [
+            "SDG-03",
+            "SDG-04",
+            "SDG-11",
+            "SDG-13"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "60",
+            "Assessment: Essay / Report writing": "24",
+            "Assessment: Presentation (incl preparation)": "12"
+        },
+        "study_load_total": "130",
+        "ass_dist": {
+            "Participation": "20",
+            "Group presentation": "30",
+            "Final project": "50"
+        }
+    },
+    "CCCH9015": {
+        "course_name": "Population, Society and Sustainable Development in ",
+        "sdgs": [
+            "SDG-01",
+            "SDG-05",
+            "SDG-08",
+            "SDG-10"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "20",
+            "Assessment: Essay / Reflective writing": "60",
+            "Assessment: Group presentation\u00a0(incl preparation)": "30"
+        },
+        "study_load_total": "142",
+        "ass_dist": {
+            "Tutorial participation": "10",
+            "Participation in discussion group": "20",
+            "Group presentation": "25",
+            "Reflection paper": "15",
+            "Individual Essay": "30"
+        }
+    },
+    "CCHU9021": {
+        "course_name": "Critical Thinking in Contemporary Society",
+        "sdgs": [
+            "SDG-03",
+            "SDG-12",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "50",
+            "Assessment: Group project (incl preparation)": "10",
+            "Assessment: Essay": "15",
+            "Assessment: In-class test (incl preparation)": "12"
+        },
+        "study_load_total": "123",
+        "ass_dist": {
+            "Tutorial participation": "10",
+            "In-class tests": "60",
+            "Group project": "30"
+        }
+    },
+    "CCAI9032": {
+        "course_name": "Virtual Worlds, Real Bodies",
+        "sdgs": [
+            "SDG-03",
+            "SDG-09",
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "11",
+            "Reading / Self-study": "30",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Group project presentation (incl preparation)": "55"
+        },
+        "study_load_total": "150",
+        "ass_dist": {
+            "Individual assignments": "30",
+            "Group project": "50",
+            "In-class participation": "20"
+        }
+    },
+    "CCHU9055": {
+        "course_name": "Metamorphoses: Tales of Transformation",
+        "sdgs": [],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials / Workshops": "10",
+            "Reading / Self-study": "60",
+            "Assessment: Essay writing": "15",
+            "Assessment: In-class test (incl preparation)": "15"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "In-class participation": "20",
+            "Essay": "40",
+            "In-class test": "40"
+        }
+    },
+    "CCGL9031": {
+        "course_name": "Entrepreneurship: Global and Social Development",
+        "sdgs": [
+            "SDG-08",
+            "SDG-09"
+        ],
+        "sem_offered": "Course will be offered twice:",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "20",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "15",
+            "Assessment: Group project": "20",
+            "Assessment: Class discussion": "10",
+            "Assessment: In-class test (incl preparation)": "3"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "Interview": "40",
+            "Project": "40",
+            "Participation in lectures and tutorials": "20"
+        }
+    },
+    "CCCH9047": {
+        "course_name": "Will the \u2018Real\u2019 China Please Stand Up?: Interpreting Chinese Civilization",
+        "sdgs": [
+            "SDG-04",
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "38",
+            "Assessment: Group presentation (incl preparation)": "20",
+            "Assessment: In-class quizzes (incl preparation)": "30"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Tutorial participation and assignments/discussions": "20",
+            "Group presentation": "20",
+            "In-class quizzes": "60"
+        }
+    },
+    "CCCH9050": {
+        "course_name": "Blessings or Curses? World Heritage Sites in China and their Sustainability",
+        "sdgs": [
+            "SDG-11"
+        ],
+        "sem_offered": "Second Semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "8",
+            "Fieldwork / Visits": "10",
+            "Reading / Self-study": "24",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "16",
+            "Assessment: Group project (incl preparation)": "25"
+        },
+        "study_load_total": "125",
+        "ass_dist": {
+            "Lecture and tutorial participation": "15",
+            "Tutorial presentation": "20",
+            "Video": "10",
+            "Worksheet": "20",
+            "Final project": "35"
+        }
+    },
+    "CCST5035": {
+        "course_name": " Making Sense of Science-related Social Issues (Online) ",
+        "sdgs": [
+            "SDG-03",
+            "SDG-09",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures / Seminars / Workshops": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "40",
+            "Assessment: Group project and presentation": "40",
+            "Assessment: Essay / Report writing": "30"
+        },
+        "study_load_total": "144",
+        "ass_dist": {
+            "Participation in classroom activities": "15",
+            "Reflective writing": "20",
+            "Group project and presentation": "25",
+            "Essay": "40"
+        }
+    },
+    "CCGL5022": {
+        "course_name": "Globalization in Question: Human and Economic Consequences (Online)",
+        "sdgs": [],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "60",
+            "Assessment: Essay writing": "24",
+            "Assessment: Presentation (incl preparation)": "12"
+        },
+        "study_load_total": "132",
+        "ass_dist": {
+            "Group Project": "30",
+            "Term paper": "50",
+            "Participation in lectures and tutorials": "20"
+        }
+    },
+    "CCCH9029": {
+        "course_name": "Ideas and Practices of Healing Arts in Traditional Chinese Medicine",
+        "sdgs": [
+            "SDG-03",
+            "SDG-09"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Fieldwork / Visits": "10",
+            "Reading / Self-study": "50",
+            "Assessment: Presentation (incl preparation)": "8",
+            "Assessment: Essay / Reflective writing": "40"
+        },
+        "study_load_total": "140",
+        "ass_dist": {
+            "Tutorials": "20",
+            "Presentation": "20",
+            "Short essay": "25",
+            "Group project": "25",
+            "Field trip": "10"
+        }
+    },
+    "CCST9009": {
+        "course_name": "Living with Stem Cells",
+        "sdgs": [
+            "SDG-03",
+            "SDG-09"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "6",
+            "Laboratory": "6",
+            "Reading / Self-study": "40",
+            "Movie viewing": "4",
+            "Preparation for tutorial activities": "6",
+            "Assessment: Group tasks": "20",
+            "Assessment: Individual tasks": "20"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "Continuous assessment and task focused activities": "40",
+            "Participation in practical sessions": "20",
+            "Group projects": "40"
+        }
+    },
+    "CCHU9042": {
+        "course_name": "Human Language: Nature or Nurture?",
+        "sdgs": [
+            "SDG-03"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "30",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Presentation (incl preparation)": "42"
+        },
+        "study_load_total": "134",
+        "ass_dist": {
+            "Tutorial participation and assignments/discussions": "15",
+            "Review of articles": "20",
+            "Poster, group presentation and/or debate": "40",
+            "Written assignment": "25"
+        }
+    },
+    "CCST9003": {
+        "course_name": "Everyday Computing and the Internet",
+        "sdgs": [
+            "SDG-09",
+            "SDG-16"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "8",
+            "Seminars / Guest lectures": "4",
+            "Reading / Self-study": "40",
+            "Online participation": "10",
+            "Assessment: Online discussions": "20",
+            "Assessment: Group project": "30"
+        },
+        "study_load_total": "134",
+        "ass_dist": {
+            "Lecture participation": "20",
+            "Tutorial participation": "20",
+            "Participation in online activities": "20",
+            "Group project": "40"
+        }
+    },
+    "CCGL9068": {
+        "course_name": "Social Entrepreneurship for Social Impact",
+        "sdgs": [
+            "SDG-10",
+            "SDG-11",
+            "SDG-17"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Workshop / Visits": "3",
+            "Reading / Self-study": "50",
+            "Assessment: Essay / Report writing": "16",
+            "Assessment: Presentation (incl preparation)": "21"
+        },
+        "study_load_total": "122",
+        "ass_dist": {
+            "Group project": "40",
+            "Individual assignment (linked with group project)": "40",
+            "In-class worksheets": "8",
+            "Participation": "12"
+        }
+    },
+    "CCCH9010": {
+        "course_name": "Understanding China\u2019s Governance: Challenges and Prospects",
+        "sdgs": [
+            "SDG-01",
+            "SDG-10",
+            "SDG-11",
+            "SDG-16"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "65",
+            "Assessment: Essay writing": "45",
+            "Assessment: Presentation (incl preparation)": "14"
+        },
+        "study_load_total": "156",
+        "ass_dist": {
+            "Tutorial participation": "25",
+            "Presentation": "10",
+            "Research": "35",
+            "Take-home\u00a0test": "30"
+        }
+    },
+    "CCHU9015": {
+        "course_name": "Sex and Intimacy in Modern Times",
+        "sdgs": [
+            "SDG-03",
+            "SDG-05"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "20",
+            "Assessment: Essay\u00a0writing": "30",
+            "Assessment: Group project / Presentation (incl preparation)": "40",
+            "Assessment: In-class quizzes (incl preparation)": "16"
+        },
+        "study_load_total": "140",
+        "ass_dist": {
+            "Participation in problem-based learning tutorials": "20",
+            "Essay": "25",
+            "Group project and presentation": "35",
+            "In-class quizzes": "20"
+        }
+    },
+    "CCHU9080": {
+        "course_name": "Dead People\u2019s Things: Excavating the Past with Archaeology",
+        "sdgs": [
+            "SDG-08",
+            "SDG-11",
+            "SDG-12"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "20",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Individual assignment": "30",
+            "Assessment: Group project (incl preparation, report writing and presentation)": "30",
+            "Assessment: Peer evaluation": "2"
+        },
+        "study_load_total": "136",
+        "ass_dist": {
+            "Participation in classroom activities": "25",
+            "Case analysis": "20",
+            "Individual mini-project": "25",
+            "Group project": "25",
+            "Peer evaluation": "5"
+        }
+    },
+    "CCGL9036": {
+        "course_name": "Dilemmas of Humanitarian Intervention",
+        "sdgs": [
+            "SDG-16",
+            "SDG-17"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study: Final exam preparation": "100",
+            "Assessment: Examination": "2"
+        },
+        "study_load_total": "136",
+        "ass_dist": {
+            "Participation in lectures and tutorials": "30",
+            "Case study": "30",
+            "Examination": "40"
+        }
+    },
+    "CCCH9061": {
+        "course_name": "Herstory in Motion: Chinese Womanhood through the Lens",
+        "sdgs": [
+            "SDG-05",
+            "SDG-08",
+            "SDG-16"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "36",
+            "Assessment: Presentation (incl preparation)\u00a0": "6",
+            "Assessment: Individual assignment": "6",
+            "Assessment: Group project": "40"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "In-class continuous assessment (discussions, debates, activities)": "30",
+            "Film analysis": "30",
+            "Video essay": "40"
+        }
+    },
+    "CCGL9053": {
+        "course_name": "Suicide: Risks, Research, and Realities",
+        "sdgs": [
+            "SDG-03",
+            "SDG-16"
+        ],
+        "sem_offered": "Section 1 \u2013 First semester (Wed); Section 2 \u2013 Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "30",
+            "Assessment: Presentation (incl preparation)": "24",
+            "Assessment: Essay writing": "24",
+            "Assessment: In-class quizzes (incl preparation)": "10"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Quizzes": "15",
+            "Tutorial participation": "25",
+            "Reflection paper": "35",
+            "Group Project": "25"
+        }
+    },
+    "CCHU9011": {
+        "course_name": "Social Divisions in Contemporary Societies",
+        "sdgs": [
+            "SDG-01",
+            "SDG-03",
+            "SDG-10"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "30",
+            "Assessment: Group presentation (incl preparation)": "20",
+            "Assessment: Essay writing": "20",
+            "Assessment: In-class test (incl preparation)": "20"
+        },
+        "study_load_total": "126",
+        "ass_dist": {
+            "Tutorial participation": "30",
+            "Group presentation": "20",
+            "Individual essay": "30",
+            "In-class test": "20"
+        }
+    },
+    "CCHU9091": {
+        "course_name": "Art and Modernity",
+        "sdgs": [
+            "SDG-03",
+            "SDG-08"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Fieldwork / Visits": "2",
+            "Reading / Self-study": "40",
+            "Assessment: Essay / Report writing": "24",
+            "Assessment: Presentation (incl preparation)": "6",
+            "Assessment: In-class quizzes (incl preparation)": "20"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "Tutorial presentation and discussion": "20",
+            "Photo essay": "20",
+            "Exhibition review": "20",
+            "In-class quizzes": "40"
+        }
+    },
+    "CCHU9013": {
+        "course_name": "Cultural Heritage in the Contemporary World",
+        "sdgs": [
+            "SDG-08",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Seminars / Tutorials": "10",
+            "Reading / Self-study": "20",
+            "Assessment: Individual report on group project": "30",
+            "Assessment: Group presentation (incl preparation)": "40",
+            "Assessment: In-class test (incl preparation)": "8"
+        },
+        "study_load_total": "132",
+        "ass_dist": {
+            "Tutorial participation": "20",
+            "Group project": "50",
+            "In-class test": "30"
+        }
+    },
+    "CCCH9057": {
+        "course_name": "Shaping Health in China",
+        "sdgs": [
+            "SDG-03",
+            "SDG-04",
+            "SDG-08",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "12",
+            "Tutorials": "12",
+            "Seminars": "10",
+            "Reading / Self-study": "26",
+            "Assessment: Essay / Report writing": "40",
+            "Assessment: Presentation (incl preparation)\u00a0": "40"
+        },
+        "study_load_total": "140",
+        "ass_dist": {
+            "Class participation": "30",
+            "Group project": "40",
+            "Reflective report": "30"
+        }
+    },
+    "CCST9064": {
+        "course_name": "The World Changed by DNA",
+        "sdgs": [
+            "SDG-03",
+            "SDG-09"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "8",
+            "Film viewing": "2",
+            "Reading / Self-study": "25",
+            "Assessment: Group project": "30",
+            "Assessment: Presentation (incl preparation)": "30",
+            "Assessment: In-class quizzes (incl preparation)": "10"
+        },
+        "study_load_total": "127",
+        "ass_dist": {
+            "Video essay": "40",
+            "Individual presentation": "25",
+            "In-class quizzes": "20",
+            "Tutorial participation": "15"
+        }
+    },
+    "CCHU9062": {
+        "course_name": "Buddhist Visions in World Cinema",
+        "sdgs": [
+            "SDG-03",
+            "SDG-12"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Film viewing": "18",
+            "Reading / Self-study": "40",
+            "Assessment: Essay writing": "25",
+            "Assessment: Group project": "15",
+            "Assessment: Quiz (incl preparation)": "8"
+        },
+        "study_load_total": "140",
+        "ass_dist": {
+            "Participation in lectures and tutorials": "25",
+            "Critical essay": "35",
+            "Group project": "15",
+            "Quiz": "25"
+        }
+    },
+    "CCHU9090": {
+        "course_name": "Love, Morality, and the Meaning of Human Relationships",
+        "sdgs": [
+            "SDG-03",
+            "SDG-09"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "36",
+            "Assessment: Essay / Report writing": "36",
+            "Assessment: Presentation (incl preparation)": "6",
+            "Assessment: In-class assessments": "12"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "Tutorial participation": "10",
+            "In-class discussion": "10",
+            "Reflective writing": "30",
+            "In-class presentation": "20",
+            "Final essay": "30"
+        }
+    },
+    "CCGL9026": {
+        "course_name": "Think Global, Act Local: You, Hong Kong, and the World",
+        "sdgs": [
+            "SDG-09",
+            "SDG-11",
+            "SDG-13"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "60",
+            "Assessment: Fieldtrip reflection": "10",
+            "Assessment: Individual assignment": "14",
+            "Assessment: Group project": "20"
+        },
+        "study_load_total": "140",
+        "ass_dist": {
+            "Class participation": "10",
+            "Reflection writing": "30",
+            "Individual assessment: Written opinion piece": "30",
+            "Group project": "30"
+        }
+    },
+    "CCHU9019": {
+        "course_name": "From Health to Well-being",
+        "sdgs": [
+            "SDG-03"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures / Seminars / Workshops": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "24",
+            "Preparation for tutorial activities": "20",
+            "Assessment: Project assignments": "50"
+        },
+        "study_load_total": "128",
+        "ass_dist": {
+            "Project": "55",
+            "Workshop": "10",
+            "Tutorial exercises": "25",
+            "In-class assessments": "10"
+        }
+    },
+    "CCCH9066": {
+        "course_name": "Buddhist Art and Cultural Integration in Asia",
+        "sdgs": [
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Fieldwork / Visits": "3",
+            "Reading / Self-study": "40",
+            "Assessment: Essay / Report writing": "25",
+            "Assessment: Presentation (incl preparation)": "15",
+            "Assessment: Quiz (incl preparation)": "5"
+        },
+        "study_load_total": "122",
+        "ass_dist": {
+            "Class participation": "20",
+            "Essay": "35",
+            "Group presentation": "25",
+            "Quiz": "10",
+            "Fieldwork/ Visits": "10"
+        }
+    },
+    "CCAI9006": {
+        "course_name": "AI and the Bio-Revolution",
+        "sdgs": [
+            "SDG-03",
+            "SDG-09"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "18",
+            "Tutorials": "10",
+            "Seminars": "6",
+            "Reading / Self-study": "40",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Project": "30",
+            "Assessment: Presentation (incl preparation)\u00a0": "4",
+            "Assessment: In-class test": "2"
+        },
+        "study_load_total": "130",
+        "ass_dist": {
+            "In-class assessments": "20",
+            "In-class discussion and debate": "20",
+            "Research project": "30",
+            "Final test": "30"
+        }
+    },
+    "CCAI9020": {
+        "course_name": "AI, Health and Me",
+        "sdgs": [
+            "SDG-03",
+            "SDG-08"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "18",
+            "Tutorials": "12",
+            "Seminars": "6",
+            "Fieldwork / Visits": "18",
+            "Reading / Self-study": "16",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "20",
+            "Assessment: Group project": "10"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Essay": "30",
+            "Group Project": "25",
+            "Group presentation": "25",
+            "Field visit report": "20"
+        }
+    },
+    "CCGL9016": {
+        "course_name": "Feeding the World",
+        "sdgs": [
+            "SDG-01",
+            "SDG-02",
+            "SDG-12"
+        ],
+        "sem_offered": "First semester (Sat)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Seminars": "6.5",
+            "Reading / Self-study": "40",
+            "Assessment: Essay / Report writing": "12",
+            "Assessment: Presentation (incl preparation)": "40",
+            "Assessment: In-class test": "1.5"
+        },
+        "study_load_total": "136",
+        "ass_dist": {
+            "Quizzes / Participation": "10",
+            "Short writing assignments": "10",
+            "In-class test": "40",
+            "Group project and presentation": "40"
+        }
+    },
+    "CCGL9010": {
+        "course_name": "Sports Culture under Global Capitalism",
+        "sdgs": [],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "26",
+            "Tutorials": "11",
+            "Reading / Self-study": "48",
+            "Assessment: Essay / Report writing": "52"
+        },
+        "study_load_total": "137",
+        "ass_dist": {
+            "Tutorial participation": "20",
+            "Mid-term essay": "30",
+            "Group project and presentation": "20",
+            "Project report": "30"
+        }
+    },
+    "CCST5037": {
+        "course_name": "Mathematics: A Cultural Heritage (Online)",
+        "sdgs": [
+            "SDG-04",
+            "SDG-09"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "60",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Written assignments": "20"
+        },
+        "study_load_total": "144",
+        "ass_dist": {
+            "In-class worksheets": "10",
+            "Tutorial discussion": "20",
+            "Written assignments": "30",
+            "Group project and presentation": "40"
+        }
+    },
+    "CCHU9033": {
+        "course_name": "Countries of the Mind: Texts that Shape the World",
+        "sdgs": [
+            "SDG-11",
+            "SDG-13"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "50",
+            "Film viewing": "4",
+            "Assessment: Written assignments": "40"
+        },
+        "study_load_total": "128",
+        "ass_dist": {
+            "Journal writing": "30",
+            "Oral participation": "20",
+            "Critical writing": "50"
+        }
+    },
+    "CCST9076": {
+        "course_name": "Attention Magnet: The Psychological and Technological Aspects of Social Media Addiction",
+        "sdgs": [],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "35",
+            "Assessment: Essay / Report writing": "10",
+            "Assessment: Presentation (incl preparation)": "5",
+            "Assessment: Debate/Role play (incl preparation)": "45",
+            "Assessment: Online forum": "5"
+        },
+        "study_load_total": "132",
+        "ass_dist": {
+            "Reflective writing": "30",
+            "Debates": "15",
+            "Tutorial discussion": "15",
+            "Group project": "40"
+        }
+    },
+    "CCHU9044": {
+        "course_name": "Creative Arts as a Way of Knowing",
+        "sdgs": [
+            "SDG-03",
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Fieldwork / Visits": "4",
+            "Reading / Self-study": "20",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "30",
+            "Assessment: Quiz (incl preparation)": "10"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Participation in lectures and tutorials": "20",
+            "Quiz": "20",
+            "Essay": "30",
+            "Project": "30"
+        }
+    },
+    "CCCH9051": {
+        "course_name": "Digitizing Cultural Heritage in Greater China",
+        "sdgs": [
+            "SDG-04",
+            "SDG-09",
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "11",
+            "Fieldwork / Visits": "4",
+            "Reading / Self-study": "35",
+            "Assessment: VR story creation": "12",
+            "Assessment: In-class assignment": "9",
+            "Assessment: Group project": "35"
+        },
+        "study_load_total": "130",
+        "ass_dist": {
+            "Continuous assessment and task focused activities": "25",
+            "Virtual reality story": "40",
+            "Group project": "35"
+        }
+    },
+    "CCCH9032": {
+        "course_name": "Sports and Chinese Society",
+        "sdgs": [
+            "SDG-04",
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "60",
+            "Film viewing": "15",
+            "Internet search": "15",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "12"
+        },
+        "study_load_total": "156",
+        "ass_dist": {
+            "Tutorials (discussion, presentation, debate)": "30",
+            "Short essay": "40",
+            "Film viewing and internet search": "30"
+        }
+    },
+    "CCHU9096": {
+        "course_name": "From Malthus to Modernity: A Global History of Economic Growth",
+        "sdgs": [
+            "SDG-01",
+            "SDG-03",
+            "SDG-05",
+            "SDG-08",
+            "SDG-10",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "34",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Presentation (incl preparation)": "20"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Lecture and tutorial participation": "10",
+            "Reflective writing": "20",
+            "Group presentation": "30",
+            "In-class assessments": "40"
+        }
+    },
+    "CCGL9001": {
+        "course_name": "Hong Kong Cinema through a Global Lens",
+        "sdgs": [
+            "SDG-08",
+            "SDG-11"
+        ],
+        "sem_offered": "Course will be offered twice:\nSection 1 \u2013 First semester (Wed); Section 2 \u2013 Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "48",
+            "Film viewings": "36",
+            "Assessment: Essay / Report writing": "21",
+            "Assessment: Presentation (incl preparation)": "10"
+        },
+        "study_load_total": "149",
+        "ass_dist": {
+            "Video tests": "60",
+            "Group presentation (with report)": "30",
+            "Participation in lectures and tutorials": "10"
+        }
+    },
+    "CCCH9042": {
+        "course_name": "Corruption and Anticorruption in China",
+        "sdgs": [
+            "SDG-08",
+            "SDG-16"
+        ],
+        "sem_offered": "Second Semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "26",
+            "Tutorials": "10",
+            "Reading / Self-study": "55",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "4",
+            "Assessment: Group project": "40"
+        },
+        "study_load_total": "155",
+        "ass_dist": {
+            "Lecture participation": "10",
+            "Tutorial participation": "30",
+            "Response essays": "20",
+            "Group research project": "40"
+        }
+    },
+    "CCGL5048": {
+        "course_name": "Global Crime and Injustice (Online)",
+        "sdgs": [
+            "SDG-03",
+            "SDG-11",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "25",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Debate": "20",
+            "Assessment: Group project": "40"
+        },
+        "study_load_total": "149",
+        "ass_dist": {
+            "Problem-based learning sessions": "30",
+            "Individual self-reflection portfolio": "30",
+            "Group project": "40"
+        }
+    },
+    "CCCH9012": {
+        "course_name": "China and World Order",
+        "sdgs": [],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "45",
+            "Preparation of tutorials": "15",
+            "Assessment: Essay writing": "24",
+            "Assessment: Presentation (incl preparation)": "8",
+            "Assessment: In-class test (incl preparation)": "10"
+        },
+        "study_load_total": "138",
+        "ass_dist": {
+            "Tutorials": "20",
+            "Class participation": "10",
+            "Group presentation": "10",
+            "Short essays": "30",
+            "In-class test": "30"
+        }
+    },
+    "CCST9083": {
+        "course_name": "Earth as Seen by Satellite",
+        "sdgs": [
+            "SDG-02",
+            "SDG-06",
+            "SDG-10",
+            "SDG-11",
+            "SDG-13",
+            "SDG-14",
+            "SDG-15"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Seminars": "5",
+            "Laboratory": "6",
+            "Reading / Self-study": "24",
+            "Case studies": "15",
+            "Assessment: Essay / Report writing": "15",
+            "Assessment: Presentation (incl preparation)": "25",
+            "Assessment: In-class quizzes": "4",
+            "Assessment: Peer evaluation": "10"
+        },
+        "study_load_total": "138",
+        "ass_dist": {
+            "Group project": "40",
+            "Essay": "40",
+            "In-class quizzes": "20"
+        }
+    },
+    "CCST9088": {
+        "course_name": "Cosmic Frontiers: How Discoveries are Made and their Scientific Impact",
+        "sdgs": [
+            "SDG-04",
+            "SDG-13",
+            "SDG-14",
+            "SDG-15"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Seminars": "2",
+            "Fieldwork / Visits": "5",
+            "Reading / Self-study": "50",
+            "Demonstrations": "1",
+            "Assessment: Essay / Report writing": "15",
+            "Assessment: Assignments": "16",
+            "Assessment: In-class quizzes": "1.5"
+        },
+        "study_load_total": "126.5",
+        "ass_dist": {
+            "In-class quizzes": "40",
+            "Essay": "10",
+            "Field trip report": "10",
+            "Assignments": "32",
+            "Data analysis": "8"
+        }
+    },
+    "CCHU9079": {
+        "course_name": "Art, Performance, Sexuality and Cities",
+        "sdgs": [
+            "SDG-05",
+            "SDG-08"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "20",
+            "Tutorials": "10",
+            "Film and video viewing": "8",
+            "Fieldwork / Visits": "6",
+            "Reading / Self-study": "20",
+            "Online course material": "4",
+            "Assessment: Essay / Report writing": "10",
+            "Assessment: Group project / Presentation (incl preparation)": "58"
+        },
+        "study_load_total": "136",
+        "ass_dist": {
+            "Field report": "20",
+            "Participation in classroom activities": "10",
+            "Reflective journal": "30",
+            "Group work": "40"
+        }
+    },
+    "CCHU9045": {
+        "course_name": "Vision: The Science and Art of Perception",
+        "sdgs": [
+            "SDG-03",
+            "SDG-05"
+        ],
+        "sem_offered": "Course will be offered twice:\nSection 1 \u2013 First semester (Wed); Section 2 \u2013 Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "40",
+            "Finding materials from the Internet/magazines,\nnewspapers or books": "10",
+            "Assessment: Reflective writing": "6",
+            "Assessment: Essay writing": "20",
+            "Assessment: Presentation": "16"
+        },
+        "study_load_total": "128",
+        "ass_dist": {
+            "Essay": "40",
+            "In-class presentation": "30",
+            "Class discussion": "15",
+            "Reflective writing": "15"
+        }
+    },
+    "CCGL9078": {
+        "course_name": "Games in Everyday Life: Exploring Game Theory, Behavioural Finance and Global Issues",
+        "sdgs": [
+            "SDG-11"
+        ],
+        "sem_offered": "Course will be offered twice:",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "30",
+            "Assessment: Essay / Report writing": "25",
+            "Assessment: Presentation (incl preparation)": "30",
+            "Assessment: In-class test": "1"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "In-class quizzes": "30",
+            "Tutorial participation": "20",
+            "Reflection paper": "20",
+            "Group project and audio-visual presentation": "30"
+        }
+    },
+    "CCGL9042": {
+        "course_name": "The Evolution of Civilization",
+        "sdgs": [
+            "SDG-07",
+            "SDG-09",
+            "SDG-13"
+        ],
+        "sem_offered": "Course will be offered twice",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "64",
+            "Assessment: Presentation (incl preparation)": "20"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Class discussion": "30",
+            "Presentation": "40",
+            "In-class quizzes": "30"
+        }
+    },
+    "CCCH9007": {
+        "course_name": "China in the Global Economy",
+        "sdgs": [
+            "SDG-08",
+            "SDG-09",
+            "SDG-11"
+        ],
+        "sem_offered": "Course will be offered twice:\nSection 1 \u2013 First semester (Wed); Section 2 \u2013 Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study and preparation for tutorials": "50",
+            "Assessment: Problem sets (incl preparation)": "20",
+            "Assessment: Presentation (incl preparation)": "18"
+        },
+        "study_load_total": "122",
+        "ass_dist": {
+            "Participation": "20",
+            "Problem sets": "50",
+            "Group presentation": "30"
+        }
+    },
+    "CCAI9018": {
+        "course_name": "The Memeing of Life: Metaphor and Meaning in the AI Era",
+        "sdgs": [
+            "SDG-03"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "36",
+            "Independent preparation for assessments": "12",
+            "Assessment: Writing assignments": "12",
+            "Assessment: Presentation (incl preparation)\u00a0": "12",
+            "Assessment: Group discussion": "12"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Tutorial participation and assignments/discussions": "10",
+            "In-class discussion": "10",
+            "Short writing assignments": "30",
+            "Individual projects": "25",
+            "Discussion forum": "25"
+        }
+    },
+    "CCHU9084": {
+        "course_name": "The Law in Everyday Life",
+        "sdgs": [
+            "SDG-04",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study / Preparation for tutorials": "60",
+            "Online course materials": "4",
+            "Film viewing": "2",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "10"
+        },
+        "study_load_total": "130",
+        "ass_dist": {
+            "Essay": "50",
+            "Video production": "30",
+            "Tutorial participation": "20"
+        }
+    },
+    "CCHU9053": {
+        "course_name": "Contested Words, Disputed Symbols",
+        "sdgs": [
+            "SDG-05",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "80",
+            "Assessment: Essay / Report writing": "15",
+            "Assessment: Presentation (incl preparation)": "15"
+        },
+        "study_load_total": "142",
+        "ass_dist": {
+            "Tutorial participation and discussion": "25",
+            "Reflective writing": "35",
+            "Case Study": "40"
+        }
+    },
+    "CCGL9084": {
+        "course_name": "Navigating Your Life: Population Health Challenges and Solutions Around the World",
+        "sdgs": [
+            "SDG-01",
+            "SDG-03",
+            "SDG-10"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "20",
+            "Tutorials": "6",
+            "Panel discussion": "4",
+            "Workshop / Seminars": "6",
+            "Fieldwork / Visits": "10",
+            "Reading / Self-study": "45",
+            "Assessment: Group project and presentation\u00a0": "25",
+            "Assessment: In-class test (incl preparation)": "12"
+        },
+        "study_load_total": "128",
+        "ass_dist": {
+            "In-class quizzes": "20",
+            "Tutorial participation": "40",
+            "Group project proposal": "10",
+            "Group project presentation": "30"
+        }
+    },
+    "CCST9081": {
+        "course_name": "All You\u2019ve Ever Wanted to Know About Humans",
+        "sdgs": [
+            "SDG-03",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Fieldwork / Visits": "8",
+            "Reading / Self-study": "18",
+            "Assessment: Assignments": "35",
+            "Assessment: Essay / Report writing": "18",
+            "Assessment: Presentation (incl preparation)": "20"
+        },
+        "study_load_total": "135",
+        "ass_dist": {
+            "Participation in classroom activities": "10",
+            "Assignments": "40",
+            "Public exhibition": "50"
+        }
+    },
+    "CCST9014": {
+        "course_name": "Science and Music",
+        "sdgs": [
+            "SDG-03"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "50",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "15",
+            "Assessment: In-class test (incl preparation)": "20"
+        },
+        "study_load_total": "137",
+        "ass_dist": {
+            "In-class test": "40",
+            "Project": "30",
+            "Group project presentation": "30"
+        }
+    },
+    "CCST9027": {
+        "course_name": "The Science of Irrational Thinking",
+        "sdgs": [
+            "SDG-03",
+            "SDG-08",
+            "SDG-12"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "12",
+            "Reading / Self-study": "80",
+            "Assessment: Quizzes": "5",
+            "Assessment: Mid term test": "2",
+            "Assessment: Examination": "3"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "Weekly study questions": "15",
+            "Tutorial exercises": "20",
+            "Midterm test": "30",
+            "Examination": "35"
+        }
+    },
+    "CCST9032": {
+        "course_name": "\u201cIntelligent\u201d Architecture and Sustainability",
+        "sdgs": [
+            "SDG-07",
+            "SDG-09",
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Seminars": "4",
+            "Fieldwork / Visits": "8",
+            "Reading / Self-study": "40",
+            "Assessment: Essay / Report writing": "12",
+            "Assessment: Presentation (incl preparation)": "18",
+            "Assessment: Homework assignments": "18"
+        },
+        "study_load_total": "132",
+        "ass_dist": {
+            "Short paper assignments": "40",
+            "Group assignment activity and presentation": "35",
+            "Individual final report": "25"
+        }
+    },
+    "CCHU9049": {
+        "course_name": "Reinventing Classical Music",
+        "sdgs": [
+            "SDG-03",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "45",
+            "Fieldwork / Visits": "4",
+            "Assessment: Essay / Report writing": "45"
+        },
+        "study_load_total": "130",
+        "ass_dist": {
+            "Project": "25",
+            "Journal writing": "50",
+            "Participation in tutorial discussions": "25"
+        }
+    },
+    "CCGL9057": {
+        "course_name": "Work: From Factory Floor to Our Robot Future",
+        "sdgs": [],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "38",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Presentation (incl preparation)": "20"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Meeting participation": "25",
+            "Mid-term essay": "40",
+            "Final project": "35"
+        }
+    },
+    "CCCH9023": {
+        "course_name": "Family and Development in Modern China",
+        "sdgs": [
+            "SDG-03",
+            "SDG-08",
+            "SDG-10",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "40",
+            "Assessment: Group project": "30",
+            "Assessment: Presentation (incl preparation)": "20",
+            "Assessment: Term paper": "30"
+        },
+        "study_load_total": "152",
+        "ass_dist": {
+            "Tutorial participation": "15",
+            "In-class quizzes": "20",
+            "Group project and presentation": "25",
+            "Individual assignments": "40"
+        }
+    },
+    "CCCH5017": {
+        "course_name": "People, Propaganda and Profit: Understanding Media in China (Online)",
+        "sdgs": [
+            "SDG-09",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "26",
+            "Assessment: Essay / Report writing": "50",
+            "Assessment: Presentation (incl preparation)": "20"
+        },
+        "study_load_total": "130",
+        "ass_dist": {
+            "Project": "25",
+            "Written assignment": "30",
+            "Tutorial presentation and participation": "45"
+        }
+    },
+    "CCCH9019": {
+        "course_name": "Emperors",
+        "sdgs": [],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "39",
+            "Film viewing and internet search": "22",
+            "Assessment:\u00a0In-class quizzes (incl preparation)\u00a0": "12",
+            "Assessment: Presentation (incl preparation)": "16"
+        },
+        "study_load_total": "121",
+        "ass_dist": {
+            "Class participation and weekly discussion questions": "30",
+            "Tutorial exercises": "30",
+            "In-class quizzes": "40"
+        }
+    },
+    "CCHU9075": {
+        "course_name": "Buddhist Architecture: Monasteries in Cross-Cultural Developments",
+        "sdgs": [
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "20",
+            "Tutorials": "10",
+            "Fieldwork / Visits": "10",
+            "Reading / Self-study": "20",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Presentation (incl preparation)": "30"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "In-class quizzes": "20",
+            "In-class participation": "20",
+            "Project presentation": "30",
+            "Field trip report": "10",
+            "Final essay": "20"
+        }
+    },
+    "CCCH9031": {
+        "course_name": "Property Rights, Built Heritage and Sustainable Development in Hong Kong",
+        "sdgs": [
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Sat)",
+        "study_load_dist": {
+            "Lectures": "7.5",
+            "Tutorials": "8",
+            "Fieldwork / Visits": "20",
+            "Reading / Self-study": "50",
+            "Assessment: Worksheets": "12",
+            "Assessment: Group project presentation (incl preparation)": "23"
+        },
+        "study_load_total": "120.5",
+        "ass_dist": {
+            "Participation": "20",
+            "Group project": "40",
+            "Worksheets": "40"
+        }
+    },
+    "CCCH9068": {
+        "course_name": "Models of Reality at the Crossroads of East and West",
+        "sdgs": [
+            "SDG-03",
+            "SDG-09",
+            "SDG-16"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials \u00a0(i.e. small group face-to-face discussions)\u00a0": "10",
+            "Reading / Self-study": "36",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Presentation (incl preparation)": "30",
+            "Assessment: In-class quizzes": "4"
+        },
+        "study_load_total": "134",
+        "ass_dist": {
+            "Class participation": "10",
+            "Group presentation": "20",
+            "In-class quizzes": "40",
+            "Final Paper": "30"
+        }
+    },
+    "CCST9023": {
+        "course_name": "The Oceans: Science and Society",
+        "sdgs": [
+            "SDG-11",
+            "SDG-13",
+            "SDG-14"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "8",
+            "Fieldwork / Visits": "8",
+            "Reading / Self-study": "50",
+            "Assessment: Essay / Laboratory report writing": "5",
+            "Assessment: Debate presentation (incl preparation)": "25",
+            "Assessment: Group project (incl preparation)": "25"
+        },
+        "study_load_total": "143",
+        "ass_dist": {
+            "Laboratory": "40",
+            "Group project": "30",
+            "Mini debate": "15",
+            "Participation in classroom activities": "15"
+        }
+    },
+    "CCCH9037": {
+        "course_name": "Chinese Mythology",
+        "sdgs": [
+            "SDG-05",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "54",
+            "Assessment: Essay / Report writing": "40",
+            "Assessment: Presentation (incl preparation)": "20"
+        },
+        "study_load_total": "150",
+        "ass_dist": {
+            "Presentation": "40",
+            "Tutorial discussion": "10",
+            "Written report": "50"
+        }
+    },
+    "CCHU9006": {
+        "course_name": "Girl Power in a Man\u2019s World",
+        "sdgs": [
+            "SDG-03",
+            "SDG-04",
+            "SDG-05"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Fieldwork / Visits": "8",
+            "Reading / Self-study": "35",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Group project and presentation": "30"
+        },
+        "study_load_total": "139",
+        "ass_dist": {
+            "Reflective writing": "30",
+            "Group project": "30",
+            "In-class assessments": "40"
+        }
+    },
+    "CCGL9070": {
+        "course_name": "The Making of Cities and Societies",
+        "sdgs": [
+            "SDG-03",
+            "SDG-08",
+            "SDG-09",
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "9",
+            "Field visit": "5",
+            "Reading / Self-study": "34",
+            "Assessment: Essay / Report writing": "25",
+            "Assessment: Group project and presentation\u00a0\u00a0": "25"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Participation in lectures and tutorials": "10",
+            "Short essays": "20",
+            "Group research project": "40",
+            "Individual essay": "30"
+        }
+    },
+    "CCST9056": {
+        "course_name": "The Force is with You: How Things Work",
+        "sdgs": [
+            "SDG-09",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "8",
+            "Seminars": "2",
+            "Demonstrations": "3",
+            "Reading / Self-study": "40",
+            "Assessment: Essay / Report writing": "15",
+            "Assessment: Presentation (incl preparation)": "30",
+            "Assessment: In-class tests (incl preparation)": "30"
+        },
+        "study_load_total": "150",
+        "ass_dist": {
+            "Case study": "30",
+            "Group presentation": "25",
+            "Tutorial participation and performance": "10",
+            "In-class tests": "35"
+        }
+    },
+    "CCGL9066": {
+        "course_name": "Music and Global Politics: From Beethoven to Beyonc\u00e9 and Beyond",
+        "sdgs": [
+            "SDG-03",
+            "SDG-10",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "38",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Presentation (incl preparation)": "20",
+            "Assessment: In-class quizzes": "20"
+        },
+        "study_load_total": "142",
+        "ass_dist": {
+            "In-class quizzes": "10",
+            "Individual portfolio": "20",
+            "Project": "20",
+            "Group project and presentation": "10",
+            "Case study": "10",
+            "Participation in lectures and tutorials": "30"
+        }
+    },
+    "CCST9051": {
+        "course_name": "What are We Made of \u2013 the Fundamental Nature of Matter",
+        "sdgs": [
+            "SDG-09",
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "9",
+            "Reading / Self-study": "40",
+            "Assessment: Assignments (incl preparation)": "20",
+            "Assessment: Presentation (incl preparation)": "34",
+            "Assessment: In-class test": "2"
+        },
+        "study_load_total": "127",
+        "ass_dist": {
+            "Assignments": "20",
+            "Pre-project presentation": "5",
+            "Project presentation": "20",
+            "Project write-up": "10",
+            "Peer-review of group project presentation": "5",
+            "In-class test": "40"
+        }
+    },
+    "CCST9080": {
+        "course_name": "FinTech: Financial Inclusion, Emerging Markets, and Social Value",
+        "sdgs": [
+            "SDG-08",
+            "SDG-10",
+            "SDG-17"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Seminars": "7.5",
+            "Reading / Self-study": "60",
+            "Assessment: Assignments": "4.5",
+            "Assessment: Essay / Report writing": "10",
+            "Assessment: Group project": "20"
+        },
+        "study_load_total": "134",
+        "ass_dist": {
+            "Tutorial participation": "10",
+            "Essay / Report writing": "30",
+            "Group project": "40",
+            "Assignments": "20"
+        }
+    },
+    "CCAI9031": {
+        "course_name": "Big Data and AI Solutions to Social Problems",
+        "sdgs": [
+            "SDG-03",
+            "SDG-09"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "20",
+            "Group projects and case studies": "30",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "20"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "Tutorial exercises": "20",
+            "Group project": "30",
+            "In-class quizzes": "20",
+            "Critique essay": "30"
+        }
+    },
+    "CCAI9001": {
+        "course_name": "Brain, Buddhism, and AI",
+        "sdgs": [
+            "SDG-09"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Fieldwork / Visits": "10",
+            "Reading / Self-study": "60",
+            "Assessment: Weekly assignment\u00a0": "12",
+            "Assessment: Group project": "10",
+            "Assessment: In-class test": "1"
+        },
+        "study_load_total": "129",
+        "ass_dist": {
+            "Quizzes": "40",
+            "Participation in classroom activities": "20",
+            "Group YouTube project/presentation": "40"
+        }
+    },
+    "CCCH5054": {
+        "course_name": "Mothering China: From the Womb to the Nation (Online)",
+        "sdgs": [
+            "SDG-03",
+            "SDG-05",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "38",
+            "Assessment: Writing assignments": "30",
+            "Assessment: Group project and presentation (incl preparation)": "20"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Tutorial presentations and debates": "40",
+            "In-class assessments": "20",
+            "Podcast": "40"
+        }
+    },
+    "CCAI9035": {
+        "course_name": "History in the Machine: Can AI Simulate Human Civilizations?",
+        "sdgs": [
+            "SDG-09",
+            "",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "24",
+            "Assessment: Essay / Report writing": "25",
+            "Assessment: Presentation (incl preparation)": "40"
+        },
+        "study_load_total": "125",
+        "ass_dist": {
+            "Lecture participation": "15",
+            "Tutorial participation": "15",
+            "Reflective writing": "30",
+            "Group project and presentation": "40"
+        }
+    },
+    "CCST9089": {
+        "course_name": "Nutrition, Well-being and Society",
+        "sdgs": [
+            "SDG-03"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "10",
+            "Fieldwork / Visits": "6",
+            "Reading / Self-study": "60",
+            "Assessment: Reflective writing": "10",
+            "Assessment: Presentation (incl preparation)": "20"
+        },
+        "study_load_total": "128",
+        "ass_dist": {
+            "Tutorial presentation": "20",
+            "Tutorial participation": "20",
+            "In-class assessment": "10",
+            "Group project and presentation": "30",
+            "Reflective journal": "20"
+        }
+    },
+    "CCHU9081": {
+        "course_name": "Urban Legend: Fact, Myth and Reinterpretation",
+        "sdgs": [
+            "SDG-03"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "8",
+            "Fieldwork / Visits": "6",
+            "Reading / Self-study": "45",
+            "Assessment: Reflective journal": "6",
+            "Assessment: Field report writing": "6",
+            "Assessment: Group project": "32"
+        },
+        "study_load_total": "125",
+        "ass_dist": {
+            "Tutorial participation": "10",
+            "In-class assessments": "15",
+            "Field visit reports": "35",
+            "Group project": "40"
+        }
+    },
+    "CCCH9006": {
+        "course_name": "China\u2019s Modernization in the East Asian Context",
+        "sdgs": [
+            "SDG-08",
+            "SDG-11",
+            "SDG-16"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "42",
+            "Assessment: Tutorial participation": "8",
+            "Assessment: Group presentation (incl preparation)": "20",
+            "Assessment: In-class quizzes (incl preparation)": "36"
+        },
+        "study_load_total": "138",
+        "ass_dist": {
+            "Tutorial participation and assignments/discussions": "20",
+            "Group presentation": "20",
+            "In-class quizzes": "60"
+        }
+    },
+    "CCHU9052": {
+        "course_name": "The Best Things in Life: A Philosophical Exploration",
+        "sdgs": [
+            "SDG-03",
+            "SDG-10",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "20",
+            "Tutorials": "8",
+            "Reading / Self-study": "50",
+            "Assessment: Essay / Report writing": "60"
+        },
+        "study_load_total": "138",
+        "ass_dist": {
+            "Tutorial participation": "20",
+            "Group presentation": "20",
+            "Short essays": "40",
+            "Video production": "20"
+        }
+    },
+    "CCGL9024": {
+        "course_name": "The Life and Death of Languages: Diversity, Identity and Globalization",
+        "sdgs": [
+            "SDG-04",
+            "SDG-10",
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "48",
+            "Independent research and fact-finding tasks": "6",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "20"
+        },
+        "study_load_total": "128",
+        "ass_dist": {
+            "Essay": "40",
+            "Group project": "40",
+            "Tutorial participation": "20"
+        }
+    },
+    "CCST9091": {
+        "course_name": "Unveiling Science and Technology in Cinema: Past, Present, and Future",
+        "sdgs": [
+            "SDG-09"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "8",
+            "Reading / Self-study": "50",
+            "Assessment: Video production": "30",
+            "Assessment: Discussion, debate, presentation (incl preparation)": "10",
+            "Assessment: Reflective journal (incl preparation)": "10"
+        },
+        "study_load_total": "130",
+        "ass_dist": {
+            "Class participation and tutorial discussions": "40",
+            "Group presentation": "30",
+            "Reflective Journal": "30"
+        }
+    },
+    "CCGL9002": {
+        "course_name": "Hong Kong Culture in the Context of Globalization",
+        "sdgs": [
+            "SDG-05",
+            "SDG-10",
+            "SDG-11"
+        ],
+        "sem_offered": "First Semester (Wednesday)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "48",
+            "Assessment: Group project": "10",
+            "Assessment: Essay / Report writing": "5",
+            "Assessment: Presentation (incl preparation)": "8",
+            "Assessment: In-class test (incl preparation)": "20"
+        },
+        "study_load_total": "125",
+        "ass_dist": {
+            "Mid-term test": "15",
+            "Final test": "25",
+            "Individual report on group project": "10",
+            "Group project": "30",
+            "Tutorial participation, discussion, presentations": "20"
+        }
+    },
+    "CCST9045": {
+        "course_name": "The Science and Lore of Culinary Culture",
+        "sdgs": [
+            "SDG-02",
+            "SDG-03"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "8",
+            "Laboratory experience": "6",
+            "Reading / Self-study": "30",
+            "Assessment: Lab report": "4",
+            "Assessment: Project (incl preparation)": "30",
+            "Assessment: In-class assignment": "10",
+            "Assessment: Journal": "10",
+            "Assessment: Quiz (incl preparation)": "20"
+        },
+        "study_load_total": "140",
+        "ass_dist": {
+            "Project": "30",
+            "Participation": "15",
+            "Laboratory report": "5",
+            "Quizzes": "30",
+            "Individual student journal": "20"
+        }
+    },
+    "CCAI9023": {
+        "course_name": "Real Harm in an Unreal World: Crime, Regulation and AI",
+        "sdgs": [
+            "SDG-11",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "50",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "20"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "In-class tests": "40",
+            "Essay": "30",
+            "Class participation": "5",
+            "Reading assignments": "5",
+            "Tutorial presentation": "20"
+        }
+    },
+    "CCCH9064": {
+        "course_name": "Exploring Chinese Tea: A Confluence of Art, Science, and Cultural Heritage",
+        "sdgs": [
+            "SDG-03",
+            "SDG-08",
+            "SDG-15"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Fieldwork / Visits": "16",
+            "Reading / Self-study": "30",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Presentation (incl preparation)\u00a0": "24"
+        },
+        "study_load_total": "132",
+        "ass_dist": {
+            "Lecture and tutorial participation": "20",
+            "Field Trip Reflection": "20",
+            "Podcast": "30",
+            "Group presentation of research poster": "30"
+        }
+    },
+    "CCAI9013": {
+        "course_name": "Emotions and AI: Bridging Technology and Human Experience",
+        "sdgs": [
+            "SDG-03"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "20",
+            "Tutorials": "8",
+            "Experiential learning activity": "6",
+            "Reading / Self-study": "50",
+            "Assessment: Mini-project": "6",
+            "Assessment: In-class quizzes": "1",
+            "Assessment: Presentation (incl preparation)\u00a0": "40"
+        },
+        "study_load_total": "131",
+        "ass_dist": {
+            "Mini project": "25",
+            "Group presentation": "30",
+            "In-class quizzes": "20",
+            "Participation in classroom activities": "25"
+        }
+    },
+    "CCAI9030": {
+        "course_name": "Robot: Flesh, Machines, Intelligence",
+        "sdgs": [
+            "SDG-09"
+        ],
+        "sem_offered": "First Semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "20",
+            "Tutorials": "8",
+            "Laboratory demonstrations": "4",
+            "Reading / Self-study": "32",
+            "Assessment: Essay / Report writing": "40",
+            "Assessment: Presentation (incl preparation)": "47"
+        },
+        "study_load_total": "151",
+        "ass_dist": {
+            "Essay": "40",
+            "Tutorial participation": "10",
+            "In-class assessment": "10",
+            "Group project and presentation": "40"
+        }
+    },
+    "CCST9077": {
+        "course_name": "The Quantum Revolution: From Secret Codes to Black Holes",
+        "sdgs": [
+            "SDG-08",
+            "SDG-09"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "9",
+            "Reading / Self-study": "65",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Quizzes": "2"
+        },
+        "study_load_total": "130",
+        "ass_dist": {
+            "Mid-term essay": "20",
+            "Quizzes": "30",
+            "Class participation": "10",
+            "Final project": "40"
+        }
+    },
+    "CCAI9029": {
+        "course_name": "From Human Vision to Extended Reality",
+        "sdgs": [
+            "SDG-09"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "26",
+            "Tutorials": "10",
+            "Assessment: In-class quizzes (incl preparation)": "24",
+            "Assessment: Group project (incl preparation)": "60"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Participation": "10",
+            "Group projects": "40",
+            "In-class tests": "50"
+        }
+    },
+    "CCHU9022": {
+        "course_name": "Journey into Madness: Conceptions of Mental Health and Mental Illness",
+        "sdgs": [
+            "SDG-03",
+            "SDG-10",
+            "SDG-17"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Fieldwork / Visits": "7",
+            "Reading / Self-study": "50",
+            "Assessment: Presentation (incl preparation)": "8",
+            "Assessment: Essay / Report writing": "40"
+        },
+        "study_load_total": "137",
+        "ass_dist": {
+            "Class participation": "20",
+            "Tutorial presentation": "20",
+            "Individual essay": "30",
+            "Group project": "30"
+        }
+    },
+    "CCHU9051": {
+        "course_name": "Mysteries of the Human Mind",
+        "sdgs": [
+            "SDG-03",
+            "SDG-10"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "50",
+            "Film and video viewing": "2",
+            "Assessment: Essay / Report writing": "25",
+            "Assessment: Special project": "25",
+            "Assessment: Quiz": "1"
+        },
+        "study_load_total": "135",
+        "ass_dist": {
+            "Tutorial participation": "15",
+            "Brief writing assignments": "20",
+            "Quiz": "15",
+            "Essay": "25",
+            "Portfolio": "25"
+        }
+    },
+    "CCST9020": {
+        "course_name": "Sustainable Development of the Built Environment",
+        "sdgs": [
+            "SDG-06",
+            "SDG-07",
+            "SDG-09",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Fieldwork / Activity during reading week": "3.5",
+            "Reading / Self-study": "48",
+            "Assessment: Assignments": "1",
+            "Assessment: Individual report on group project": "18",
+            "Assessment: Oral presentation (incl preparation)": "18",
+            "Assessment: Examination": "2"
+        },
+        "study_load_total": "124.5",
+        "ass_dist": {
+            "Assignments": "10",
+            "Participation in tutorial discussions": "15",
+            "Written report": "10",
+            "Presentation": "25",
+            "Examination": "40"
+        }
+    },
+    "CCAI9022": {
+        "course_name": "Taming the Digital Wild West: Crafting Institutions for AI Innovation",
+        "sdgs": [
+            "SDG-09"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "24",
+            "Assessment: Essay / Report writing\u00a0": "6",
+            "Assessment: Group project": "34",
+            "Assessment: Presentation (incl preparation)": "20"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Interview report": "20",
+            "Video report": "20",
+            "Group project and presentation": "25",
+            "Poster presentation": "15",
+            "Class Participation": "20"
+        }
+    },
+    "CCAI9009": {
+        "course_name": "Today\u2019s Future City: Technology and the Recoding of Urban Life",
+        "sdgs": [
+            "SDG-08",
+            "SDG-09",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "24",
+            "Assessment: Essay / Report writing": "18",
+            "Assessment: Project": "36",
+            "Assessment: In-class test (incl preparation)": "6"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Quiz": "25",
+            "Tutorial participation": "12.5",
+            "Website/blog and learning reflection": "12.5",
+            "Project": "50"
+        }
+    },
+    "CCST9078": {
+        "course_name": "Health Literacy: Things to Know Before Consulting Dr. AI",
+        "sdgs": [
+            "SDG-03",
+            "SDG-06",
+            "SDG-09"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "15",
+            "Assessment: Group project (incl preparation)": "45",
+            "Assessment: Group presentation (incl preparation)": "20",
+            "Assessment: In-class test (incl preparation)": "10"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "In-class test": "25",
+            "Group presentation": "15",
+            "Group project": "25",
+            "In-class participation and discussions": "10",
+            "Tutorial participation": "25"
+        }
+    },
+    "CCCH9001": {
+        "course_name": "Chinese House and Garden: Architecture, Landscape, and Material Culture",
+        "sdgs": [
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "20",
+            "Tutorials": "10",
+            "Fieldwork / Visits": "10",
+            "Reading / Self-study": "20",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Presentation (incl preparation)": "30"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "In-class quizzes": "20",
+            "In-class participation": "20",
+            "Project Presentation": "30",
+            "Field trip report": "10",
+            "Final essay": "20"
+        }
+    },
+    "CCST9033": {
+        "course_name": "Left Brain, Right Brain: Science and Myth",
+        "sdgs": [
+            "SDG-04",
+            "SDG-09"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "24",
+            "Assessment: Individual assignment": "24",
+            "Assessment: Reflection writing": "16",
+            "Assessment: Case analysis": "24"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "Reflection paper": "20",
+            "Written case analysis": "20",
+            "Individual projects": "30",
+            "In-class test": "30"
+        }
+    },
+    "CCST9018": {
+        "course_name": "Origin and Evolution of Life",
+        "sdgs": [
+            "SDG-04"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "26",
+            "Tutorials": "10",
+            "Reading / Self-study": "40",
+            "Assessment: Essay / Report writing": "15",
+            "Assessment: Presentation (incl preparation)": "15",
+            "Assessment: In-class test (incl preparation)": "15"
+        },
+        "study_load_total": "121",
+        "ass_dist": {
+            "Essay": "30",
+            "Poster presentation": "25",
+            "Group debates": "20",
+            "In-class test": "25"
+        }
+    },
+    "CCCH9026": {
+        "course_name": "Rule of Law and China\u2019s Economic Miracle",
+        "sdgs": [
+            "SDG-08",
+            "SDG-13",
+            "SDG-16"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "47",
+            "Practicals": "8",
+            "Assessment: Presentation (incl preparation)": "29"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Lecture and tutorial participation": "30",
+            "Essays": "50",
+            "Presentation": "20"
+        }
+    },
+    "CCCH9041": {
+        "course_name": "The Rule of Law in Modern China",
+        "sdgs": [
+            "SDG-16"
+        ],
+        "sem_offered": "Second Semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "50",
+            "Assessment: Essay writing": "30",
+            "Assessment: Group project (incl preparation, reporting writing and presentation)": "20"
+        },
+        "study_load_total": "134",
+        "ass_dist": {
+            "Essay": "40",
+            "Group project": "30",
+            "Performance in tutorials": "30"
+        }
+    },
+    "CCAI9007": {
+        "course_name": "Hacking Aging: Partnering Human and Artificial Intelligence",
+        "sdgs": [
+            "SDG-03"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "6",
+            "Workshop / Seminars": "6",
+            "Reading / Self-study": "40",
+            "Assessment: Assignments": "10",
+            "Assessment: Group project (incl preparation, report writing and presentation)": "30",
+            "Assessment: In-class quizzes": "2",
+            "Assessment: Discussion, debate, presentation (incl preparation)\n": "4"
+        },
+        "study_load_total": "122",
+        "ass_dist": {
+            "Tutorial participation": "20",
+            "Quizzes": "20",
+            "Worksheet": "10",
+            "Group project and presentation": "30",
+            "Comic strip": "20"
+        }
+    },
+    "CCHU9043": {
+        "course_name": "Rethinking Women: The Big Debates",
+        "sdgs": [
+            "SDG-03",
+            "SDG-05",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "38",
+            "Assessment: Writing assignments": "30",
+            "Assessment: Group project and presentation (incl preparation)": "20"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Tutorial presentations and debates": "40",
+            "In-class assessments": "20",
+            "Podcast": "40"
+        }
+    },
+    "CCCH9002": {
+        "course_name": "Chinese Cities in the 21st Century",
+        "sdgs": [
+            "SDG-09",
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "20",
+            "Assessment: Essay / Report writing": "40",
+            "Assessment: Examination (incl preparation)": "24"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Reflective journal": "10",
+            "Tutorial participation": "10",
+            "Mid-term quizzes": "10",
+            "Group project and presentation": "40",
+            "Examination": "30"
+        }
+    },
+    "CCCH9028": {
+        "course_name": "Hong Kong and China\u2019s Economic Development",
+        "sdgs": [
+            "SDG-08",
+            "SDG-09"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study / Preparation for tutorials": "50",
+            "Assessment: Group project (incl preparation)": "28",
+            "Assessment: Group report writing": "8",
+            "Assessment: Examination": "2"
+        },
+        "study_load_total": "122",
+        "ass_dist": {
+            "Examination": "35",
+            "Tutorials": "30",
+            "Group project": "35"
+        }
+    },
+    "CCCH9069": {
+        "course_name": "Chinese Civilization through Material Culture",
+        "sdgs": [
+            "SDG-09",
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials \u00a0(i.e. small group face-to-face discussions)\u00a0": "8",
+            "Seminars": "4",
+            "Fieldwork / Visits": "55",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "10",
+            "Assessment: In-class test": "2"
+        },
+        "study_load_total": "123",
+        "ass_dist": {
+            "Tutorial participation": "10",
+            "Reading responses": "25",
+            "Group presentation": "35",
+            "Reflective writing": "30"
+        }
+    },
+    "CCST9072": {
+        "course_name": "Smile! Teeth and Society",
+        "sdgs": [
+            "SDG-03",
+            "SDG-10"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "30",
+            "Elaboration of video and poster": "35",
+            "Assessment: Essay / Report writing": "15",
+            "Assessment: Presentation (incl preparation)": "15",
+            "Assessment: In-class test (incl preparation)": "5"
+        },
+        "study_load_total": "136",
+        "ass_dist": {
+            "Video production": "30",
+            "Continuous assessment and task focused activities": "40",
+            "Individual reflective exercises": "30"
+        }
+    },
+    "CCHU9014": {
+        "course_name": "Spirituality, Religion and Social Change",
+        "sdgs": [
+            "SDG-03",
+            "SDG-10",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Fieldwork / Visits": "20",
+            "Reading / Self-study": "36",
+            "Assessment: Short essays": "36",
+            "Assessment: Field journal writing": "10"
+        },
+        "study_load_total": "138",
+        "ass_dist": {
+            "Weekly reflections": "20",
+            "Quizzes": "20",
+            "Field visit observation notes": "10",
+            "Field visit report": "15",
+            "Video report": "20",
+            "Participation": "15"
+        }
+    },
+    "CCAI9004": {
+        "course_name": "AI, Achievement and Flourishing",
+        "sdgs": [
+            "SDG-04",
+            "SDG-08",
+            "SDG-09",
+            "SDG-10"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "50",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)\u00a0": "10",
+            "Assessment: Group project": "10"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "In-class participation and discussions": "25",
+            "Debates": "25",
+            "Mid-term test": "25",
+            "Final test": "25"
+        }
+    },
+    "CCAI9012": {
+        "course_name": "GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly",
+        "sdgs": [
+            "SDG-07",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Seminars": "4",
+            "Reading / Self-study": "12",
+            "Assessment: Case Study": "28",
+            "Assessment: Group project (incl preparation, report writing and presentation)\n": "60"
+        },
+        "study_load_total": "140",
+        "ass_dist": {
+            "Participation in Classroom Activities": "15",
+            "Case study": "30",
+            "Group project and presentation": "45",
+            "Reflection Writing": "10"
+        }
+    },
+    "CCAI9010": {
+        "course_name": "AI, Communication, and Society",
+        "sdgs": [
+            "SDG-03",
+            "SDG-04",
+            "SDG-05",
+            "SDG-11"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "24",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Group project": "25",
+            "Assessment: Presentation (incl preparation)": "20"
+        },
+        "study_load_total": "125",
+        "ass_dist": {
+            "In-class quizzes": "20",
+            "Essay": "10",
+            "Reflection paper": "10",
+            "Quiz": "30",
+            "Group project": "30"
+        }
+    },
+    "CCST9042": {
+        "course_name": "The World of Waves",
+        "sdgs": [
+            "SDG-03",
+            "SDG-07",
+            "SDG-09",
+            "SDG-13"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "20",
+            "Tutorials": "12",
+            "Reading / Self-study": "30",
+            "Laboratory demonstrations": "1",
+            "Assessment: Essay / Report writing": "40",
+            "Assessment: Presentation (incl preparation)": "5",
+            "Assessment: Quizzes (incl preparation)": "30"
+        },
+        "study_load_total": "138",
+        "ass_dist": {
+            "Mid-term quizzes": "70",
+            "Term paper": "15",
+            "Presentation": "15"
+        }
+    },
+    "CCHU9069": {
+        "course_name": "Economic Logic of Civilizations: How Human Societies have Innovated to Deal with Risk",
+        "sdgs": [
+            "SDG-08",
+            "SDG-13"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "26",
+            "Tutorials": "11",
+            "Reading / Self-study / Homework": "56",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Presentation (incl preparation)": "7",
+            "Assessment: Quiz": "2"
+        },
+        "study_load_total": "132",
+        "ass_dist": {
+            "Individual assignments": "40",
+            "Lecture and tutorial participation and presentation": "20",
+            "Group project": "20",
+            "Open book quiz": "20"
+        }
+    },
+    "CCST9022": {
+        "course_name": "How the Mass Media Depicts Science, Technology and the Natural World",
+        "sdgs": [
+            "SDG-04",
+            "SDG-09",
+            "SDG-17"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "10",
+            "Reading / Self-study": "60",
+            "Assessment: Presentation (incl preparation)": "15",
+            "Assessment: Case study": "12",
+            "Assessment: Mini project": "15",
+            "Assessment: In-class quiz (incl revision)": "10"
+        },
+        "study_load_total": "144",
+        "ass_dist": {
+            "In-class quizzes": "30",
+            "Individual mini project": "30",
+            "Group presentation": "20",
+            "Case study": "20"
+        }
+    },
+    "CCCH9059": {
+        "course_name": "Encounters between China and the West",
+        "sdgs": [
+            "SDG-11",
+            "SDG-16"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Fieldwork / Visits": "8",
+            "Reading / Self-study": "45",
+            "Assessment: Group presentation (incl preparation)\u00a0": "20",
+            "Assessment: Group project ": "30"
+        },
+        "study_load_total": "135",
+        "ass_dist": {
+            "Quizzes": "20",
+            "Tutorial participation": "30",
+            "Poster": "20",
+            "Group project": "20",
+            "Group presentation": "10"
+        }
+    },
+    "CCST9070": {
+        "course_name": "Nature-inspired Innovations",
+        "sdgs": [
+            "SDG-03",
+            "SDG-09",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Fieldwork / Visits": "16",
+            "Reading / Self-study": "15",
+            "Assessment: Essay writing": "26",
+            "Assessment: Group project and presentation (incl preparation)": "36"
+        },
+        "study_load_total": "125",
+        "ass_dist": {
+            "Group presentation": "30",
+            "In-class participation and discussions": "30",
+            "Reflective writing": "40"
+        }
+    },
+    "CCGL9032": {
+        "course_name": "Rule of Law in a Globalizing World",
+        "sdgs": [
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "60",
+            "Assessment: Short essay": "30",
+            "Assessment: Project (incl preparation)": "24"
+        },
+        "study_load_total": "148",
+        "ass_dist": {
+            "Essay": "40",
+            "Project": "40",
+            "Performance in tutorials": "20"
+        }
+    },
+    "CCAI9024": {
+        "course_name": "Generative AI and the Future of Creativity",
+        "sdgs": [],
+        "sem_offered": "Second semester (Sat)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "9",
+            "Reading / Self-study": "36",
+            "Assessment: Assignments": "21",
+            "Assessment: Group project presentation (incl preparation)": "48"
+        },
+        "study_load_total": "138",
+        "ass_dist": {
+            "Group project and presentation": "50",
+            "Individual assignments": "30",
+            "Participation in classroom activities": "20"
+        }
+    },
+    "CCAI9008": {
+        "course_name": "Shaping Population Medicine with AI",
+        "sdgs": [
+            "SDG-03",
+            "SDG-10"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "12",
+            "Tutorials": "12",
+            "Seminars": "10",
+            "Fieldwork / Visits": "2",
+            "Reading / Self-study": "24",
+            "Assessment: Essay / Report writing": "40",
+            "Assessment: Presentation (incl preparation)": "40"
+        },
+        "study_load_total": "140",
+        "ass_dist": {
+            "Class participation": "20",
+            "Group project and presentation": "40",
+            "Poster": "40"
+        }
+    },
+    "CCGL9014": {
+        "course_name": "Thinking about Global Ethics",
+        "sdgs": [
+            "SDG-01",
+            "SDG-02",
+            "SDG-10",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "90",
+            "Assessment: Essay / Report writing": "15"
+        },
+        "study_load_total": "139",
+        "ass_dist": {
+            "Term essay": "60",
+            "Tutorial participation": "40"
+        }
+    },
+    "CCST9086": {
+        "course_name": "Scientific Thinking in Life and Society",
+        "sdgs": [
+            "SDG-03",
+            "SDG-04",
+            "SDG-09",
+            "SDG-13"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "50",
+            "Assessment: Essay / Report writing": "15",
+            "Assessment: Presentation (incl preparation)": "35"
+        },
+        "study_load_total": "134",
+        "ass_dist": {
+            "Lecture and Tutorial Participation": "20",
+            "Quizzes": "20",
+            "Reflective writing": "20",
+            "Individual presentation": "20",
+            "Group project and presentation": "20"
+        }
+    },
+    "CCST9074": {
+        "course_name": "Water: Resources, Policy and Technology",
+        "sdgs": [
+            "SDG-06",
+            "SDG-14",
+            "SDG-17"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Fieldwork / Visits": "3",
+            "Reading / Self-study": "43",
+            "Assessment: Assignments": "23",
+            "Assessment: In-course quizzes": "2",
+            "Assessment: Presentation (incl preparation)": "15"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Tutorial participation": "10",
+            "In-course quiz": "15",
+            "Fieldwork report": "15",
+            "Case study": "35",
+            "Oral presentation": "10",
+            "Journal writing": "15"
+        }
+    },
+    "CCGL9077": {
+        "course_name": "Education as Solution?: Debating Education round the Globe",
+        "sdgs": [
+            "SDG-03",
+            "SDG-04",
+            "SDG-05",
+            "SDG-10"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "36",
+            "Assessment: Case Study": "10",
+            "Assessment: Group project and presentation": "40"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "In-class continuous assessment (discussions, debates, activities)": "20",
+            "Tutorial participation, discussion, presentations": "40",
+            "Group project": "40"
+        }
+    },
+    "CCGL9082": {
+        "course_name": "Sustaining Sustainability: Innovations for Policies and Governance",
+        "sdgs": [
+            "SDG-09",
+            "SDG-11",
+            "SDG-12"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Fieldwork / Visits": "6",
+            "Reading / Self-study": "50",
+            "Assessment: Essay / Report writing": "16",
+            "Assessment: Presentation (incl preparation)": "16",
+            "Assessment: In-class test": "4"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "Group presentation": "40",
+            "Individual assignments": "40",
+            "Tutorial, lecture and field trip participation": "20"
+        }
+    },
+    "CCGL9074": {
+        "course_name": "Unleashing the Power of Big Data in Global Cities",
+        "sdgs": [
+            "SDG-09",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Online course material": "8",
+            "Tutorials": "16",
+            "Lecture": "12",
+            "Reading / Self-study": "38",
+            "Assessment: Assignments and group projects": "48"
+        },
+        "study_load_total": "122",
+        "ass_dist": {
+            "Participation in online activities": "10",
+            "Tutorial exercises": "30",
+            "Reflective Journal": "10",
+            "Group project": "40",
+            "Peer evaluation": "10"
+        }
+    },
+    "CCGL9052": {
+        "course_name": "Some We Love, Some We Eat: Human-Animal Relationships in the Global Marketplace",
+        "sdgs": [
+            "SDG-12",
+            "SDG-14",
+            "SDG-15"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "10",
+            "Fieldwork / Visits": "4",
+            "Reading / Self-study": "30",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "20",
+            "Assessment: Group project": "30"
+        },
+        "study_load_total": "136",
+        "ass_dist": {
+            "Tutorial discussion and debate": "15",
+            "Field trip report": "20",
+            "Reflective writing": "20",
+            "Group project": "35",
+            "Participation in class activities": "10"
+        }
+    },
+    "CCAI9025": {
+        "course_name": "AI-driven Robotics for Humankind",
+        "sdgs": [
+            "SDG-08",
+            "SDG-12"
+        ],
+        "sem_offered": "Second semester (Sat)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Fieldwork / Visits": "8",
+            "Reading / Self-study": "20",
+            "Assessment: Essay writing": "10",
+            "Assessment: Fieldtrip reflection\u00a0": "10",
+            "Assessment: Presentation (incl preparation)": "15",
+            "Assessment: Group project (incl preparation)": "25"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "Assignments": "10",
+            "Essay": "20",
+            "Participation in classroom activities": "20",
+            "Group project and presentation": "30",
+            "Field trip report": "20"
+        }
+    },
+    "CCGL9065": {
+        "course_name": "Our Response to Climate Change: Hong Kong 2100",
+        "sdgs": [
+            "SDG-11",
+            "SDG-12",
+            "SDG-13"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "30",
+            "Assessment: Project": "10",
+            "Assessment: Portfolio": "20",
+            "Assessment: Video production (incl preparation)": "10",
+            "Assessment: In-class assignment(incl preparation)": "6",
+            "Assessment: Reflective writing": "10"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Portfolio": "20",
+            "Video essay": "20",
+            "Reflective writing": "20",
+            "Project": "20",
+            "Participation in lectures and tutorials": "20"
+        }
+    },
+    "CCAI9016": {
+        "course_name": "AI for Cities",
+        "sdgs": [
+            "SDG-09",
+            "SDG-11",
+            "SDG-13"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "24",
+            "Assessment: Individual Assignment": "25",
+            "Assessment: Group project (incl preparation)": "25",
+            "Assessment: In-class quizzes (incl preparation)\u00a0": "10"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Class participation": "10",
+            "Tutorial exercises": "30",
+            "Poster": "20",
+            "Group Project": "40"
+        }
+    },
+    "CCCH9067": {
+        "course_name": "Man Up: Chinese Masculinities in the Making",
+        "sdgs": [],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "38",
+            "Assessment: Writing assignments": "30",
+            "Assessment: Group project and presentation (incl preparation)": "20"
+        },
+        "study_load_total": "120",
+        "ass_dist": {
+            "Tutorial presentations and debates": "40",
+            "In-class assessments": "20",
+            "Podcast": "40"
+        }
+    },
+    "CCHU9086": {
+        "course_name": "Understanding Religious Worlds",
+        "sdgs": [
+            "SDG-03",
+            "SDG-05"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "36",
+            "Assessment: In-class assignment": "6",
+            "Assessment: Essay / Report writing": "30",
+            "Assessment: Group video production and presentation": "30"
+        },
+        "study_load_total": "138",
+        "ass_dist": {
+            "Class participation": "15",
+            "Group project and presentation": "40",
+            "Essay": "30",
+            "Tutorial discussion": "15"
+        }
+    },
+    "CCGL9038": {
+        "course_name": "Global Englishes",
+        "sdgs": [],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "40",
+            "Assessment: Presentation (incl preparation)": "15",
+            "Assessment: Writing assignments": "30"
+        },
+        "study_load_total": "121",
+        "ass_dist": {
+            "In-class presentation": "20",
+            "Tutorial participation": "10",
+            "Short essay": "20",
+            "Final essay": "50"
+        }
+    },
+    "CCST9006": {
+        "course_name": "Chasing Biomedical Miracles: Promises and Perils",
+        "sdgs": [
+            "SDG-03",
+            "SDG-09"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures (incl in-class exercises)": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "100"
+        },
+        "study_load_total": "136",
+        "ass_dist": {
+            "In-class assessment": "20",
+            "Online discussion": "20",
+            "Poster presentation": "30",
+            "Reflective writing": "30"
+        }
+    },
+    "CCST9030": {
+        "course_name": "Forensic Science: Unmasking Evidence, Mysteries and Crimes",
+        "sdgs": [
+            "SDG-09",
+            "SDG-16"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "40",
+            "Assessment: Case study": "10",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "10",
+            "Assessment: Laboratory practicals (incl preparation, performance and report writing)": "20",
+            "Assessment: Quizzes": "8"
+        },
+        "study_load_total": "142",
+        "ass_dist": {
+            "Case studies and Problem-based Learning tutorial": "20",
+            "Group report": "20",
+            "Assignments and laboratory reports": "30",
+            "Quizzes": "30"
+        }
+    },
+    "CCGL9081": {
+        "course_name": "One Planet, One Health",
+        "sdgs": [
+            "SDG-03",
+            "SDG-04",
+            "SDG-06",
+            "SDG-12",
+            "SDG-13",
+            "SDG-14",
+            "SDG-15"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Fieldwork / Visits": "20",
+            "Reading / Self-study": "10",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "16",
+            "Assessment: Group poster production and presentation": "30"
+        },
+        "study_load_total": "130",
+        "ass_dist": {
+            "Field trip reflection": "25",
+            "Roleplay / Debate": "25",
+            "Poster presentation": "30",
+            "In-class participation and discussions": "20"
+        }
+    },
+    "CCST9016": {
+        "course_name": "Energy: Its Evolution and Environmental Impacts",
+        "sdgs": [
+            "SDG-06",
+            "SDG-07",
+            "SDG-11",
+            "SDG-13"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Fieldwork / Visits (incl report writing)": "10",
+            "Reading / Self-study": "20",
+            "Assessment: Group project (incl preparation)": "50",
+            "Assessment: In-class quizzes (incl preparation)": "40"
+        },
+        "study_load_total": "154",
+        "ass_dist": {
+            "In-class quizzes": "40",
+            "Field trip (and Reflective writing)": "10",
+            "Laboratory": "10",
+            "Group project and presentation": "40"
+        }
+    },
+    "CCST9075": {
+        "course_name": "Be Fit! Be Active!",
+        "sdgs": [
+            "SDG-03",
+            "SDG-10"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "26",
+            "Tutorials": "10",
+            "Fieldwork / Visits": "10",
+            "Reading / Self-study": "35",
+            "Assessment: Essay / Report writing": "15",
+            "Assessment: Presentation (incl preparation)": "40"
+        },
+        "study_load_total": "136",
+        "ass_dist": {
+            "Reflective journal": "40",
+            "Written report": "15",
+            "Group Project": "35",
+            "Participation in lectures and tutorials": "8",
+            "Peer evaluation": "2"
+        }
+    },
+    "CCHU9076": {
+        "course_name": "The Journalist: Comics, Movies, Fiction & Fact",
+        "sdgs": [
+            "SDG-09",
+            "SDG-16"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "10",
+            "Film and video viewing": "10",
+            "Assessment: Quiz": "12",
+            "Assessment: Reflection writing": "24",
+            "Assessment: Group project presentation (incl preparation)": "42",
+            "Assessment: Individual report on group project": "2"
+        },
+        "study_load_total": "132",
+        "ass_dist": {
+            "In-class participation": "20",
+            "Group project and presentation": "30",
+            "Individual report on group project": "10",
+            "Reflective writing": "25",
+            "Quiz": "15"
+        }
+    },
+    "CCCH9044": {
+        "course_name": "Dunhuang and the Silk Road: Art, Culture and Trade",
+        "sdgs": [
+            "SDG-08",
+            "SDG-11"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Fieldwork/Visits": "3",
+            "Reading / Self-study": "48",
+            "Assessment: Quiz": "1",
+            "Assessment: Essay / Report writing": "25",
+            "Assessment: Presentation (incl preparation)": "15"
+        },
+        "study_load_total": "126",
+        "ass_dist": {
+            "Essay": "35",
+            "Group presentation": "25",
+            "Class participation": "20",
+            "Fieldtrip reflection": "10",
+            "Quizzes": "10"
+        }
+    },
+    "CCHU9039": {
+        "course_name": "Sexuality and Culture",
+        "sdgs": [
+            "SDG-03",
+            "SDG-05",
+            "SDG-16"
+        ],
+        "sem_offered": "Course will be offered twice:\nSection 1 \u2013 First semester (Wed); Section 2 \u2013 Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "36",
+            "Studying movies, audiofiles, etc": "6",
+            "Assessment: Project": "30",
+            "Assessment: Reflective journal": "9",
+            "Assessment: Podcast": "9",
+            "Assessment: NOTE: Participation slips will be completed in lecture, and will therefore not imply additional workload hours": "0"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "Reflective journals": "15",
+            "Podcast": "20",
+            "Final Project": "45",
+            "Participation": "20"
+        }
+    },
+    "CCHU5074": {
+        "course_name": "Beyond Fake News (Online)",
+        "sdgs": [
+            "SDG-09"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "12",
+            "Reading / Self-study": "30",
+            "Assessment: Quiz (incl preparation)": "20",
+            "Assessment: Report writing (incl research and data collection)": "20",
+            "Assessment: Video report": "20"
+        },
+        "study_load_total": "126",
+        "ass_dist": {
+            "Written report": "20",
+            "Video report": "30",
+            "Quizzes": "30",
+            "Weekly assignments": "20"
+        }
+    },
+    "CCHU9078": {
+        "course_name": "Contemplative Practices: From Personal Awareness to Social Well-being",
+        "sdgs": [
+            "SDG-03",
+            "SDG-08",
+            "SDG-12"
+        ],
+        "sem_offered": "Course will be offered twice\nSection 1 \u2013 First semester (Wed); Section 2 \u2013 Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "22",
+            "Tutorials": "10",
+            "Reading / Self-study": "50",
+            "Assessment: Group presentation (incl preparation)": "30",
+            "Assessment: Reflective journal": "12"
+        },
+        "study_load_total": "124",
+        "ass_dist": {
+            "Short writing assignments": "20",
+            "Tutorial Participation": "15",
+            "Reflective journals": "25",
+            "Group project": "40"
+        }
+    },
+    "CCGL9079": {
+        "course_name": "Leadership and Influence in a Dynamic World",
+        "sdgs": [
+            "SDG-04",
+            "SDG-05",
+            "SDG-08",
+            "SDG-10",
+            "SDG-16",
+            "SDG-17"
+        ],
+        "sem_offered": "Course will be offered twice:\nSection 1 \u2013 First semester (Wed); Section 2 \u2013 Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Reading / Self-study": "40",
+            "Assessment: Journal": "25",
+            "Assessment: Negotiations simulation": "6",
+            "Assessment: Group project and presentation": "20"
+        },
+        "study_load_total": "125",
+        "ass_dist": {
+            "Lecture and tutorial participation": "25",
+            "Individual student journal": "35",
+            "Roleplay / Debate": "10",
+            "Group project and presentation": "30"
+        }
+    },
+    "CCST9090": {
+        "course_name": "Mindscapes: Psychiatry and Mental Health Across Creative and Scientific Frontiers",
+        "sdgs": [
+            "SDG-03"
+        ],
+        "sem_offered": "First semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "10",
+            "Media screening": "6",
+            "Reading / Self-study": "36",
+            "Assessment: Essay / Report writing": "8",
+            "Assessment: Group project and presentation": "40",
+            "Assessment: In-class quizzes": "2"
+        },
+        "study_load_total": "126",
+        "ass_dist": {
+            "Tutorial participation": "30",
+            "In-class quizzes": "30",
+            "Reflective writing": "10",
+            "Group project and presentation": "30"
+        }
+    },
+    "CCAI5001": {
+        "course_name": "Artificial Intelligence: Utopia or Dystopia? (Online)",
+        "sdgs": [
+            "SDG-08",
+            "SDG-09",
+            "SDG-16"
+        ],
+        "sem_offered": "Second semester (Wed)",
+        "study_load_dist": {
+            "Lectures": "24",
+            "Tutorials": "8",
+            "Reading / Self-study": "32",
+            "Assessment: Essay / Report writing": "20",
+            "Assessment: Presentation (incl preparation)": "20",
+            "Assessment: Debate presentation (incl preparation)": "24"
+        },
+        "study_load_total": "128",
+        "ass_dist": {
+            "Proposal writing": "20",
+            "Group presentation": "30",
+            "In-class participation": "20",
+            "Debates": "10",
+            "Tutorial participation": "20"
+        }
+    }
+}

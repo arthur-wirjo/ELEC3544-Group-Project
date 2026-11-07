@@ -1,0 +1,5702 @@
+{
+    "CCST5002": [
+        {
+            "year": "2023-24",
+            "enrollment": "68",
+            "responses": "13",
+            "mean_course_effective": "78.8"
+        }
+    ],
+    "CCST5035": [
+        {
+            "year": "2024-25",
+            "enrollment": "119",
+            "responses": "58",
+            "mean_course_effective": "81.5"
+        }
+    ],
+    "CCST5037": [
+        {
+            "year": "2024-25",
+            "enrollment": "119",
+            "responses": "77",
+            "mean_course_effective": "83.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "82",
+            "responses": "49",
+            "mean_course_effective": "81.1"
+        }
+    ],
+    "CCST5068": [
+        {
+            "year": "2024-25",
+            "enrollment": "118",
+            "responses": "58",
+            "mean_course_effective": "91.4"
+        }
+    ],
+    "CCST5078": [
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "40",
+            "mean_course_effective": "74.4"
+        }
+    ],
+    "CCST6001": [
+        {
+            "year": "2024-25",
+            "enrollment": "13",
+            "responses": "4",
+            "mean_course_effective": "***"
+        }
+    ],
+    "CCST9001": [
+        {
+            "year": "2015-16",
+            "enrollment": "21",
+            "responses": "7",
+            "mean_course_effective": "82.1"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "23",
+            "responses": "17",
+            "mean_course_effective": "84.4"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "43",
+            "responses": "22",
+            "mean_course_effective": "73.8"
+        }
+    ],
+    "CCST9002": [
+        {
+            "year": "2022-23",
+            "enrollment": "118",
+            "responses": "47",
+            "mean_course_effective": "72.9"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "113",
+            "responses": "32",
+            "mean_course_effective": "77.6"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "117",
+            "responses": "23",
+            "mean_course_effective": "77.3"
+        }
+    ],
+    "CCST9003": [
+        {
+            "year": "2024-25",
+            "enrollment": "123",
+            "responses": "66",
+            "mean_course_effective": "81.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "125",
+            "responses": "71",
+            "mean_course_effective": "75.4"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "125",
+            "responses": "61",
+            "mean_course_effective": "77.5"
+        }
+    ],
+    "CCST9004": [
+        {
+            "year": "2014-15",
+            "enrollment": "114",
+            "responses": "44",
+            "mean_course_effective": "76.9"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "119",
+            "responses": "41",
+            "mean_course_effective": "82.4"
+        },
+        {
+            "year": "2012-13",
+            "enrollment": "113",
+            "responses": "50",
+            "mean_course_effective": "83.5"
+        }
+    ],
+    "CCST9005": [
+        {
+            "year": "2015-16",
+            "enrollment": "117",
+            "responses": "47",
+            "mean_course_effective": "78.5"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "119",
+            "responses": "76",
+            "mean_course_effective": "61.2"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "120",
+            "responses": "67",
+            "mean_course_effective": "61.9"
+        }
+    ],
+    "CCST9006": [
+        {
+            "year": "2024-25",
+            "enrollment": "110",
+            "responses": "38",
+            "mean_course_effective": "83.6"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "64",
+            "responses": "20",
+            "mean_course_effective": "87.5"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "74",
+            "responses": "30",
+            "mean_course_effective": "84.2"
+        }
+    ],
+    "CCST9007": [
+        {
+            "year": "2012-13",
+            "enrollment": "141",
+            "responses": "121",
+            "mean_course_effective": "72.0"
+        }
+    ],
+    "CCST9008": [
+        {
+            "year": "2016-17",
+            "enrollment": "24",
+            "responses": "14",
+            "mean_course_effective": "80.4"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "51",
+            "responses": "38",
+            "mean_course_effective": "70.7"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "117",
+            "responses": "84",
+            "mean_course_effective": "59.0"
+        }
+    ],
+    "CCST9009": [
+        {
+            "year": "2024-25",
+            "enrollment": "121",
+            "responses": "61",
+            "mean_course_effective": "88.9"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "92",
+            "mean_course_effective": "85.3"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "2",
+            "responses": "2",
+            "mean_course_effective": "***"
+        }
+    ],
+    "CCST9010": [
+        {
+            "year": "2024-25",
+            "enrollment": "123",
+            "responses": "51",
+            "mean_course_effective": "73.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "112",
+            "responses": "33",
+            "mean_course_effective": "78.8"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "34",
+            "mean_course_effective": "73.5"
+        }
+    ],
+    "CCST9011": [
+        {
+            "year": "2015-16",
+            "enrollment": "71",
+            "responses": "29",
+            "mean_course_effective": "67.6"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "117",
+            "responses": "51",
+            "mean_course_effective": "66.3"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "119",
+            "responses": "58",
+            "mean_course_effective": "59.5"
+        }
+    ],
+    "CCST9012": [
+        {
+            "year": "2024-25",
+            "enrollment": "88",
+            "responses": "68",
+            "mean_course_effective": "89.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "86",
+            "responses": "28",
+            "mean_course_effective": "85.7"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "80",
+            "responses": "22",
+            "mean_course_effective": "71.6"
+        }
+    ],
+    "CCST9013": [
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "69",
+            "mean_course_effective": "79.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "74",
+            "mean_course_effective": "77.7"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "119",
+            "responses": "94",
+            "mean_course_effective": "76.6"
+        }
+    ],
+    "CCST9014": [
+        {
+            "year": "2024-25",
+            "enrollment": "116",
+            "responses": "78",
+            "mean_course_effective": "82.7"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "111",
+            "responses": "60",
+            "mean_course_effective": "82.5"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "116",
+            "responses": "72",
+            "mean_course_effective": "82.3"
+        }
+    ],
+    "CCST9015": [
+        {
+            "year": "2019-20",
+            "enrollment": "50",
+            "responses": "14",
+            "mean_course_effective": "71.2"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "53",
+            "responses": "17",
+            "mean_course_effective": "79.4"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "119",
+            "responses": "39",
+            "mean_course_effective": "68.1"
+        }
+    ],
+    "CCST9016": [
+        {
+            "year": "2024-25",
+            "enrollment": "119",
+            "responses": "43",
+            "mean_course_effective": "81.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "113",
+            "responses": "53",
+            "mean_course_effective": "75.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "2",
+            "responses": "1",
+            "mean_course_effective": "***"
+        }
+    ],
+    "CCST9017": [
+        {
+            "year": "2024-25",
+            "enrollment": "229",
+            "responses": "86",
+            "mean_course_effective": "87.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "179",
+            "responses": "120",
+            "mean_course_effective": "80.8"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "241",
+            "responses": "187",
+            "mean_course_effective": "82.8"
+        }
+    ],
+    "CCST9018": [
+        {
+            "year": "2024-25",
+            "enrollment": "90",
+            "responses": "40",
+            "mean_course_effective": "77.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "39",
+            "mean_course_effective": "74.4"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "116",
+            "responses": "27",
+            "mean_course_effective": "76.0"
+        }
+    ],
+    "CCST9019": [
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "77",
+            "mean_course_effective": "82.1"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "118",
+            "responses": "57",
+            "mean_course_effective": "78.5"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "113",
+            "responses": "37",
+            "mean_course_effective": "82.6"
+        }
+    ],
+    "CCST9020": [
+        {
+            "year": "2024-25",
+            "enrollment": "84",
+            "responses": "22",
+            "mean_course_effective": "79.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "55",
+            "mean_course_effective": "81.8"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "90",
+            "responses": "32",
+            "mean_course_effective": "77.3"
+        }
+    ],
+    "CCST9021": [
+        {
+            "year": "2020-21",
+            "enrollment": "114",
+            "responses": "24",
+            "mean_course_effective": "68.5"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "115",
+            "responses": "16",
+            "mean_course_effective": "76.7"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "43",
+            "responses": "17",
+            "mean_course_effective": "72.1"
+        }
+    ],
+    "CCST9022": [
+        {
+            "year": "2024-25",
+            "enrollment": "38",
+            "responses": "24",
+            "mean_course_effective": "83.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "43",
+            "mean_course_effective": "71.5"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "116",
+            "responses": "46",
+            "mean_course_effective": "69.0"
+        }
+    ],
+    "CCST9023": [
+        {
+            "year": "2024-25",
+            "enrollment": "121",
+            "responses": "51",
+            "mean_course_effective": "86.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "117",
+            "responses": "36",
+            "mean_course_effective": "77.1"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "119",
+            "responses": "38",
+            "mean_course_effective": "78.3"
+        }
+    ],
+    "CCST9024": [
+        {
+            "year": "2014-15",
+            "enrollment": "120",
+            "responses": "55",
+            "mean_course_effective": "68.6"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "120",
+            "responses": "75",
+            "mean_course_effective": "71.2"
+        },
+        {
+            "year": "2012-13",
+            "enrollment": "120",
+            "responses": "77",
+            "mean_course_effective": "71.8"
+        }
+    ],
+    "CCST9025": [
+        {
+            "year": "2024-25",
+            "enrollment": "123",
+            "responses": "78",
+            "mean_course_effective": "78.2"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "122",
+            "responses": "94",
+            "mean_course_effective": "77.7"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "121",
+            "responses": "89",
+            "mean_course_effective": "78.7"
+        }
+    ],
+    "CCST9026": [
+        {
+            "year": "2024-25",
+            "enrollment": "109",
+            "responses": "37",
+            "mean_course_effective": "79.7"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "110",
+            "responses": "41",
+            "mean_course_effective": "76.2"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "83",
+            "responses": "26",
+            "mean_course_effective": "85.6"
+        }
+    ],
+    "CCST9027": [
+        {
+            "year": "2024-25",
+            "enrollment": "125",
+            "responses": "57",
+            "mean_course_effective": "81.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "159",
+            "responses": "80",
+            "mean_course_effective": "86.6"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "193",
+            "responses": "81",
+            "mean_course_effective": "84.3"
+        }
+    ],
+    "CCST9028": [
+        {
+            "year": "2015-16",
+            "enrollment": "59",
+            "responses": "36",
+            "mean_course_effective": "55.0"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "118",
+            "responses": "86",
+            "mean_course_effective": "50.6"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "120",
+            "responses": "56",
+            "mean_course_effective": "47.1"
+        }
+    ],
+    "CCST9029": [
+        {
+            "year": "2017-18",
+            "enrollment": "61",
+            "responses": "27",
+            "mean_course_effective": "64.8"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "119",
+            "responses": "70",
+            "mean_course_effective": "66.9"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "118",
+            "responses": "71",
+            "mean_course_effective": "61.4"
+        }
+    ],
+    "CCST9030": [
+        {
+            "year": "2024-25",
+            "enrollment": "118",
+            "responses": "34",
+            "mean_course_effective": "80.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "115",
+            "responses": "55",
+            "mean_course_effective": "75.5"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "124",
+            "responses": "37",
+            "mean_course_effective": "80.4"
+        }
+    ],
+    "CCST9032": [
+        {
+            "year": "2024-25",
+            "enrollment": "52",
+            "responses": "35",
+            "mean_course_effective": "84.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "116",
+            "responses": "63",
+            "mean_course_effective": "69.4"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "80",
+            "mean_course_effective": "79.7"
+        }
+    ],
+    "CCST9033": [
+        {
+            "year": "2023-24",
+            "enrollment": "109",
+            "responses": "64",
+            "mean_course_effective": "83.6"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "80",
+            "responses": "49",
+            "mean_course_effective": "86.2"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "109",
+            "responses": "44",
+            "mean_course_effective": "72.2"
+        }
+    ],
+    "CCST9034": [
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "87",
+            "mean_course_effective": "81.6"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "83",
+            "mean_course_effective": "78.9"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "117",
+            "responses": "86",
+            "mean_course_effective": "82.3"
+        }
+    ],
+    "CCST9035": [
+        {
+            "year": "2022-23",
+            "enrollment": "118",
+            "responses": "87",
+            "mean_course_effective": "76.7"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "119",
+            "responses": "48",
+            "mean_course_effective": "70.3"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "118",
+            "responses": "50",
+            "mean_course_effective": "75.0"
+        }
+    ],
+    "CCST9036": [
+        {
+            "year": "2022-23",
+            "enrollment": "26",
+            "responses": "5",
+            "mean_course_effective": "95.0"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "13",
+            "responses": "6",
+            "mean_course_effective": "75.0"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "51",
+            "responses": "33",
+            "mean_course_effective": "72.5"
+        }
+    ],
+    "CCST9037": [
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "41",
+            "mean_course_effective": "76.2"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "94",
+            "responses": "43",
+            "mean_course_effective": "75.6"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "55",
+            "responses": "9",
+            "mean_course_effective": "55.6"
+        }
+    ],
+    "CCST9038": [
+        {
+            "year": "2024-25",
+            "enrollment": "74",
+            "responses": "26",
+            "mean_course_effective": "62.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "37",
+            "responses": "10",
+            "mean_course_effective": "75.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "68",
+            "responses": "20",
+            "mean_course_effective": "66.3"
+        }
+    ],
+    "CCST9039": [
+        {
+            "year": "2018-19",
+            "enrollment": "118",
+            "responses": "39",
+            "mean_course_effective": "70.9"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "119",
+            "responses": "45",
+            "mean_course_effective": "79.7"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "119",
+            "responses": "46",
+            "mean_course_effective": "79.5"
+        }
+    ],
+    "CCST9040": [
+        {
+            "year": "2015-16",
+            "enrollment": "14",
+            "responses": "5",
+            "mean_course_effective": "81.2"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "50",
+            "responses": "24",
+            "mean_course_effective": "67.4"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "47",
+            "responses": "25",
+            "mean_course_effective": "60.2"
+        }
+    ],
+    "CCST9042": [
+        {
+            "year": "2024-25",
+            "enrollment": "289",
+            "responses": "87",
+            "mean_course_effective": "73.9"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "288",
+            "responses": "151",
+            "mean_course_effective": "71.9"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "286",
+            "responses": "123",
+            "mean_course_effective": "74.4"
+        }
+    ],
+    "CCST9043": [
+        {
+            "year": "2021-22",
+            "enrollment": "60",
+            "responses": "36",
+            "mean_course_effective": "84.3"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "110",
+            "responses": "71",
+            "mean_course_effective": "71.1"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "110",
+            "responses": "20",
+            "mean_course_effective": "75.0"
+        }
+    ],
+    "CCST9045": [
+        {
+            "year": "2024-25",
+            "enrollment": "124",
+            "responses": "64",
+            "mean_course_effective": "84.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "126",
+            "responses": "68",
+            "mean_course_effective": "82.4"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "123",
+            "responses": "33",
+            "mean_course_effective": "81.1"
+        }
+    ],
+    "CCST9046": [
+        {
+            "year": "2017-18",
+            "enrollment": "125",
+            "responses": "89",
+            "mean_course_effective": "81.0"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "120",
+            "responses": "101",
+            "mean_course_effective": "84.0"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "121",
+            "responses": "109",
+            "mean_course_effective": "84.3"
+        }
+    ],
+    "CCST9047": [
+        {
+            "year": "2024-25",
+            "enrollment": "93",
+            "responses": "24",
+            "mean_course_effective": "64.6"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "92",
+            "responses": "23",
+            "mean_course_effective": "63.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "119",
+            "responses": "65",
+            "mean_course_effective": "77.7"
+        }
+    ],
+    "CCST9048": [
+        {
+            "year": "2022-23",
+            "enrollment": "64",
+            "responses": "21",
+            "mean_course_effective": "82.1"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "82",
+            "responses": "27",
+            "mean_course_effective": "70.0"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "34",
+            "responses": "9",
+            "mean_course_effective": "78.1"
+        }
+    ],
+    "CCST9049": [
+        {
+            "year": "2024-25",
+            "enrollment": "62",
+            "responses": "30",
+            "mean_course_effective": "90.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "98",
+            "responses": "52",
+            "mean_course_effective": "81.3"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "115",
+            "responses": "41",
+            "mean_course_effective": "73.8"
+        }
+    ],
+    "CCST9050": [
+        {
+            "year": "2024-25",
+            "enrollment": "123",
+            "responses": "40",
+            "mean_course_effective": "75.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "39",
+            "mean_course_effective": "75.6"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "117",
+            "responses": "35",
+            "mean_course_effective": "70.7"
+        }
+    ],
+    "CCST9051": [
+        {
+            "year": "2024-25",
+            "enrollment": "103",
+            "responses": "45",
+            "mean_course_effective": "89.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "82",
+            "responses": "29",
+            "mean_course_effective": "86.2"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "56",
+            "responses": "39",
+            "mean_course_effective": "78.2"
+        }
+    ],
+    "CCST9052": [
+        {
+            "year": "2017-18",
+            "enrollment": "123",
+            "responses": "79",
+            "mean_course_effective": "75.3"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "124",
+            "responses": "97",
+            "mean_course_effective": "80.0"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "125",
+            "responses": "89",
+            "mean_course_effective": "77.0"
+        }
+    ],
+    "CCST9053": [
+        {
+            "year": "2018-19",
+            "enrollment": "217",
+            "responses": "64",
+            "mean_course_effective": "72.5"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "122",
+            "responses": "60",
+            "mean_course_effective": "77.6"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "118",
+            "responses": "42",
+            "mean_course_effective": "75.0"
+        }
+    ],
+    "CCST9054": [
+        {
+            "year": "2024-25",
+            "enrollment": "53",
+            "responses": "19",
+            "mean_course_effective": "81.6"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "108",
+            "responses": "52",
+            "mean_course_effective": "88.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "42",
+            "responses": "14",
+            "mean_course_effective": "88.6"
+        }
+    ],
+    "CCST9056": [
+        {
+            "year": "2024-25",
+            "enrollment": "119",
+            "responses": "83",
+            "mean_course_effective": "75.9"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "79",
+            "mean_course_effective": "75.6"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "118",
+            "responses": "70",
+            "mean_course_effective": "77.5"
+        }
+    ],
+    "CCST9058": [
+        {
+            "year": "2018-19",
+            "enrollment": "87",
+            "responses": "34",
+            "mean_course_effective": "50.8"
+        }
+    ],
+    "CCST9059": [
+        {
+            "year": "2019-20",
+            "enrollment": "123",
+            "responses": "19",
+            "mean_course_effective": "86.7"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "124",
+            "responses": "37",
+            "mean_course_effective": "85.3"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "125",
+            "responses": "32",
+            "mean_course_effective": "86.3"
+        }
+    ],
+    "CCST9060": [
+        {
+            "year": "2017-18",
+            "enrollment": "44",
+            "responses": "18",
+            "mean_course_effective": "73.4"
+        }
+    ],
+    "CCST9062": [
+        {
+            "year": "2024-25",
+            "enrollment": "125",
+            "responses": "31",
+            "mean_course_effective": "84.7"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "52",
+            "mean_course_effective": "85.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "41",
+            "mean_course_effective": "83.5"
+        }
+    ],
+    "CCST9063": [
+        {
+            "year": "2023-24",
+            "enrollment": "78",
+            "responses": "26",
+            "mean_course_effective": "82.7"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "116",
+            "responses": "19",
+            "mean_course_effective": "80.3"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "118",
+            "responses": "36",
+            "mean_course_effective": "68.6"
+        }
+    ],
+    "CCST9064": [
+        {
+            "year": "2024-25",
+            "enrollment": "119",
+            "responses": "32",
+            "mean_course_effective": "84.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "37",
+            "mean_course_effective": "83.1"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "118",
+            "responses": "36",
+            "mean_course_effective": "80.6"
+        }
+    ],
+    "CCST9065": [
+        {
+            "year": "2021-22",
+            "enrollment": "118",
+            "responses": "23",
+            "mean_course_effective": "68.5"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "118",
+            "responses": "23",
+            "mean_course_effective": "70.2"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "119",
+            "responses": "19",
+            "mean_course_effective": "68.4"
+        }
+    ],
+    "CCST9066": [
+        {
+            "year": "2024-25",
+            "enrollment": "101",
+            "responses": "43",
+            "mean_course_effective": "83.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "122",
+            "responses": "98",
+            "mean_course_effective": "77.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "121",
+            "responses": "92",
+            "mean_course_effective": "78.8"
+        }
+    ],
+    "CCST9067": [
+        {
+            "year": "2024-25",
+            "enrollment": "16",
+            "responses": "15",
+            "mean_course_effective": "90.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "37",
+            "responses": "18",
+            "mean_course_effective": "86.1"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "94",
+            "mean_course_effective": "85.9"
+        }
+    ],
+    "CCST9068": [
+        {
+            "year": "2022-23",
+            "enrollment": "117",
+            "responses": "64",
+            "mean_course_effective": "85.9"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "122",
+            "responses": "34",
+            "mean_course_effective": "81.6"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "119",
+            "responses": "46",
+            "mean_course_effective": "80.0"
+        }
+    ],
+    "CCST9070": [
+        {
+            "year": "2024-25",
+            "enrollment": "124",
+            "responses": "118",
+            "mean_course_effective": "82.2"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "114",
+            "responses": "92",
+            "mean_course_effective": "79.9"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "116",
+            "responses": "79",
+            "mean_course_effective": "82.3"
+        }
+    ],
+    "CCST9071": [
+        {
+            "year": "2018-19",
+            "enrollment": "115",
+            "responses": "52",
+            "mean_course_effective": "57.0"
+        }
+    ],
+    "CCST9072": [
+        {
+            "year": "2024-25",
+            "enrollment": "293",
+            "responses": "97",
+            "mean_course_effective": "87.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "38",
+            "mean_course_effective": "85.5"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "122",
+            "responses": "50",
+            "mean_course_effective": "91.5"
+        }
+    ],
+    "CCST9073": [
+        {
+            "year": "2024-25",
+            "enrollment": "123",
+            "responses": "112",
+            "mean_course_effective": "84.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "123",
+            "responses": "57",
+            "mean_course_effective": "80.7"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "121",
+            "responses": "72",
+            "mean_course_effective": "80.2"
+        }
+    ],
+    "CCST9074": [
+        {
+            "year": "2024-25",
+            "enrollment": "88",
+            "responses": "22",
+            "mean_course_effective": "72.7"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "36",
+            "mean_course_effective": "77.1"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "112",
+            "responses": "31",
+            "mean_course_effective": "62.9"
+        }
+    ],
+    "CCST9075": [
+        {
+            "year": "2024-25",
+            "enrollment": "124",
+            "responses": "44",
+            "mean_course_effective": "81.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "123",
+            "responses": "34",
+            "mean_course_effective": "79.4"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "39",
+            "mean_course_effective": "80.8"
+        }
+    ],
+    "CCST9076": [
+        {
+            "year": "2024-25",
+            "enrollment": "125",
+            "responses": "60",
+            "mean_course_effective": "83.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "123",
+            "responses": "47",
+            "mean_course_effective": "78.7"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "125",
+            "responses": "45",
+            "mean_course_effective": "82.2"
+        }
+    ],
+    "CCST9077": [
+        {
+            "year": "2024-25",
+            "enrollment": "118",
+            "responses": "70",
+            "mean_course_effective": "86.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "56",
+            "mean_course_effective": "87.1"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "110",
+            "responses": "79",
+            "mean_course_effective": "88.9"
+        }
+    ],
+    "CCST9078": [
+        {
+            "year": "2024-25",
+            "enrollment": "123",
+            "responses": "40",
+            "mean_course_effective": "78.1"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "119",
+            "responses": "49",
+            "mean_course_effective": "83.7"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "119",
+            "responses": "48",
+            "mean_course_effective": "79.9"
+        }
+    ],
+    "CCST9079": [
+        {
+            "year": "2022-23",
+            "enrollment": "98",
+            "responses": "44",
+            "mean_course_effective": "86.4"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "42",
+            "responses": "14",
+            "mean_course_effective": "82.1"
+        }
+    ],
+    "CCST9080": [
+        {
+            "year": "2024-25",
+            "enrollment": "122",
+            "responses": "40",
+            "mean_course_effective": "87.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "123",
+            "responses": "31",
+            "mean_course_effective": "69.4"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "123",
+            "responses": "28",
+            "mean_course_effective": "81.3"
+        }
+    ],
+    "CCST9081": [
+        {
+            "year": "2024-25",
+            "enrollment": "124",
+            "responses": "40",
+            "mean_course_effective": "92.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "59",
+            "mean_course_effective": "81.4"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "122",
+            "responses": "53",
+            "mean_course_effective": "92.9"
+        }
+    ],
+    "CCST9083": [
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "81",
+            "mean_course_effective": "72.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "65",
+            "responses": "38",
+            "mean_course_effective": "70.4"
+        }
+    ],
+    "CCST9084": [
+        {
+            "year": "2024-25",
+            "enrollment": "121",
+            "responses": "117",
+            "mean_course_effective": "78.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "109",
+            "mean_course_effective": "78.7"
+        }
+    ],
+    "CCST9085": [
+        {
+            "year": "2023-24",
+            "enrollment": "20",
+            "responses": "5",
+            "mean_course_effective": "100.0"
+        }
+    ],
+    "CCST9086": [
+        {
+            "year": "2024-25",
+            "enrollment": "116",
+            "responses": "37",
+            "mean_course_effective": "85.8"
+        }
+    ],
+    "CCST9088": [
+        {
+            "year": "2024-25",
+            "enrollment": "61",
+            "responses": "33",
+            "mean_course_effective": "82.6"
+        }
+    ],
+    "CCHU5001": [
+        {
+            "year": "2024-25",
+            "enrollment": "61",
+            "responses": "22",
+            "mean_course_effective": "80.7"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "114",
+            "responses": "46",
+            "mean_course_effective": "85.9"
+        }
+    ],
+    "CCHU5014": [
+        {
+            "year": "2024-25",
+            "enrollment": "95",
+            "responses": "43",
+            "mean_course_effective": "88.4"
+        }
+    ],
+    "CCHU5065": [
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "36",
+            "mean_course_effective": "78.5"
+        }
+    ],
+    "CCHU5074": [
+        {
+            "year": "2024-25",
+            "enrollment": "79",
+            "responses": "45",
+            "mean_course_effective": "83.9"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "79",
+            "responses": "25",
+            "mean_course_effective": "81.0"
+        }
+    ],
+    "CCHU5088": [
+        {
+            "year": "2024-25",
+            "enrollment": "101",
+            "responses": "69",
+            "mean_course_effective": "87.0"
+        }
+    ],
+    "CCHU8003": [
+        {
+            "year": "2020-21",
+            "enrollment": "4",
+            "responses": "1",
+            "mean_course_effective": "***"
+        }
+    ],
+    "CCHU8004": [
+        {
+            "year": "2020-21",
+            "enrollment": "4",
+            "responses": "2",
+            "mean_course_effective": "***"
+        }
+    ],
+    "CCHU9001": [
+        {
+            "year": "2024-25",
+            "enrollment": "119",
+            "responses": "60",
+            "mean_course_effective": "82.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "124",
+            "responses": "75",
+            "mean_course_effective": "83.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "121",
+            "responses": "51",
+            "mean_course_effective": "85.8"
+        }
+    ],
+    "CCHU9002": [
+        {
+            "year": "2024-25",
+            "enrollment": "125",
+            "responses": "73",
+            "mean_course_effective": "77.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "121",
+            "responses": "71",
+            "mean_course_effective": "81.0"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "120",
+            "responses": "30",
+            "mean_course_effective": "83.6"
+        }
+    ],
+    "CCHU9003": [
+        {
+            "year": "2018-19",
+            "enrollment": "125",
+            "responses": "63",
+            "mean_course_effective": "79.1"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "112",
+            "responses": "73",
+            "mean_course_effective": "76.7"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "119",
+            "responses": "89",
+            "mean_course_effective": "77.5"
+        }
+    ],
+    "CCHU9004": [
+        {
+            "year": "2013-14",
+            "enrollment": "119",
+            "responses": "83",
+            "mean_course_effective": "74.7"
+        },
+        {
+            "year": "2012-13",
+            "enrollment": "120",
+            "responses": "96",
+            "mean_course_effective": "70.5"
+        }
+    ],
+    "CCHU9005": [
+        {
+            "year": "2024-25",
+            "enrollment": "291",
+            "responses": "118",
+            "mean_course_effective": "78.6"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "285",
+            "responses": "193",
+            "mean_course_effective": "78.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "290",
+            "responses": "220",
+            "mean_course_effective": "75.7"
+        }
+    ],
+    "CCHU9006": [
+        {
+            "year": "2024-25",
+            "enrollment": "71",
+            "responses": "48",
+            "mean_course_effective": "81.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "98",
+            "mean_course_effective": "78.3"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "122",
+            "responses": "82",
+            "mean_course_effective": "68.6"
+        }
+    ],
+    "CCHU9007": [
+        {
+            "year": "2024-25",
+            "enrollment": "126",
+            "responses": "44",
+            "mean_course_effective": "66.5"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "117",
+            "responses": "47",
+            "mean_course_effective": "77.7"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "36",
+            "mean_course_effective": "77.8"
+        }
+    ],
+    "CCHU9009": [
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "83",
+            "mean_course_effective": "90.7"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "70",
+            "mean_course_effective": "93.6"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "116",
+            "responses": "43",
+            "mean_course_effective": "87.8"
+        }
+    ],
+    "CCHU9010": [
+        {
+            "year": "2024-25",
+            "enrollment": "116",
+            "responses": "87",
+            "mean_course_effective": "81.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "73",
+            "mean_course_effective": "74.3"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "119",
+            "responses": "78",
+            "mean_course_effective": "81.7"
+        }
+    ],
+    "CCHU9011": [
+        {
+            "year": "2024-25",
+            "enrollment": "115",
+            "responses": "84",
+            "mean_course_effective": "77.7"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "59",
+            "mean_course_effective": "85.2"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "119",
+            "responses": "95",
+            "mean_course_effective": "71.6"
+        }
+    ],
+    "CCHU9012": [
+        {
+            "year": "2024-25",
+            "enrollment": "126",
+            "responses": "51",
+            "mean_course_effective": "79.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "123",
+            "responses": "50",
+            "mean_course_effective": "75.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "125",
+            "responses": "53",
+            "mean_course_effective": "75.0"
+        }
+    ],
+    "CCHU9013": [
+        {
+            "year": "2024-25",
+            "enrollment": "124",
+            "responses": "69",
+            "mean_course_effective": "85.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "121",
+            "responses": "82",
+            "mean_course_effective": "82.9"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "118",
+            "responses": "106",
+            "mean_course_effective": "87.5"
+        }
+    ],
+    "CCHU9014": [
+        {
+            "year": "2023-24",
+            "enrollment": "123",
+            "responses": "80",
+            "mean_course_effective": "86.9"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "117",
+            "responses": "57",
+            "mean_course_effective": "81.6"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "125",
+            "responses": "61",
+            "mean_course_effective": "77.2"
+        }
+    ],
+    "CCHU9015": [
+        {
+            "year": "2024-25",
+            "enrollment": "125",
+            "responses": "24",
+            "mean_course_effective": "84.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "30",
+            "mean_course_effective": "85.8"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "121",
+            "responses": "61",
+            "mean_course_effective": "82.4"
+        }
+    ],
+    "CCHU9016": [
+        {
+            "year": "2021-22",
+            "enrollment": "30",
+            "responses": "6",
+            "mean_course_effective": "79.2"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "40",
+            "responses": "18",
+            "mean_course_effective": "72.1"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "101",
+            "responses": "41",
+            "mean_course_effective": "82.2"
+        }
+    ],
+    "CCHU9017": [
+        {
+            "year": "2014-15",
+            "enrollment": "240",
+            "responses": "122",
+            "mean_course_effective": "60.8"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "120",
+            "responses": "97",
+            "mean_course_effective": "62.0"
+        },
+        {
+            "year": "2012-13",
+            "enrollment": "120",
+            "responses": "94",
+            "mean_course_effective": "52.2"
+        }
+    ],
+    "CCHU9018": [
+        {
+            "year": "2023-24",
+            "enrollment": "122",
+            "responses": "74",
+            "mean_course_effective": "81.8"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "116",
+            "responses": "51",
+            "mean_course_effective": "77.0"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "117",
+            "responses": "39",
+            "mean_course_effective": "81.9"
+        }
+    ],
+    "CCHU9019": [
+        {
+            "year": "2024-25",
+            "enrollment": "107",
+            "responses": "53",
+            "mean_course_effective": "68.9"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "119",
+            "responses": "24",
+            "mean_course_effective": "74.0"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "119",
+            "responses": "38",
+            "mean_course_effective": "73.6"
+        }
+    ],
+    "CCHU9020": [
+        {
+            "year": "2012-13",
+            "enrollment": "118",
+            "responses": "77",
+            "mean_course_effective": "68.5"
+        }
+    ],
+    "CCHU9021": [
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "74",
+            "mean_course_effective": "83.1"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "122",
+            "responses": "61",
+            "mean_course_effective": "84.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "121",
+            "responses": "40",
+            "mean_course_effective": "89.4"
+        }
+    ],
+    "CCHU9022": [
+        {
+            "year": "2024-25",
+            "enrollment": "116",
+            "responses": "64",
+            "mean_course_effective": "83.6"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "114",
+            "responses": "56",
+            "mean_course_effective": "80.8"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "119",
+            "responses": "34",
+            "mean_course_effective": "80.9"
+        }
+    ],
+    "CCHU9023": [
+        {
+            "year": "2016-17",
+            "enrollment": "66",
+            "responses": "56",
+            "mean_course_effective": "65.2"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "39",
+            "responses": "36",
+            "mean_course_effective": "56.6"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "52",
+            "responses": "39",
+            "mean_course_effective": "66.7"
+        }
+    ],
+    "CCHU9024": [
+        {
+            "year": "2020-21",
+            "enrollment": "116",
+            "responses": "38",
+            "mean_course_effective": "82.9"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "120",
+            "responses": "45",
+            "mean_course_effective": "77.9"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "119",
+            "responses": "25",
+            "mean_course_effective": "79.3"
+        }
+    ],
+    "CCHU9025": [
+        {
+            "year": "2015-16",
+            "enrollment": "120",
+            "responses": "62",
+            "mean_course_effective": "85.1"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "120",
+            "responses": "67",
+            "mean_course_effective": "84.5"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "119",
+            "responses": "66",
+            "mean_course_effective": "81.9"
+        }
+    ],
+    "CCHU9026": [
+        {
+            "year": "2017-18",
+            "enrollment": "115",
+            "responses": "24",
+            "mean_course_effective": "65.9"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "119",
+            "responses": "45",
+            "mean_course_effective": "59.8"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "144",
+            "responses": "60",
+            "mean_course_effective": "64.5"
+        }
+    ],
+    "CCHU9028": [
+        {
+            "year": "2019-20",
+            "enrollment": "99",
+            "responses": "26",
+            "mean_course_effective": "64.4"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "128",
+            "responses": "77",
+            "mean_course_effective": "62.8"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "117",
+            "responses": "83",
+            "mean_course_effective": "62.0"
+        }
+    ],
+    "CCHU9030": [
+        {
+            "year": "2024-25",
+            "enrollment": "99",
+            "responses": "40",
+            "mean_course_effective": "75.6"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "84",
+            "responses": "55",
+            "mean_course_effective": "67.7"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "116",
+            "responses": "57",
+            "mean_course_effective": "74.6"
+        }
+    ],
+    "CCHU9031": [
+        {
+            "year": "2014-15",
+            "enrollment": "117",
+            "responses": "69",
+            "mean_course_effective": "70.4"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "106",
+            "responses": "56",
+            "mean_course_effective": "71.4"
+        }
+    ],
+    "CCHU9032": [
+        {
+            "year": "2024-25",
+            "enrollment": "50",
+            "responses": "32",
+            "mean_course_effective": "83.6"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "123",
+            "responses": "31",
+            "mean_course_effective": "75.8"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "117",
+            "responses": "37",
+            "mean_course_effective": "73.6"
+        }
+    ],
+    "CCHU9033": [
+        {
+            "year": "2021-22",
+            "enrollment": "31",
+            "responses": "10",
+            "mean_course_effective": "87.5"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "29",
+            "responses": "10",
+            "mean_course_effective": "65.0"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "118",
+            "responses": "35",
+            "mean_course_effective": "66.9"
+        }
+    ],
+    "CCHU9034": [
+        {
+            "year": "2024-25",
+            "enrollment": "111",
+            "responses": "67",
+            "mean_course_effective": "85.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "117",
+            "responses": "68",
+            "mean_course_effective": "81.6"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "116",
+            "responses": "79",
+            "mean_course_effective": "75.6"
+        }
+    ],
+    "CCHU9035": [
+        {
+            "year": "2014-15",
+            "enrollment": "65",
+            "responses": "50",
+            "mean_course_effective": "59.5"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "28",
+            "responses": "14",
+            "mean_course_effective": "75.0"
+        }
+    ],
+    "CCHU9036": [
+        {
+            "year": "2014-15",
+            "enrollment": "126",
+            "responses": "53",
+            "mean_course_effective": "79.5"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "109",
+            "responses": "46",
+            "mean_course_effective": "75.6"
+        }
+    ],
+    "CCHU9037": [
+        {
+            "year": "2015-16",
+            "enrollment": "119",
+            "responses": "78",
+            "mean_course_effective": "69.8"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "120",
+            "responses": "80",
+            "mean_course_effective": "54.2"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "117",
+            "responses": "65",
+            "mean_course_effective": "65.2"
+        }
+    ],
+    "CCHU9038": [
+        {
+            "year": "2017-18",
+            "enrollment": "122",
+            "responses": "68",
+            "mean_course_effective": "66.9"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "234",
+            "responses": "159",
+            "mean_course_effective": "69.7"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "142",
+            "responses": "70",
+            "mean_course_effective": "66.3"
+        }
+    ],
+    "CCHU9039": [
+        {
+            "year": "2024-25",
+            "enrollment": "122",
+            "responses": "38",
+            "mean_course_effective": "73.7"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "126",
+            "responses": "46",
+            "mean_course_effective": "79.9"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "123",
+            "responses": "39",
+            "mean_course_effective": "76.9"
+        }
+    ],
+    "CCHU9042": [
+        {
+            "year": "2023-24",
+            "enrollment": "117",
+            "responses": "50",
+            "mean_course_effective": "76.0"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "119",
+            "responses": "58",
+            "mean_course_effective": "73.3"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "239",
+            "responses": "164",
+            "mean_course_effective": "73.0"
+        }
+    ],
+    "CCHU9043": [
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "60",
+            "mean_course_effective": "90.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "56",
+            "mean_course_effective": "81.3"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "123",
+            "responses": "84",
+            "mean_course_effective": "86.3"
+        }
+    ],
+    "CCHU9044": [
+        {
+            "year": "2024-25",
+            "enrollment": "117",
+            "responses": "70",
+            "mean_course_effective": "87.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "58",
+            "mean_course_effective": "84.5"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "32",
+            "mean_course_effective": "80.5"
+        }
+    ],
+    "CCHU9045": [
+        {
+            "year": "2024-25",
+            "enrollment": "115",
+            "responses": "58",
+            "mean_course_effective": "87.9"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "75",
+            "mean_course_effective": "83.3"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "116",
+            "responses": "37",
+            "mean_course_effective": "83.1"
+        }
+    ],
+    "CCHU9046": [
+        {
+            "year": "2015-16",
+            "enrollment": "120",
+            "responses": "51",
+            "mean_course_effective": "68.4"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "118",
+            "responses": "61",
+            "mean_course_effective": "68.8"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "120",
+            "responses": "55",
+            "mean_course_effective": "56.6"
+        }
+    ],
+    "CCHU9047": [
+        {
+            "year": "2017-18",
+            "enrollment": "121",
+            "responses": "49",
+            "mean_course_effective": "70.4"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "117",
+            "responses": "43",
+            "mean_course_effective": "78.1"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "132",
+            "responses": "66",
+            "mean_course_effective": "79.0"
+        }
+    ],
+    "CCHU9048": [
+        {
+            "year": "2024-25",
+            "enrollment": "124",
+            "responses": "71",
+            "mean_course_effective": "76.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "94",
+            "responses": "44",
+            "mean_course_effective": "85.8"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "59",
+            "mean_course_effective": "83.9"
+        }
+    ],
+    "CCHU9049": [
+        {
+            "year": "2024-25",
+            "enrollment": "110",
+            "responses": "57",
+            "mean_course_effective": "79.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "116",
+            "responses": "72",
+            "mean_course_effective": "78.5"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "44",
+            "mean_course_effective": "75.0"
+        }
+    ],
+    "CCHU9050": [
+        {
+            "year": "2017-18",
+            "enrollment": "119",
+            "responses": "50",
+            "mean_course_effective": "71.8"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "120",
+            "responses": "47",
+            "mean_course_effective": "73.4"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "134",
+            "responses": "77",
+            "mean_course_effective": "71.4"
+        }
+    ],
+    "CCHU9051": [
+        {
+            "year": "2024-25",
+            "enrollment": "126",
+            "responses": "47",
+            "mean_course_effective": "80.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "123",
+            "responses": "77",
+            "mean_course_effective": "77.9"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "117",
+            "responses": "88",
+            "mean_course_effective": "77.3"
+        }
+    ],
+    "CCHU9052": [
+        {
+            "year": "2024-25",
+            "enrollment": "68",
+            "responses": "21",
+            "mean_course_effective": "67.9"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "40",
+            "mean_course_effective": "90.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "114",
+            "responses": "41",
+            "mean_course_effective": "82.9"
+        }
+    ],
+    "CCHU9053": [
+        {
+            "year": "2024-25",
+            "enrollment": "110",
+            "responses": "90",
+            "mean_course_effective": "81.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "71",
+            "mean_course_effective": "80.6"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "93",
+            "responses": "23",
+            "mean_course_effective": "81.5"
+        }
+    ],
+    "CCHU9054": [
+        {
+            "year": "2019-20",
+            "enrollment": "119",
+            "responses": "18",
+            "mean_course_effective": "68.8"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "124",
+            "responses": "72",
+            "mean_course_effective": "63.6"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "122",
+            "responses": "32",
+            "mean_course_effective": "53.3"
+        }
+    ],
+    "CCHU9055": [
+        {
+            "year": "2020-21",
+            "enrollment": "115",
+            "responses": "70",
+            "mean_course_effective": "69.5"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "106",
+            "responses": "22",
+            "mean_course_effective": "78.6"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "83",
+            "responses": "26",
+            "mean_course_effective": "81.3"
+        }
+    ],
+    "CCHU9056": [
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "26",
+            "mean_course_effective": "66.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "39",
+            "mean_course_effective": "67.9"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "111",
+            "responses": "23",
+            "mean_course_effective": "65.9"
+        }
+    ],
+    "CCHU9057": [
+        {
+            "year": "2021-22",
+            "enrollment": "79",
+            "responses": "36",
+            "mean_course_effective": "86.8"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "77",
+            "responses": "34",
+            "mean_course_effective": "86.7"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "82",
+            "responses": "8",
+            "mean_course_effective": "90.6"
+        }
+    ],
+    "CCHU9058": [
+        {
+            "year": "2024-25",
+            "enrollment": "73",
+            "responses": "52",
+            "mean_course_effective": "82.7"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "104",
+            "responses": "71",
+            "mean_course_effective": "85.6"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "112",
+            "responses": "91",
+            "mean_course_effective": "76.2"
+        }
+    ],
+    "CCHU9059": [
+        {
+            "year": "2019-20",
+            "enrollment": "38",
+            "responses": "8",
+            "mean_course_effective": "67.9"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "46",
+            "responses": "41",
+            "mean_course_effective": "83.5"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "54",
+            "responses": "37",
+            "mean_course_effective": "75.7"
+        }
+    ],
+    "CCHU9060": [
+        {
+            "year": "2024-25",
+            "enrollment": "124",
+            "responses": "105",
+            "mean_course_effective": "79.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "121",
+            "responses": "51",
+            "mean_course_effective": "81.4"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "121",
+            "responses": "47",
+            "mean_course_effective": "53.2"
+        }
+    ],
+    "CCHU9061": [
+        {
+            "year": "2021-22",
+            "enrollment": "118",
+            "responses": "46",
+            "mean_course_effective": "70.7"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "107",
+            "responses": "38",
+            "mean_course_effective": "65.4"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "117",
+            "responses": "18",
+            "mean_course_effective": "58.8"
+        }
+    ],
+    "CCHU9062": [
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "82",
+            "mean_course_effective": "76.2"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "94",
+            "responses": "60",
+            "mean_course_effective": "75.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "121",
+            "responses": "98",
+            "mean_course_effective": "81.6"
+        }
+    ],
+    "CCHU9063": [
+        {
+            "year": "2019-20",
+            "enrollment": "123",
+            "responses": "15",
+            "mean_course_effective": "70.0"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "123",
+            "responses": "49",
+            "mean_course_effective": "72.3"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "124",
+            "responses": "53",
+            "mean_course_effective": "74.5"
+        }
+    ],
+    "CCHU9065": [
+        {
+            "year": "2024-25",
+            "enrollment": "126",
+            "responses": "51",
+            "mean_course_effective": "88.2"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "51",
+            "mean_course_effective": "84.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "52",
+            "mean_course_effective": "89.9"
+        }
+    ],
+    "CCHU9066": [
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "69",
+            "mean_course_effective": "83.3"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "74",
+            "responses": "25",
+            "mean_course_effective": "84.8"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "118",
+            "responses": "36",
+            "mean_course_effective": "74.3"
+        }
+    ],
+    "CCHU9068": [
+        {
+            "year": "2024-25",
+            "enrollment": "50",
+            "responses": "13",
+            "mean_course_effective": "92.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "105",
+            "responses": "40",
+            "mean_course_effective": "82.5"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "116",
+            "responses": "36",
+            "mean_course_effective": "80.6"
+        }
+    ],
+    "CCHU9069": [
+        {
+            "year": "2024-25",
+            "enrollment": "97",
+            "responses": "31",
+            "mean_course_effective": "78.2"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "89",
+            "responses": "22",
+            "mean_course_effective": "71.6"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "110",
+            "responses": "47",
+            "mean_course_effective": "76.6"
+        }
+    ],
+    "CCHU9070": [
+        {
+            "year": "2024-25",
+            "enrollment": "82",
+            "responses": "30",
+            "mean_course_effective": "82.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "82",
+            "responses": "28",
+            "mean_course_effective": "80.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "84",
+            "responses": "25",
+            "mean_course_effective": "79.0"
+        }
+    ],
+    "CCHU9071": [
+        {
+            "year": "2024-25",
+            "enrollment": "122",
+            "responses": "33",
+            "mean_course_effective": "83.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "125",
+            "responses": "70",
+            "mean_course_effective": "85.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "121",
+            "responses": "60",
+            "mean_course_effective": "82.9"
+        }
+    ],
+    "CCHU9073": [
+        {
+            "year": "2018-19",
+            "enrollment": "32",
+            "responses": "22",
+            "mean_course_effective": "72.7"
+        }
+    ],
+    "CCHU9074": [
+        {
+            "year": "2022-23",
+            "enrollment": "78",
+            "responses": "33",
+            "mean_course_effective": "73.5"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "79",
+            "responses": "24",
+            "mean_course_effective": "82.3"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "79",
+            "responses": "18",
+            "mean_course_effective": "87.5"
+        }
+    ],
+    "CCHU9075": [
+        {
+            "year": "2024-25",
+            "enrollment": "121",
+            "responses": "83",
+            "mean_course_effective": "89.2"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "117",
+            "responses": "90",
+            "mean_course_effective": "82.8"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "115",
+            "responses": "54",
+            "mean_course_effective": "81.9"
+        }
+    ],
+    "CCHU9076": [
+        {
+            "year": "2024-25",
+            "enrollment": "121",
+            "responses": "72",
+            "mean_course_effective": "85.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "115",
+            "responses": "48",
+            "mean_course_effective": "79.2"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "124",
+            "responses": "55",
+            "mean_course_effective": "87.3"
+        }
+    ],
+    "CCHU9077": [
+        {
+            "year": "2021-22",
+            "enrollment": "115",
+            "responses": "45",
+            "mean_course_effective": "84.7"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "106",
+            "responses": "39",
+            "mean_course_effective": "87.1"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "110",
+            "responses": "52",
+            "mean_course_effective": "76.4"
+        }
+    ],
+    "CCHU9078": [
+        {
+            "year": "2024-25",
+            "enrollment": "121",
+            "responses": "43",
+            "mean_course_effective": "83.7"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "121",
+            "responses": "43",
+            "mean_course_effective": "83.7"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "122",
+            "responses": "37",
+            "mean_course_effective": "82.4"
+        }
+    ],
+    "CCHU9079": [
+        {
+            "year": "2024-25",
+            "enrollment": "34",
+            "responses": "25",
+            "mean_course_effective": "93.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "77",
+            "responses": "18",
+            "mean_course_effective": "77.8"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "122",
+            "responses": "38",
+            "mean_course_effective": "84.9"
+        }
+    ],
+    "CCHU9080": [
+        {
+            "year": "2024-25",
+            "enrollment": "112",
+            "responses": "57",
+            "mean_course_effective": "85.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "113",
+            "responses": "59",
+            "mean_course_effective": "83.9"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "117",
+            "responses": "61",
+            "mean_course_effective": "85.2"
+        }
+    ],
+    "CCHU9081": [
+        {
+            "year": "2024-25",
+            "enrollment": "126",
+            "responses": "39",
+            "mean_course_effective": "84.6"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "121",
+            "responses": "38",
+            "mean_course_effective": "81.6"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "34",
+            "mean_course_effective": "81.6"
+        }
+    ],
+    "CCHU9082": [
+        {
+            "year": "2024-25",
+            "enrollment": "126",
+            "responses": "88",
+            "mean_course_effective": "88.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "125",
+            "responses": "81",
+            "mean_course_effective": "85.5"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "123",
+            "responses": "89",
+            "mean_course_effective": "89.3"
+        }
+    ],
+    "CCHU9083": [
+        {
+            "year": "2022-23",
+            "enrollment": "49",
+            "responses": "25",
+            "mean_course_effective": "64.0"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "72",
+            "responses": "18",
+            "mean_course_effective": "58.3"
+        }
+    ],
+    "CCHU9084": [
+        {
+            "year": "2024-25",
+            "enrollment": "124",
+            "responses": "101",
+            "mean_course_effective": "89.9"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "115",
+            "responses": "44",
+            "mean_course_effective": "84.1"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "114",
+            "responses": "62",
+            "mean_course_effective": "87.5"
+        }
+    ],
+    "CCHU9085": [
+        {
+            "year": "2023-24",
+            "enrollment": "88",
+            "responses": "26",
+            "mean_course_effective": "73.1"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "91",
+            "responses": "81",
+            "mean_course_effective": "71.9"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "99",
+            "responses": "73",
+            "mean_course_effective": "65.7"
+        }
+    ],
+    "CCHU9086": [
+        {
+            "year": "2024-25",
+            "enrollment": "121",
+            "responses": "110",
+            "mean_course_effective": "93.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "92",
+            "mean_course_effective": "88.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "112",
+            "responses": "46",
+            "mean_course_effective": "81.5"
+        }
+    ],
+    "CCHU9088": [
+        {
+            "year": "2023-24",
+            "enrollment": "122",
+            "responses": "74",
+            "mean_course_effective": "91.6"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "121",
+            "responses": "96",
+            "mean_course_effective": "87.0"
+        }
+    ],
+    "CCHU9090": [
+        {
+            "year": "2024-25",
+            "enrollment": "122",
+            "responses": "45",
+            "mean_course_effective": "87.2"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "123",
+            "responses": "54",
+            "mean_course_effective": "72.2"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "112",
+            "responses": "56",
+            "mean_course_effective": "78.1"
+        }
+    ],
+    "CCHU9092": [
+        {
+            "year": "2024-25",
+            "enrollment": "74",
+            "responses": "55",
+            "mean_course_effective": "79.5"
+        }
+    ],
+    "CCGL5005": [
+        {
+            "year": "2024-25",
+            "enrollment": "117",
+            "responses": "43",
+            "mean_course_effective": "83.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "38",
+            "mean_course_effective": "78.9"
+        }
+    ],
+    "CCGL5022": [
+        {
+            "year": "2024-25",
+            "enrollment": "237",
+            "responses": "119",
+            "mean_course_effective": "86.6"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "54",
+            "mean_course_effective": "81.9"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "49",
+            "mean_course_effective": "82.1"
+        }
+    ],
+    "CCGL5048": [
+        {
+            "year": "2024-25",
+            "enrollment": "119",
+            "responses": "37",
+            "mean_course_effective": "93.9"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "33",
+            "mean_course_effective": "77.3"
+        }
+    ],
+    "CCGL5062": [
+        {
+            "year": "2024-25",
+            "enrollment": "119",
+            "responses": "37",
+            "mean_course_effective": "71.6"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "34",
+            "mean_course_effective": "77.2"
+        }
+    ],
+    "CCGL5063": [
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "53",
+            "mean_course_effective": "82.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "55",
+            "mean_course_effective": "88.6"
+        }
+    ],
+    "CCGL6001": [
+        {
+            "year": "2024-25",
+            "enrollment": "16",
+            "responses": "9",
+            "mean_course_effective": "75.0"
+        }
+    ],
+    "CCGL6002": [
+        {
+            "year": "2024-25",
+            "enrollment": "12",
+            "responses": "9",
+            "mean_course_effective": "97.2"
+        }
+    ],
+    "CCGL7003": [
+        {
+            "year": "2019-20",
+            "enrollment": "11",
+            "responses": "2",
+            "mean_course_effective": "***"
+        }
+    ],
+    "CCGL9001": [
+        {
+            "year": "2024-25",
+            "enrollment": "126",
+            "responses": "26",
+            "mean_course_effective": "81.7"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "126",
+            "responses": "41",
+            "mean_course_effective": "80.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "125",
+            "responses": "36",
+            "mean_course_effective": "82.6"
+        }
+    ],
+    "CCGL9002": [
+        {
+            "year": "2024-25",
+            "enrollment": "125",
+            "responses": "32",
+            "mean_course_effective": "76.6"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "124",
+            "responses": "44",
+            "mean_course_effective": "80.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "124",
+            "responses": "41",
+            "mean_course_effective": "84.1"
+        }
+    ],
+    "CCGL9003": [
+        {
+            "year": "2020-21",
+            "enrollment": "120",
+            "responses": "41",
+            "mean_course_effective": "72.6"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "123",
+            "responses": "26",
+            "mean_course_effective": "66.0"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "120",
+            "responses": "86",
+            "mean_course_effective": "71.1"
+        }
+    ],
+    "CCGL9004": [
+        {
+            "year": "2018-19",
+            "enrollment": "109",
+            "responses": "27",
+            "mean_course_effective": "72.0"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "118",
+            "responses": "39",
+            "mean_course_effective": "66.0"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "120",
+            "responses": "47",
+            "mean_course_effective": "76.1"
+        }
+    ],
+    "CCGL9005": [
+        {
+            "year": "2022-23",
+            "enrollment": "125",
+            "responses": "42",
+            "mean_course_effective": "76.8"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "122",
+            "responses": "36",
+            "mean_course_effective": "79.4"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "120",
+            "responses": "36",
+            "mean_course_effective": "72.7"
+        }
+    ],
+    "CCGL9006": [
+        {
+            "year": "2015-16",
+            "enrollment": "48",
+            "responses": "37",
+            "mean_course_effective": "77.9"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "114",
+            "responses": "59",
+            "mean_course_effective": "72.8"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "28",
+            "responses": "23",
+            "mean_course_effective": "78.3"
+        }
+    ],
+    "CCGL9007": [
+        {
+            "year": "2024-25",
+            "enrollment": "119",
+            "responses": "64",
+            "mean_course_effective": "73.0"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "95",
+            "mean_course_effective": "81.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "50",
+            "mean_course_effective": "80.5"
+        }
+    ],
+    "CCGL9008": [
+        {
+            "year": "2019-20",
+            "enrollment": "114",
+            "responses": "26",
+            "mean_course_effective": "71.0"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "115",
+            "responses": "42",
+            "mean_course_effective": "73.7"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "121",
+            "responses": "76",
+            "mean_course_effective": "74.3"
+        }
+    ],
+    "CCGL9009": [
+        {
+            "year": "2019-20",
+            "enrollment": "112",
+            "responses": "44",
+            "mean_course_effective": "69.5"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "121",
+            "responses": "90",
+            "mean_course_effective": "70.5"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "126",
+            "responses": "99",
+            "mean_course_effective": "72.2"
+        }
+    ],
+    "CCGL9010": [
+        {
+            "year": "2024-25",
+            "enrollment": "125",
+            "responses": "56",
+            "mean_course_effective": "76.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "123",
+            "responses": "90",
+            "mean_course_effective": "76.4"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "118",
+            "responses": "46",
+            "mean_course_effective": "71.7"
+        }
+    ],
+    "CCGL9011": [
+        {
+            "year": "2024-25",
+            "enrollment": "126",
+            "responses": "43",
+            "mean_course_effective": "80.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "124",
+            "responses": "43",
+            "mean_course_effective": "69.2"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "226",
+            "responses": "64",
+            "mean_course_effective": "69.1"
+        }
+    ],
+    "CCGL9012": [
+        {
+            "year": "2012-13",
+            "enrollment": "40",
+            "responses": "34",
+            "mean_course_effective": "75.0"
+        }
+    ],
+    "CCGL9013": [
+        {
+            "year": "2019-20",
+            "enrollment": "93",
+            "responses": "16",
+            "mean_course_effective": "68.8"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "95",
+            "responses": "38",
+            "mean_course_effective": "77.8"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "126",
+            "responses": "52",
+            "mean_course_effective": "74.5"
+        }
+    ],
+    "CCGL9014": [
+        {
+            "year": "2024-25",
+            "enrollment": "117",
+            "responses": "48",
+            "mean_course_effective": "77.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "30",
+            "mean_course_effective": "75.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "118",
+            "responses": "47",
+            "mean_course_effective": "75.5"
+        }
+    ],
+    "CCGL9015": [
+        {
+            "year": "2024-25",
+            "enrollment": "84",
+            "responses": "35",
+            "mean_course_effective": "65.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "32",
+            "mean_course_effective": "68.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "121",
+            "responses": "45",
+            "mean_course_effective": "67.2"
+        }
+    ],
+    "CCGL9016": [
+        {
+            "year": "2024-25",
+            "enrollment": "123",
+            "responses": "32",
+            "mean_course_effective": "82.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "45",
+            "mean_course_effective": "79.4"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "40",
+            "mean_course_effective": "73.8"
+        }
+    ],
+    "CCGL9017": [
+        {
+            "year": "2021-22",
+            "enrollment": "119",
+            "responses": "39",
+            "mean_course_effective": "71.2"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "120",
+            "responses": "16",
+            "mean_course_effective": "65.6"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "120",
+            "responses": "15",
+            "mean_course_effective": "61.5"
+        }
+    ],
+    "CCGL9018": [
+        {
+            "year": "2024-25",
+            "enrollment": "114",
+            "responses": "35",
+            "mean_course_effective": "77.9"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "122",
+            "responses": "33",
+            "mean_course_effective": "78.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "113",
+            "responses": "35",
+            "mean_course_effective": "72.9"
+        }
+    ],
+    "CCGL9019": [
+        {
+            "year": "2024-25",
+            "enrollment": "114",
+            "responses": "35",
+            "mean_course_effective": "72.9"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "108",
+            "responses": "56",
+            "mean_course_effective": "79.5"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "120",
+            "responses": "79",
+            "mean_course_effective": "68.3"
+        }
+    ],
+    "CCGL9020": [
+        {
+            "year": "2019-20",
+            "enrollment": "116",
+            "responses": "15",
+            "mean_course_effective": "68.3"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "120",
+            "responses": "28",
+            "mean_course_effective": "67.9"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "119",
+            "responses": "93",
+            "mean_course_effective": "71.7"
+        }
+    ],
+    "CCGL9021": [
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "53",
+            "mean_course_effective": "79.7"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "122",
+            "responses": "43",
+            "mean_course_effective": "77.9"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "125",
+            "responses": "49",
+            "mean_course_effective": "82.1"
+        }
+    ],
+    "CCGL9022": [
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "34",
+            "mean_course_effective": "81.6"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "116",
+            "responses": "51",
+            "mean_course_effective": "74.5"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "116",
+            "responses": "65",
+            "mean_course_effective": "74.2"
+        }
+    ],
+    "CCGL9023": [
+        {
+            "year": "2016-17",
+            "enrollment": "116",
+            "responses": "35",
+            "mean_course_effective": "80.1"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "118",
+            "responses": "55",
+            "mean_course_effective": "69.8"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "119",
+            "responses": "82",
+            "mean_course_effective": "73.0"
+        }
+    ],
+    "CCGL9024": [
+        {
+            "year": "2024-25",
+            "enrollment": "124",
+            "responses": "35",
+            "mean_course_effective": "66.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "57",
+            "mean_course_effective": "85.1"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "117",
+            "responses": "32",
+            "mean_course_effective": "82.8"
+        }
+    ],
+    "CCGL9025": [
+        {
+            "year": "2024-25",
+            "enrollment": "125",
+            "responses": "82",
+            "mean_course_effective": "88.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "125",
+            "responses": "53",
+            "mean_course_effective": "73.6"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "118",
+            "responses": "44",
+            "mean_course_effective": "76.1"
+        }
+    ],
+    "CCGL9026": [
+        {
+            "year": "2024-25",
+            "enrollment": "118",
+            "responses": "58",
+            "mean_course_effective": "78.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "52",
+            "mean_course_effective": "76.4"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "119",
+            "responses": "60",
+            "mean_course_effective": "75.0"
+        }
+    ],
+    "CCGL9027": [
+        {
+            "year": "2022-23",
+            "enrollment": "127",
+            "responses": "30",
+            "mean_course_effective": "80.8"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "126",
+            "responses": "28",
+            "mean_course_effective": "76.9"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "118",
+            "responses": "24",
+            "mean_course_effective": "79.3"
+        }
+    ],
+    "CCGL9028": [
+        {
+            "year": "2020-21",
+            "enrollment": "117",
+            "responses": "35",
+            "mean_course_effective": "77.2"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "70",
+            "responses": "22",
+            "mean_course_effective": "82.1"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "127",
+            "responses": "50",
+            "mean_course_effective": "81.8"
+        }
+    ],
+    "CCGL9030": [
+        {
+            "year": "2024-25",
+            "enrollment": "266",
+            "responses": "92",
+            "mean_course_effective": "81.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "66",
+            "mean_course_effective": "79.9"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "41",
+            "mean_course_effective": "78.0"
+        }
+    ],
+    "CCGL9031": [
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "83",
+            "mean_course_effective": "89.2"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "119",
+            "responses": "74",
+            "mean_course_effective": "82.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "81",
+            "mean_course_effective": "88.0"
+        }
+    ],
+    "CCGL9032": [
+        {
+            "year": "2024-25",
+            "enrollment": "114",
+            "responses": "70",
+            "mean_course_effective": "89.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "73",
+            "responses": "29",
+            "mean_course_effective": "88.8"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "58",
+            "responses": "15",
+            "mean_course_effective": "88.3"
+        }
+    ],
+    "CCGL9033": [
+        {
+            "year": "2022-23",
+            "enrollment": "116",
+            "responses": "80",
+            "mean_course_effective": "79.4"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "118",
+            "responses": "33",
+            "mean_course_effective": "76.6"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "112",
+            "responses": "19",
+            "mean_course_effective": "70.8"
+        }
+    ],
+    "CCGL9034": [
+        {
+            "year": "2020-21",
+            "enrollment": "111",
+            "responses": "41",
+            "mean_course_effective": "73.8"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "155",
+            "responses": "24",
+            "mean_course_effective": "57.3"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "117",
+            "responses": "64",
+            "mean_course_effective": "73.0"
+        }
+    ],
+    "CCGL9035": [
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "46",
+            "mean_course_effective": "74.5"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "117",
+            "responses": "64",
+            "mean_course_effective": "81.3"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "116",
+            "responses": "57",
+            "mean_course_effective": "77.2"
+        }
+    ],
+    "CCGL9036": [
+        {
+            "year": "2024-25",
+            "enrollment": "117",
+            "responses": "27",
+            "mean_course_effective": "75.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "111",
+            "responses": "26",
+            "mean_course_effective": "76.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "115",
+            "responses": "35",
+            "mean_course_effective": "52.9"
+        }
+    ],
+    "CCGL9038": [
+        {
+            "year": "2022-23",
+            "enrollment": "118",
+            "responses": "84",
+            "mean_course_effective": "81.3"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "118",
+            "responses": "41",
+            "mean_course_effective": "69.2"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "124",
+            "responses": "45",
+            "mean_course_effective": "73.9"
+        }
+    ],
+    "CCGL9039": [
+        {
+            "year": "2014-15",
+            "enrollment": "144",
+            "responses": "93",
+            "mean_course_effective": "79.5"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "117",
+            "responses": "77",
+            "mean_course_effective": "78.5"
+        },
+        {
+            "year": "2012-13",
+            "enrollment": "120",
+            "responses": "102",
+            "mean_course_effective": "71.2"
+        }
+    ],
+    "CCGL9040": [
+        {
+            "year": "2024-25",
+            "enrollment": "122",
+            "responses": "59",
+            "mean_course_effective": "78.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "124",
+            "responses": "59",
+            "mean_course_effective": "72.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "49",
+            "mean_course_effective": "72.4"
+        }
+    ],
+    "CCGL9041": [
+        {
+            "year": "2013-14",
+            "enrollment": "120",
+            "responses": "76",
+            "mean_course_effective": "36.0"
+        }
+    ],
+    "CCGL9042": [
+        {
+            "year": "2024-25",
+            "enrollment": "267",
+            "responses": "199",
+            "mean_course_effective": "81.8"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "122",
+            "responses": "91",
+            "mean_course_effective": "62.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "89",
+            "mean_course_effective": "77.2"
+        }
+    ],
+    "CCGL9043": [
+        {
+            "year": "2016-17",
+            "enrollment": "119",
+            "responses": "32",
+            "mean_course_effective": "67.7"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "120",
+            "responses": "52",
+            "mean_course_effective": "69.5"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "120",
+            "responses": "83",
+            "mean_course_effective": "76.9"
+        }
+    ],
+    "CCGL9044": [
+        {
+            "year": "2016-17",
+            "enrollment": "24",
+            "responses": "13",
+            "mean_course_effective": "88.5"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "29",
+            "responses": "23",
+            "mean_course_effective": "78.3"
+        }
+    ],
+    "CCGL9047": [
+        {
+            "year": "2019-20",
+            "enrollment": "126",
+            "responses": "21",
+            "mean_course_effective": "72.4"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "124",
+            "responses": "68",
+            "mean_course_effective": "75.4"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "124",
+            "responses": "88",
+            "mean_course_effective": "74.4"
+        }
+    ],
+    "CCGL9048": [
+        {
+            "year": "2022-23",
+            "enrollment": "121",
+            "responses": "53",
+            "mean_course_effective": "82.1"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "120",
+            "responses": "25",
+            "mean_course_effective": "78.1"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "116",
+            "responses": "41",
+            "mean_course_effective": "78.3"
+        }
+    ],
+    "CCGL9049": [
+        {
+            "year": "2022-23",
+            "enrollment": "126",
+            "responses": "71",
+            "mean_course_effective": "82.4"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "123",
+            "responses": "41",
+            "mean_course_effective": "66.5"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "117",
+            "responses": "28",
+            "mean_course_effective": "77.1"
+        }
+    ],
+    "CCGL9050": [
+        {
+            "year": "2024-25",
+            "enrollment": "122",
+            "responses": "79",
+            "mean_course_effective": "85.4"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "122",
+            "responses": "46",
+            "mean_course_effective": "88.0"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "116",
+            "responses": "27",
+            "mean_course_effective": "76.9"
+        }
+    ],
+    "CCGL9051": [
+        {
+            "year": "2017-18",
+            "enrollment": "120",
+            "responses": "79",
+            "mean_course_effective": "69.8"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "57",
+            "responses": "32",
+            "mean_course_effective": "86.3"
+        }
+    ],
+    "CCGL9052": [
+        {
+            "year": "2024-25",
+            "enrollment": "117",
+            "responses": "62",
+            "mean_course_effective": "79.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "39",
+            "mean_course_effective": "75.6"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "119",
+            "responses": "58",
+            "mean_course_effective": "85.3"
+        }
+    ],
+    "CCGL9053": [
+        {
+            "year": "2024-25",
+            "enrollment": "124",
+            "responses": "100",
+            "mean_course_effective": "87.0"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "125",
+            "responses": "84",
+            "mean_course_effective": "85.7"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "126",
+            "responses": "79",
+            "mean_course_effective": "87.3"
+        }
+    ],
+    "CCGL9054": [
+        {
+            "year": "2023-24",
+            "enrollment": "113",
+            "responses": "40",
+            "mean_course_effective": "78.1"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "119",
+            "responses": "37",
+            "mean_course_effective": "79.1"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "114",
+            "responses": "27",
+            "mean_course_effective": "74.0"
+        }
+    ],
+    "CCGL9055": [
+        {
+            "year": "2023-24",
+            "enrollment": "101",
+            "responses": "31",
+            "mean_course_effective": "74.2"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "119",
+            "responses": "56",
+            "mean_course_effective": "70.1"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "110",
+            "responses": "34",
+            "mean_course_effective": "76.5"
+        }
+    ],
+    "CCGL9056": [
+        {
+            "year": "2019-20",
+            "enrollment": "119",
+            "responses": "29",
+            "mean_course_effective": "71.6"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "117",
+            "responses": "62",
+            "mean_course_effective": "76.3"
+        }
+    ],
+    "CCGL9057": [
+        {
+            "year": "2019-20",
+            "enrollment": "119",
+            "responses": "21",
+            "mean_course_effective": "82.9"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "113",
+            "responses": "72",
+            "mean_course_effective": "63.7"
+        }
+    ],
+    "CCGL9058": [
+        {
+            "year": "2024-25",
+            "enrollment": "23",
+            "responses": "10",
+            "mean_course_effective": "80.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "44",
+            "mean_course_effective": "81.8"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "113",
+            "responses": "38",
+            "mean_course_effective": "75.7"
+        }
+    ],
+    "CCGL9059": [
+        {
+            "year": "2024-25",
+            "enrollment": "118",
+            "responses": "59",
+            "mean_course_effective": "80.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "43",
+            "mean_course_effective": "76.7"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "119",
+            "responses": "46",
+            "mean_course_effective": "73.4"
+        }
+    ],
+    "CCGL9060": [
+        {
+            "year": "2018-19",
+            "enrollment": "106",
+            "responses": "48",
+            "mean_course_effective": "75.0"
+        }
+    ],
+    "CCGL9061": [
+        {
+            "year": "2022-23",
+            "enrollment": "108",
+            "responses": "67",
+            "mean_course_effective": "80.2"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "121",
+            "responses": "51",
+            "mean_course_effective": "77.0"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "120",
+            "responses": "40",
+            "mean_course_effective": "77.6"
+        }
+    ],
+    "CCGL9062": [
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "29",
+            "mean_course_effective": "81.9"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "120",
+            "responses": "24",
+            "mean_course_effective": "72.9"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "118",
+            "responses": "21",
+            "mean_course_effective": "72.2"
+        }
+    ],
+    "CCGL9063": [
+        {
+            "year": "2022-23",
+            "enrollment": "125",
+            "responses": "72",
+            "mean_course_effective": "90.6"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "119",
+            "responses": "59",
+            "mean_course_effective": "80.7"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "117",
+            "responses": "53",
+            "mean_course_effective": "82.8"
+        }
+    ],
+    "CCGL9064": [
+        {
+            "year": "2021-22",
+            "enrollment": "120",
+            "responses": "76",
+            "mean_course_effective": "70.9"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "115",
+            "responses": "36",
+            "mean_course_effective": "78.6"
+        }
+    ],
+    "CCGL9065": [
+        {
+            "year": "2024-25",
+            "enrollment": "68",
+            "responses": "39",
+            "mean_course_effective": "74.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "99",
+            "responses": "49",
+            "mean_course_effective": "64.3"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "114",
+            "responses": "75",
+            "mean_course_effective": "66.5"
+        }
+    ],
+    "CCGL9066": [
+        {
+            "year": "2024-25",
+            "enrollment": "115",
+            "responses": "40",
+            "mean_course_effective": "82.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "98",
+            "responses": "50",
+            "mean_course_effective": "70.5"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "117",
+            "responses": "77",
+            "mean_course_effective": "79.2"
+        }
+    ],
+    "CCGL9067": [
+        {
+            "year": "2024-25",
+            "enrollment": "37",
+            "responses": "23",
+            "mean_course_effective": "83.7"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "121",
+            "responses": "22",
+            "mean_course_effective": "85.2"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "33",
+            "mean_course_effective": "78.8"
+        }
+    ],
+    "CCGL9068": [
+        {
+            "year": "2024-25",
+            "enrollment": "36",
+            "responses": "21",
+            "mean_course_effective": "84.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "84",
+            "responses": "28",
+            "mean_course_effective": "75.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "124",
+            "responses": "51",
+            "mean_course_effective": "77.9"
+        }
+    ],
+    "CCGL9069": [
+        {
+            "year": "2023-24",
+            "enrollment": "117",
+            "responses": "40",
+            "mean_course_effective": "86.9"
+        }
+    ],
+    "CCGL9070": [
+        {
+            "year": "2024-25",
+            "enrollment": "31",
+            "responses": "14",
+            "mean_course_effective": "71.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "104",
+            "responses": "69",
+            "mean_course_effective": "66.3"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "104",
+            "responses": "61",
+            "mean_course_effective": "73.4"
+        }
+    ],
+    "CCGL9073": [
+        {
+            "year": "2024-25",
+            "enrollment": "127",
+            "responses": "50",
+            "mean_course_effective": "86.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "126",
+            "responses": "52",
+            "mean_course_effective": "84.6"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "126",
+            "responses": "91",
+            "mean_course_effective": "81.0"
+        }
+    ],
+    "CCGL9074": [
+        {
+            "year": "2024-25",
+            "enrollment": "126",
+            "responses": "71",
+            "mean_course_effective": "84.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "125",
+            "responses": "90",
+            "mean_course_effective": "90.3"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "122",
+            "responses": "54",
+            "mean_course_effective": "81.5"
+        }
+    ],
+    "CCGL9076": [
+        {
+            "year": "2024-25",
+            "enrollment": "78",
+            "responses": "27",
+            "mean_course_effective": "63.0"
+        }
+    ],
+    "CCGL9077": [
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "87",
+            "mean_course_effective": "89.1"
+        }
+    ],
+    "CCGL9078": [
+        {
+            "year": "2024-25",
+            "enrollment": "110",
+            "responses": "32",
+            "mean_course_effective": "79.7"
+        }
+    ],
+    "CCGL9079": [
+        {
+            "year": "2024-25",
+            "enrollment": "125",
+            "responses": "43",
+            "mean_course_effective": "91.3"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "119",
+            "responses": "45",
+            "mean_course_effective": "92.8"
+        }
+    ],
+    "CCGL9080": [
+        {
+            "year": "2024-25",
+            "enrollment": "83",
+            "responses": "38",
+            "mean_course_effective": "88.8"
+        }
+    ],
+    "CCGL9081": [
+        {
+            "year": "2024-25",
+            "enrollment": "65",
+            "responses": "61",
+            "mean_course_effective": "86.1"
+        }
+    ],
+    "CCGL9082": [
+        {
+            "year": "2024-25",
+            "enrollment": "90",
+            "responses": "20",
+            "mean_course_effective": "81.3"
+        }
+    ],
+    "CCCH5006": [
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "44",
+            "mean_course_effective": "75.0"
+        }
+    ],
+    "CCCH5017": [
+        {
+            "year": "2024-25",
+            "enrollment": "119",
+            "responses": "77",
+            "mean_course_effective": "83.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "75",
+            "mean_course_effective": "79.0"
+        }
+    ],
+    "CCCH5039": [
+        {
+            "year": "2024-25",
+            "enrollment": "117",
+            "responses": "52",
+            "mean_course_effective": "77.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "39",
+            "mean_course_effective": "74.4"
+        }
+    ],
+    "CCCH5044": [
+        {
+            "year": "2024-25",
+            "enrollment": "113",
+            "responses": "35",
+            "mean_course_effective": "75.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "107",
+            "responses": "35",
+            "mean_course_effective": "59.3"
+        }
+    ],
+    "CCCH5054": [
+        {
+            "year": "2024-25",
+            "enrollment": "119",
+            "responses": "54",
+            "mean_course_effective": "88.9"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "60",
+            "mean_course_effective": "85.0"
+        }
+    ],
+    "CCCH5057": [
+        {
+            "year": "2024-25",
+            "enrollment": "118",
+            "responses": "39",
+            "mean_course_effective": "83.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "21",
+            "mean_course_effective": "77.4"
+        }
+    ],
+    "CCCH6001": [
+        {
+            "year": "2024-25",
+            "enrollment": "20",
+            "responses": "4",
+            "mean_course_effective": "***"
+        }
+    ],
+    "CCCH9001": [
+        {
+            "year": "2024-25",
+            "enrollment": "121",
+            "responses": "86",
+            "mean_course_effective": "85.2"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "93",
+            "mean_course_effective": "82.0"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "119",
+            "responses": "58",
+            "mean_course_effective": "77.6"
+        }
+    ],
+    "CCCH9002": [
+        {
+            "year": "2024-25",
+            "enrollment": "52",
+            "responses": "28",
+            "mean_course_effective": "69.6"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "61",
+            "mean_course_effective": "70.5"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "101",
+            "responses": "51",
+            "mean_course_effective": "74.0"
+        }
+    ],
+    "CCCH9003": [
+        {
+            "year": "2019-20",
+            "enrollment": "115",
+            "responses": "24",
+            "mean_course_effective": "69.6"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "118",
+            "responses": "45",
+            "mean_course_effective": "67.6"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "101",
+            "responses": "33",
+            "mean_course_effective": "67.4"
+        }
+    ],
+    "CCCH9004": [
+        {
+            "year": "2024-25",
+            "enrollment": "113",
+            "responses": "50",
+            "mean_course_effective": "71.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "112",
+            "responses": "60",
+            "mean_course_effective": "80.8"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "118",
+            "responses": "38",
+            "mean_course_effective": "76.4"
+        }
+    ],
+    "CCCH9005": [
+        {
+            "year": "2024-25",
+            "enrollment": "241",
+            "responses": "93",
+            "mean_course_effective": "89.0"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "217",
+            "responses": "133",
+            "mean_course_effective": "90.4"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "221",
+            "responses": "88",
+            "mean_course_effective": "88.1"
+        }
+    ],
+    "CCCH9006": [
+        {
+            "year": "2022-23",
+            "enrollment": "123",
+            "responses": "68",
+            "mean_course_effective": "65.1"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "118",
+            "responses": "34",
+            "mean_course_effective": "74.2"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "120",
+            "responses": "35",
+            "mean_course_effective": "74.2"
+        }
+    ],
+    "CCCH9007": [
+        {
+            "year": "2024-25",
+            "enrollment": "126",
+            "responses": "31",
+            "mean_course_effective": "91.1"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "125",
+            "responses": "31",
+            "mean_course_effective": "78.2"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "122",
+            "responses": "33",
+            "mean_course_effective": "75.0"
+        }
+    ],
+    "CCCH9008": [
+        {
+            "year": "2015-16",
+            "enrollment": "119",
+            "responses": "69",
+            "mean_course_effective": "70.0"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "120",
+            "responses": "80",
+            "mean_course_effective": "68.8"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "118",
+            "responses": "101",
+            "mean_course_effective": "65.5"
+        }
+    ],
+    "CCCH9009": [
+        {
+            "year": "2017-18",
+            "enrollment": "117",
+            "responses": "70",
+            "mean_course_effective": "76.9"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "118",
+            "responses": "70",
+            "mean_course_effective": "80.2"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "156",
+            "responses": "92",
+            "mean_course_effective": "80.9"
+        }
+    ],
+    "CCCH9010": [
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "33",
+            "mean_course_effective": "76.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "115",
+            "responses": "35",
+            "mean_course_effective": "75.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "106",
+            "responses": "31",
+            "mean_course_effective": "80.6"
+        }
+    ],
+    "CCCH9011": [
+        {
+            "year": "2016-17",
+            "enrollment": "120",
+            "responses": "42",
+            "mean_course_effective": "75.6"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "93",
+            "responses": "33",
+            "mean_course_effective": "64.1"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "118",
+            "responses": "69",
+            "mean_course_effective": "69.4"
+        }
+    ],
+    "CCCH9012": [
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "50",
+            "mean_course_effective": "76.5"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "43",
+            "responses": "10",
+            "mean_course_effective": "67.9"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "96",
+            "responses": "30",
+            "mean_course_effective": "74.1"
+        }
+    ],
+    "CCCH9013": [
+        {
+            "year": "2021-22",
+            "enrollment": "121",
+            "responses": "26",
+            "mean_course_effective": "72.0"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "114",
+            "responses": "58",
+            "mean_course_effective": "75.9"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "123",
+            "responses": "23",
+            "mean_course_effective": "69.3"
+        }
+    ],
+    "CCCH9014": [
+        {
+            "year": "2024-25",
+            "enrollment": "123",
+            "responses": "83",
+            "mean_course_effective": "85.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "123",
+            "responses": "96",
+            "mean_course_effective": "81.5"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "125",
+            "responses": "51",
+            "mean_course_effective": "85.8"
+        }
+    ],
+    "CCCH9015": [
+        {
+            "year": "2024-25",
+            "enrollment": "125",
+            "responses": "48",
+            "mean_course_effective": "82.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "124",
+            "responses": "31",
+            "mean_course_effective": "66.1"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "118",
+            "responses": "43",
+            "mean_course_effective": "73.8"
+        }
+    ],
+    "CCCH9016": [
+        {
+            "year": "2020-21",
+            "enrollment": "115",
+            "responses": "31",
+            "mean_course_effective": "74.1"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "124",
+            "responses": "26",
+            "mean_course_effective": "80.4"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "119",
+            "responses": "41",
+            "mean_course_effective": "75.0"
+        }
+    ],
+    "CCCH9017": [
+        {
+            "year": "2022-23",
+            "enrollment": "123",
+            "responses": "55",
+            "mean_course_effective": "84.1"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "117",
+            "responses": "53",
+            "mean_course_effective": "82.5"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "107",
+            "responses": "26",
+            "mean_course_effective": "76.0"
+        }
+    ],
+    "CCCH9018": [
+        {
+            "year": "2024-25",
+            "enrollment": "254",
+            "responses": "169",
+            "mean_course_effective": "77.5"
+        },
+        {
+            "year": "2024-25",
+            "enrollment": "125",
+            "responses": "80",
+            "mean_course_effective": "81.6"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "87",
+            "mean_course_effective": "79.3"
+        }
+    ],
+    "CCCH9020": [
+        {
+            "year": "2020-21",
+            "enrollment": "164",
+            "responses": "43",
+            "mean_course_effective": "78.0"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "119",
+            "responses": "28",
+            "mean_course_effective": "68.3"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "114",
+            "responses": "37",
+            "mean_course_effective": "77.9"
+        }
+    ],
+    "CCCH9021": [
+        {
+            "year": "2018-19",
+            "enrollment": "113",
+            "responses": "30",
+            "mean_course_effective": "70.2"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "59",
+            "responses": "27",
+            "mean_course_effective": "72.0"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "65",
+            "responses": "25",
+            "mean_course_effective": "79.2"
+        }
+    ],
+    "CCCH9023": [
+        {
+            "year": "2024-25",
+            "enrollment": "120",
+            "responses": "70",
+            "mean_course_effective": "77.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "123",
+            "responses": "63",
+            "mean_course_effective": "77.4"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "43",
+            "mean_course_effective": "65.1"
+        }
+    ],
+    "CCCH9024": [
+        {
+            "year": "2017-18",
+            "enrollment": "287",
+            "responses": "103",
+            "mean_course_effective": "68.2"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "288",
+            "responses": "165",
+            "mean_course_effective": "67.1"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "288",
+            "responses": "161",
+            "mean_course_effective": "71.0"
+        }
+    ],
+    "CCCH9025": [
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "36",
+            "mean_course_effective": "66.7"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "113",
+            "responses": "42",
+            "mean_course_effective": "81.0"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "100",
+            "responses": "42",
+            "mean_course_effective": "80.6"
+        }
+    ],
+    "CCCH9026": [
+        {
+            "year": "2024-25",
+            "enrollment": "125",
+            "responses": "22",
+            "mean_course_effective": "84.1"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "112",
+            "responses": "16",
+            "mean_course_effective": "70.3"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "118",
+            "responses": "64",
+            "mean_course_effective": "76.6"
+        }
+    ],
+    "CCCH9027": [
+        {
+            "year": "2024-25",
+            "enrollment": "119",
+            "responses": "51",
+            "mean_course_effective": "78.9"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "29",
+            "mean_course_effective": "82.8"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "117",
+            "responses": "59",
+            "mean_course_effective": "80.9"
+        }
+    ],
+    "CCCH9028": [
+        {
+            "year": "2024-25",
+            "enrollment": "78",
+            "responses": "28",
+            "mean_course_effective": "73.2"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "180",
+            "responses": "80",
+            "mean_course_effective": "70.7"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "53",
+            "responses": "24",
+            "mean_course_effective": "70.8"
+        }
+    ],
+    "CCCH9029": [
+        {
+            "year": "2024-25",
+            "enrollment": "292",
+            "responses": "94",
+            "mean_course_effective": "80.6"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "288",
+            "responses": "85",
+            "mean_course_effective": "77.9"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "290",
+            "responses": "83",
+            "mean_course_effective": "71.4"
+        }
+    ],
+    "CCCH9030": [
+        {
+            "year": "2015-16",
+            "enrollment": "46",
+            "responses": "13",
+            "mean_course_effective": "73.1"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "120",
+            "responses": "56",
+            "mean_course_effective": "69.2"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "36",
+            "responses": "24",
+            "mean_course_effective": "75.0"
+        }
+    ],
+    "CCCH9031": [
+        {
+            "year": "2024-25",
+            "enrollment": "118",
+            "responses": "58",
+            "mean_course_effective": "86.6"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "120",
+            "responses": "37",
+            "mean_course_effective": "68.9"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "120",
+            "responses": "48",
+            "mean_course_effective": "83.3"
+        }
+    ],
+    "CCCH9032": [
+        {
+            "year": "2024-25",
+            "enrollment": "124",
+            "responses": "72",
+            "mean_course_effective": "78.1"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "118",
+            "responses": "40",
+            "mean_course_effective": "68.1"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "108",
+            "responses": "39",
+            "mean_course_effective": "65.5"
+        }
+    ],
+    "CCCH9033": [
+        {
+            "year": "2024-25",
+            "enrollment": "126",
+            "responses": "66",
+            "mean_course_effective": "71.2"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "124",
+            "responses": "80",
+            "mean_course_effective": "72.2"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "122",
+            "responses": "87",
+            "mean_course_effective": "74.4"
+        }
+    ],
+    "CCCH9035": [
+        {
+            "year": "2017-18",
+            "enrollment": "86",
+            "responses": "36",
+            "mean_course_effective": "65.2"
+        },
+        {
+            "year": "2016-17",
+            "enrollment": "116",
+            "responses": "78",
+            "mean_course_effective": "70.2"
+        },
+        {
+            "year": "2015-16",
+            "enrollment": "112",
+            "responses": "44",
+            "mean_course_effective": "59.9"
+        }
+    ],
+    "CCCH9036": [
+        {
+            "year": "2019-20",
+            "enrollment": "118",
+            "responses": "21",
+            "mean_course_effective": "66.3"
+        },
+        {
+            "year": "2018-19",
+            "enrollment": "120",
+            "responses": "47",
+            "mean_course_effective": "70.7"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "120",
+            "responses": "46",
+            "mean_course_effective": "70.9"
+        }
+    ],
+    "CCCH9037": [
+        {
+            "year": "2024-25",
+            "enrollment": "123",
+            "responses": "49",
+            "mean_course_effective": "77.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "122",
+            "responses": "44",
+            "mean_course_effective": "72.2"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "119",
+            "responses": "35",
+            "mean_course_effective": "67.9"
+        }
+    ],
+    "CCCH9038": [
+        {
+            "year": "2015-16",
+            "enrollment": "23",
+            "responses": "10",
+            "mean_course_effective": "82.5"
+        },
+        {
+            "year": "2014-15",
+            "enrollment": "120",
+            "responses": "43",
+            "mean_course_effective": "70.1"
+        },
+        {
+            "year": "2013-14",
+            "enrollment": "117",
+            "responses": "54",
+            "mean_course_effective": "68.3"
+        }
+    ],
+    "CCCH9039": [
+        {
+            "year": "2022-23",
+            "enrollment": "122",
+            "responses": "35",
+            "mean_course_effective": "74.3"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "118",
+            "responses": "17",
+            "mean_course_effective": "75.0"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "119",
+            "responses": "31",
+            "mean_course_effective": "79.8"
+        }
+    ],
+    "CCCH9040": [
+        {
+            "year": "2020-21",
+            "enrollment": "118",
+            "responses": "40",
+            "mean_course_effective": "72.2"
+        },
+        {
+            "year": "2019-20",
+            "enrollment": "120",
+            "responses": "18",
+            "mean_course_effective": "77.8"
+        },
+        {
+            "year": "2017-18",
+            "enrollment": "125",
+            "responses": "62",
+            "mean_course_effective": "67.1"
+        }
+    ],
+    "CCCH9041": [
+        {
+            "year": "2024-25",
+            "enrollment": "90",
+            "responses": "45",
+            "mean_course_effective": "82.2"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "94",
+            "responses": "35",
+            "mean_course_effective": "82.9"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "108",
+            "responses": "36",
+            "mean_course_effective": "77.1"
+        }
+    ],
+    "CCCH9042": [
+        {
+            "year": "2024-25",
+            "enrollment": "117",
+            "responses": "31",
+            "mean_course_effective": "79.8"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "34",
+            "mean_course_effective": "80.9"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "100",
+            "responses": "29",
+            "mean_course_effective": "80.2"
+        }
+    ],
+    "CCCH9043": [
+        {
+            "year": "2017-18",
+            "enrollment": "45",
+            "responses": "13",
+            "mean_course_effective": "72.9"
+        }
+    ],
+    "CCCH9044": [
+        {
+            "year": "2024-25",
+            "enrollment": "121",
+            "responses": "94",
+            "mean_course_effective": "84.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "119",
+            "responses": "49",
+            "mean_course_effective": "72.4"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "113",
+            "responses": "33",
+            "mean_course_effective": "72.0"
+        }
+    ],
+    "CCCH9045": [
+        {
+            "year": "2022-23",
+            "enrollment": "119",
+            "responses": "68",
+            "mean_course_effective": "72.1"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "116",
+            "responses": "37",
+            "mean_course_effective": "75.7"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "115",
+            "responses": "47",
+            "mean_course_effective": "60.6"
+        }
+    ],
+    "CCCH9046": [
+        {
+            "year": "2022-23",
+            "enrollment": "124",
+            "responses": "69",
+            "mean_course_effective": "69.6"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "124",
+            "responses": "57",
+            "mean_course_effective": "71.1"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "110",
+            "responses": "31",
+            "mean_course_effective": "67.5"
+        }
+    ],
+    "CCCH9047": [
+        {
+            "year": "2022-23",
+            "enrollment": "121",
+            "responses": "71",
+            "mean_course_effective": "68.7"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "111",
+            "responses": "49",
+            "mean_course_effective": "65.1"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "119",
+            "responses": "74",
+            "mean_course_effective": "65.0"
+        }
+    ],
+    "CCCH9048": [
+        {
+            "year": "2022-23",
+            "enrollment": "109",
+            "responses": "67",
+            "mean_course_effective": "82.5"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "118",
+            "responses": "61",
+            "mean_course_effective": "74.2"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "107",
+            "responses": "53",
+            "mean_course_effective": "75.0"
+        }
+    ],
+    "CCCH9050": [
+        {
+            "year": "2024-25",
+            "enrollment": "118",
+            "responses": "84",
+            "mean_course_effective": "84.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "118",
+            "responses": "75",
+            "mean_course_effective": "85.0"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "121",
+            "responses": "83",
+            "mean_course_effective": "84.6"
+        }
+    ],
+    "CCCH9051": [
+        {
+            "year": "2024-25",
+            "enrollment": "118",
+            "responses": "82",
+            "mean_course_effective": "83.5"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "126",
+            "responses": "38",
+            "mean_course_effective": "72.4"
+        },
+        {
+            "year": "2022-23",
+            "enrollment": "123",
+            "responses": "96",
+            "mean_course_effective": "82.8"
+        }
+    ],
+    "CCCH9052": [
+        {
+            "year": "2024-25",
+            "enrollment": "122",
+            "responses": "42",
+            "mean_course_effective": "75.0"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "123",
+            "responses": "45",
+            "mean_course_effective": "72.8"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "118",
+            "responses": "70",
+            "mean_course_effective": "71.1"
+        }
+    ],
+    "CCCH9054": [
+        {
+            "year": "2022-23",
+            "enrollment": "242",
+            "responses": "127",
+            "mean_course_effective": "79.1"
+        },
+        {
+            "year": "2021-22",
+            "enrollment": "278",
+            "responses": "129",
+            "mean_course_effective": "77.2"
+        },
+        {
+            "year": "2020-21",
+            "enrollment": "118",
+            "responses": "51",
+            "mean_course_effective": "80.0"
+        }
+    ],
+    "CCCH9056": [
+        {
+            "year": "2022-23",
+            "enrollment": "119",
+            "responses": "54",
+            "mean_course_effective": "75.9"
+        }
+    ],
+    "CCCH9058": [
+        {
+            "year": "2024-25",
+            "enrollment": "42",
+            "responses": "27",
+            "mean_course_effective": "84.3"
+        },
+        {
+            "year": "2023-24",
+            "enrollment": "94",
+            "responses": "25",
+            "mean_course_effective": "77.0"
+        }
+    ],
+    "CCCH9059": [
+        {
+            "year": "2024-25",
+            "enrollment": "126",
+            "responses": "33",
+            "mean_course_effective": "74.2"
+        }
+    ],
+    "CCCH9060": [
+        {
+            "year": "2024-25",
+            "enrollment": "117",
+            "responses": "80",
+            "mean_course_effective": "77.5"
+        }
+    ],
+    "CCCH9061": [
+        {
+            "year": "2024-25",
+            "enrollment": "125",
+            "responses": "80",
+            "mean_course_effective": "92.5"
+        }
+    ],
+    "CCCH9062": [
+        {
+            "year": "2024-25",
+            "enrollment": "65",
+            "responses": "26",
+            "mean_course_effective": "76.9"
+        }
+    ]
+}
