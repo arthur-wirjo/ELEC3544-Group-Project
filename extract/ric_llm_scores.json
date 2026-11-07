@@ -1,0 +1,817 @@
+{
+    "CCCH5017": {
+        "llm_sentiment_score": 3.7,
+        "llm_workload_score": 2.4,
+        "ric_review_count": 10
+    },
+    "CCCH5039": {
+        "llm_sentiment_score": 3.3,
+        "llm_workload_score": 2.8,
+        "ric_review_count": 5
+    },
+    "CCCH5054": {
+        "llm_sentiment_score": 3.6,
+        "llm_workload_score": 3.0,
+        "ric_review_count": 8
+    },
+    "CCCH9001": {
+        "llm_sentiment_score": 4.05,
+        "llm_workload_score": 2.5,
+        "ric_review_count": 10
+    },
+    "CCCH9002": {
+        "llm_sentiment_score": 3.0,
+        "llm_workload_score": 3.15,
+        "ric_review_count": 10
+    },
+    "CCCH9005": {
+        "llm_sentiment_score": 3.25,
+        "llm_workload_score": 3.8,
+        "ric_review_count": 10
+    },
+    "CCCH9006": {
+        "llm_sentiment_score": 3.11,
+        "llm_workload_score": 2.81,
+        "ric_review_count": 9
+    },
+    "CCCH9007": {
+        "llm_sentiment_score": 3.1,
+        "llm_workload_score": 2.65,
+        "ric_review_count": 10
+    },
+    "CCCH9010": {
+        "llm_sentiment_score": 2.9,
+        "llm_workload_score": 3.7,
+        "ric_review_count": 10
+    },
+    "CCCH9012": {
+        "llm_sentiment_score": 2.25,
+        "llm_workload_score": 4.35,
+        "ric_review_count": 7
+    },
+    "CCCH9014": {
+        "llm_sentiment_score": 3.22,
+        "llm_workload_score": 2.8,
+        "ric_review_count": 10
+    },
+    "CCCH9015": {
+        "llm_sentiment_score": 3.7,
+        "llm_workload_score": 1.8,
+        "ric_review_count": 10
+    },
+    "CCCH9018": {
+        "llm_sentiment_score": 3.47,
+        "llm_workload_score": 2.83,
+        "ric_review_count": 10
+    },
+    "CCCH9019": {
+        "llm_sentiment_score": 4.68,
+        "llm_workload_score": 2.9,
+        "ric_review_count": 4
+    },
+    "CCCH9023": {
+        "llm_sentiment_score": 2.9,
+        "llm_workload_score": 3.3,
+        "ric_review_count": 10
+    },
+    "CCCH9026": {
+        "llm_sentiment_score": 3.4,
+        "llm_workload_score": 2.95,
+        "ric_review_count": 10
+    },
+    "CCCH9028": {
+        "llm_sentiment_score": 2.7,
+        "llm_workload_score": 4.4,
+        "ric_review_count": 5
+    },
+    "CCCH9029": {
+        "llm_sentiment_score": 2.95,
+        "llm_workload_score": 2.4,
+        "ric_review_count": 10
+    },
+    "CCCH9031": {
+        "llm_sentiment_score": 3.62,
+        "llm_workload_score": 2.4,
+        "ric_review_count": 10
+    },
+    "CCCH9032": {
+        "llm_sentiment_score": 2.85,
+        "llm_workload_score": 2.5,
+        "ric_review_count": 7
+    },
+    "CCCH9033": {
+        "llm_sentiment_score": 3.5,
+        "llm_workload_score": 2.83,
+        "ric_review_count": 3
+    },
+    "CCCH9037": {
+        "llm_sentiment_score": 3.2,
+        "llm_workload_score": 2.4,
+        "ric_review_count": 10
+    },
+    "CCCH9041": {
+        "llm_sentiment_score": 3.7,
+        "llm_workload_score": 3.1,
+        "ric_review_count": 10
+    },
+    "CCCH9042": {
+        "llm_sentiment_score": 3.28,
+        "llm_workload_score": 2.18,
+        "ric_review_count": 10
+    },
+    "CCCH9044": {
+        "llm_sentiment_score": 3.3,
+        "llm_workload_score": 3.4,
+        "ric_review_count": 10
+    },
+    "CCCH9045": {
+        "llm_sentiment_score": 1.83,
+        "llm_workload_score": 2.83,
+        "ric_review_count": 3
+    },
+    "CCCH9047": {
+        "llm_sentiment_score": 2.2,
+        "llm_workload_score": 2.0,
+        "ric_review_count": 2
+    },
+    "CCCH9050": {
+        "llm_sentiment_score": 3.6,
+        "llm_workload_score": 2.2,
+        "ric_review_count": 10
+    },
+    "CCCH9051": {
+        "llm_sentiment_score": 4.28,
+        "llm_workload_score": 3.03,
+        "ric_review_count": 10
+    },
+    "CCCH9057": {
+        "llm_sentiment_score": 1.3,
+        "llm_workload_score": 3.8,
+        "ric_review_count": 1
+    },
+    "CCCH9059": {
+        "llm_sentiment_score": 3.5,
+        "llm_workload_score": 1.6,
+        "ric_review_count": 7
+    },
+    "CCCH9061": {
+        "llm_sentiment_score": 3.67,
+        "llm_workload_score": 2.1,
+        "ric_review_count": 10
+    },
+    "CCCH9064": {
+        "llm_sentiment_score": 4.2,
+        "llm_workload_score": 1.5,
+        "ric_review_count": 3
+    },
+    "CCCH9066": {
+        "llm_sentiment_score": 3.65,
+        "llm_workload_score": 3.3,
+        "ric_review_count": 2
+    },
+    "CCCH9067": {
+        "llm_sentiment_score": 4.0,
+        "llm_workload_score": 2.9,
+        "ric_review_count": 3
+    },
+    "CCGL5005": {
+        "llm_sentiment_score": 2.9,
+        "llm_workload_score": 2.3,
+        "ric_review_count": 10
+    },
+    "CCGL5022": {
+        "llm_sentiment_score": 4.0,
+        "llm_workload_score": 2.2,
+        "ric_review_count": 10
+    },
+    "CCGL5048": {
+        "llm_sentiment_score": 3.55,
+        "llm_workload_score": 2.25,
+        "ric_review_count": 10
+    },
+    "CCGL9001": {
+        "llm_sentiment_score": 3.6,
+        "llm_workload_score": 3.05,
+        "ric_review_count": 10
+    },
+    "CCGL9002": {
+        "llm_sentiment_score": 2.65,
+        "llm_workload_score": 3.8,
+        "ric_review_count": 10
+    },
+    "CCGL9007": {
+        "llm_sentiment_score": 3.17,
+        "llm_workload_score": 2.83,
+        "ric_review_count": 9
+    },
+    "CCGL9010": {
+        "llm_sentiment_score": 4.5,
+        "llm_workload_score": 2.2,
+        "ric_review_count": 10
+    },
+    "CCGL9011": {
+        "llm_sentiment_score": 2.9,
+        "llm_workload_score": 2.9,
+        "ric_review_count": 10
+    },
+    "CCGL9014": {
+        "llm_sentiment_score": 2.95,
+        "llm_workload_score": 2.8,
+        "ric_review_count": 10
+    },
+    "CCGL9016": {
+        "llm_sentiment_score": 3.5,
+        "llm_workload_score": 2.0,
+        "ric_review_count": 10
+    },
+    "CCGL9018": {
+        "llm_sentiment_score": 3.0,
+        "llm_workload_score": 3.4,
+        "ric_review_count": 10
+    },
+    "CCGL9019": {
+        "llm_sentiment_score": 3.6,
+        "llm_workload_score": 3.7,
+        "ric_review_count": 10
+    },
+    "CCGL9024": {
+        "llm_sentiment_score": 3.63,
+        "llm_workload_score": 2.17,
+        "ric_review_count": 10
+    },
+    "CCGL9025": {
+        "llm_sentiment_score": 3.95,
+        "llm_workload_score": 2.4,
+        "ric_review_count": 10
+    },
+    "CCGL9026": {
+        "llm_sentiment_score": 3.55,
+        "llm_workload_score": 2.5,
+        "ric_review_count": 8
+    },
+    "CCGL9030": {
+        "llm_sentiment_score": 3.35,
+        "llm_workload_score": 3.2,
+        "ric_review_count": 10
+    },
+    "CCGL9031": {
+        "llm_sentiment_score": 3.4,
+        "llm_workload_score": 2.1,
+        "ric_review_count": 10
+    },
+    "CCGL9032": {
+        "llm_sentiment_score": 3.36,
+        "llm_workload_score": 2.79,
+        "ric_review_count": 10
+    },
+    "CCGL9036": {
+        "llm_sentiment_score": 2.97,
+        "llm_workload_score": 3.71,
+        "ric_review_count": 7
+    },
+    "CCGL9038": {
+        "llm_sentiment_score": 2.5,
+        "llm_workload_score": 3.0,
+        "ric_review_count": 2
+    },
+    "CCGL9040": {
+        "llm_sentiment_score": 3.1,
+        "llm_workload_score": 1.9,
+        "ric_review_count": 9
+    },
+    "CCGL9042": {
+        "llm_sentiment_score": 3.2,
+        "llm_workload_score": 3.8,
+        "ric_review_count": 10
+    },
+    "CCGL9049": {
+        "llm_sentiment_score": 3.65,
+        "llm_workload_score": 2.25,
+        "ric_review_count": 10
+    },
+    "CCGL9052": {
+        "llm_sentiment_score": 2.5,
+        "llm_workload_score": 3.7,
+        "ric_review_count": 8
+    },
+    "CCGL9053": {
+        "llm_sentiment_score": 3.1,
+        "llm_workload_score": 2.08,
+        "ric_review_count": 10
+    },
+    "CCGL9055": {
+        "llm_sentiment_score": 3.4,
+        "llm_workload_score": 2.4,
+        "ric_review_count": 7
+    },
+    "CCGL9056": {
+        "llm_sentiment_score": 4.5,
+        "llm_workload_score": 2.2,
+        "ric_review_count": 1
+    },
+    "CCGL9057": {
+        "llm_sentiment_score": 1.0,
+        "llm_workload_score": 3.0,
+        "ric_review_count": 1
+    },
+    "CCGL9062": {
+        "llm_sentiment_score": 2.83,
+        "llm_workload_score": 2.1,
+        "ric_review_count": 6
+    },
+    "CCGL9065": {
+        "llm_sentiment_score": 4.25,
+        "llm_workload_score": 2.5,
+        "ric_review_count": 4
+    },
+    "CCGL9066": {
+        "llm_sentiment_score": 3.15,
+        "llm_workload_score": 3.0,
+        "ric_review_count": 10
+    },
+    "CCGL9068": {
+        "llm_sentiment_score": 3.1,
+        "llm_workload_score": 2.9,
+        "ric_review_count": 5
+    },
+    "CCGL9069": {
+        "llm_sentiment_score": 1.4,
+        "llm_workload_score": 3.2,
+        "ric_review_count": 2
+    },
+    "CCGL9070": {
+        "llm_sentiment_score": 3.3,
+        "llm_workload_score": 3.7,
+        "ric_review_count": 10
+    },
+    "CCGL9074": {
+        "llm_sentiment_score": 3.3,
+        "llm_workload_score": 2.5,
+        "ric_review_count": 10
+    },
+    "CCGL9077": {
+        "llm_sentiment_score": 3.1,
+        "llm_workload_score": 3.28,
+        "ric_review_count": 5
+    },
+    "CCGL9078": {
+        "llm_sentiment_score": 2.9,
+        "llm_workload_score": 2.83,
+        "ric_review_count": 3
+    },
+    "CCGL9079": {
+        "llm_sentiment_score": 4.5,
+        "llm_workload_score": 2.3,
+        "ric_review_count": 10
+    },
+    "CCGL9080": {
+        "llm_sentiment_score": 3.8,
+        "llm_workload_score": 2.6,
+        "ric_review_count": 5
+    },
+    "CCGL9081": {
+        "llm_sentiment_score": 1.8,
+        "llm_workload_score": 2.5,
+        "ric_review_count": 1
+    },
+    "CCGL9082": {
+        "llm_sentiment_score": 2.1,
+        "llm_workload_score": 2.0,
+        "ric_review_count": 7
+    },
+    "CCGL9083": {
+        "llm_sentiment_score": 3.15,
+        "llm_workload_score": 3.4,
+        "ric_review_count": 4
+    },
+    "CCHU5074": {
+        "llm_sentiment_score": 3.9,
+        "llm_workload_score": 2.9,
+        "ric_review_count": 7
+    },
+    "CCHU5088": {
+        "llm_sentiment_score": 3.88,
+        "llm_workload_score": 2.9,
+        "ric_review_count": 10
+    },
+    "CCHU9005": {
+        "llm_sentiment_score": 3.4,
+        "llm_workload_score": 2.2,
+        "ric_review_count": 10
+    },
+    "CCHU9006": {
+        "llm_sentiment_score": 3.1,
+        "llm_workload_score": 3.2,
+        "ric_review_count": 10
+    },
+    "CCHU9007": {
+        "llm_sentiment_score": 1.9,
+        "llm_workload_score": 3.9,
+        "ric_review_count": 10
+    },
+    "CCHU9009": {
+        "llm_sentiment_score": 3.6,
+        "llm_workload_score": 3.0,
+        "ric_review_count": 10
+    },
+    "CCHU9010": {
+        "llm_sentiment_score": 3.4,
+        "llm_workload_score": 3.45,
+        "ric_review_count": 10
+    },
+    "CCHU9011": {
+        "llm_sentiment_score": 3.44,
+        "llm_workload_score": 3.16,
+        "ric_review_count": 10
+    },
+    "CCHU9012": {
+        "llm_sentiment_score": 3.12,
+        "llm_workload_score": 3.98,
+        "ric_review_count": 10
+    },
+    "CCHU9013": {
+        "llm_sentiment_score": 4.05,
+        "llm_workload_score": 2.5,
+        "ric_review_count": 10
+    },
+    "CCHU9014": {
+        "llm_sentiment_score": 3.61,
+        "llm_workload_score": 2.45,
+        "ric_review_count": 10
+    },
+    "CCHU9015": {
+        "llm_sentiment_score": 3.78,
+        "llm_workload_score": 3.76,
+        "ric_review_count": 10
+    },
+    "CCHU9019": {
+        "llm_sentiment_score": 3.25,
+        "llm_workload_score": 3.1,
+        "ric_review_count": 10
+    },
+    "CCHU9021": {
+        "llm_sentiment_score": 3.4,
+        "llm_workload_score": 2.2,
+        "ric_review_count": 10
+    },
+    "CCHU9022": {
+        "llm_sentiment_score": 3.15,
+        "llm_workload_score": 3.1,
+        "ric_review_count": 10
+    },
+    "CCHU9030": {
+        "llm_sentiment_score": 3.1,
+        "llm_workload_score": 3.4,
+        "ric_review_count": 10
+    },
+    "CCHU9039": {
+        "llm_sentiment_score": 2.6,
+        "llm_workload_score": 3.1,
+        "ric_review_count": 10
+    },
+    "CCHU9043": {
+        "llm_sentiment_score": 3.5,
+        "llm_workload_score": 3.5,
+        "ric_review_count": 10
+    },
+    "CCHU9044": {
+        "llm_sentiment_score": 3.85,
+        "llm_workload_score": 2.1,
+        "ric_review_count": 10
+    },
+    "CCHU9045": {
+        "llm_sentiment_score": 3.1,
+        "llm_workload_score": 1.8,
+        "ric_review_count": 10
+    },
+    "CCHU9048": {
+        "llm_sentiment_score": 3.0,
+        "llm_workload_score": 2.9,
+        "ric_review_count": 10
+    },
+    "CCHU9049": {
+        "llm_sentiment_score": 3.3,
+        "llm_workload_score": 3.17,
+        "ric_review_count": 10
+    },
+    "CCHU9051": {
+        "llm_sentiment_score": 4.0,
+        "llm_workload_score": 3.0,
+        "ric_review_count": 10
+    },
+    "CCHU9052": {
+        "llm_sentiment_score": 3.65,
+        "llm_workload_score": 3.3,
+        "ric_review_count": 10
+    },
+    "CCHU9053": {
+        "llm_sentiment_score": 3.33,
+        "llm_workload_score": 2.22,
+        "ric_review_count": 10
+    },
+    "CCHU9055": {
+        "llm_sentiment_score": 4.2,
+        "llm_workload_score": 2.9,
+        "ric_review_count": 4
+    },
+    "CCHU9060": {
+        "llm_sentiment_score": 2.55,
+        "llm_workload_score": 3.5,
+        "ric_review_count": 4
+    },
+    "CCHU9062": {
+        "llm_sentiment_score": 3.5,
+        "llm_workload_score": 2.9,
+        "ric_review_count": 10
+    },
+    "CCHU9065": {
+        "llm_sentiment_score": 3.2,
+        "llm_workload_score": 3.1,
+        "ric_review_count": 10
+    },
+    "CCHU9069": {
+        "llm_sentiment_score": 3.6,
+        "llm_workload_score": 3.8,
+        "ric_review_count": 10
+    },
+    "CCHU9075": {
+        "llm_sentiment_score": 4.17,
+        "llm_workload_score": 2.55,
+        "ric_review_count": 10
+    },
+    "CCHU9076": {
+        "llm_sentiment_score": 3.85,
+        "llm_workload_score": 2.35,
+        "ric_review_count": 10
+    },
+    "CCHU9078": {
+        "llm_sentiment_score": 3.1,
+        "llm_workload_score": 2.5,
+        "ric_review_count": 10
+    },
+    "CCHU9079": {
+        "llm_sentiment_score": 3.0,
+        "llm_workload_score": 3.2,
+        "ric_review_count": 5
+    },
+    "CCHU9080": {
+        "llm_sentiment_score": 3.65,
+        "llm_workload_score": 4.0,
+        "ric_review_count": 10
+    },
+    "CCHU9081": {
+        "llm_sentiment_score": 2.9,
+        "llm_workload_score": 3.1,
+        "ric_review_count": 3
+    },
+    "CCHU9082": {
+        "llm_sentiment_score": 3.35,
+        "llm_workload_score": 1.8,
+        "ric_review_count": 10
+    },
+    "CCHU9084": {
+        "llm_sentiment_score": 3.93,
+        "llm_workload_score": 3.2,
+        "ric_review_count": 10
+    },
+    "CCHU9086": {
+        "llm_sentiment_score": 4.15,
+        "llm_workload_score": 1.7,
+        "ric_review_count": 10
+    },
+    "CCHU9090": {
+        "llm_sentiment_score": 3.0,
+        "llm_workload_score": 3.0,
+        "ric_review_count": 10
+    },
+    "CCHU9091": {
+        "llm_sentiment_score": 4.35,
+        "llm_workload_score": 2.8,
+        "ric_review_count": 7
+    },
+    "CCHU9093": {
+        "llm_sentiment_score": 4.2,
+        "llm_workload_score": 2.3,
+        "ric_review_count": 2
+    },
+    "CCHU9094": {
+        "llm_sentiment_score": 4.1,
+        "llm_workload_score": 2.2,
+        "ric_review_count": 4
+    },
+    "CCST5035": {
+        "llm_sentiment_score": 2.9,
+        "llm_workload_score": 3.33,
+        "ric_review_count": 6
+    },
+    "CCST5037": {
+        "llm_sentiment_score": 4.4,
+        "llm_workload_score": 1.7,
+        "ric_review_count": 10
+    },
+    "CCST9003": {
+        "llm_sentiment_score": 2.75,
+        "llm_workload_score": 2.95,
+        "ric_review_count": 10
+    },
+    "CCST9006": {
+        "llm_sentiment_score": 3.4,
+        "llm_workload_score": 2.1,
+        "ric_review_count": 10
+    },
+    "CCST9009": {
+        "llm_sentiment_score": 2.8,
+        "llm_workload_score": 2.83,
+        "ric_review_count": 10
+    },
+    "CCST9012": {
+        "llm_sentiment_score": 2.96,
+        "llm_workload_score": 2.66,
+        "ric_review_count": 10
+    },
+    "CCST9013": {
+        "llm_sentiment_score": 2.7,
+        "llm_workload_score": 2.94,
+        "ric_review_count": 10
+    },
+    "CCST9014": {
+        "llm_sentiment_score": 2.7,
+        "llm_workload_score": 3.05,
+        "ric_review_count": 10
+    },
+    "CCST9016": {
+        "llm_sentiment_score": 3.49,
+        "llm_workload_score": 2.75,
+        "ric_review_count": 10
+    },
+    "CCST9017": {
+        "llm_sentiment_score": 3.65,
+        "llm_workload_score": 3.0,
+        "ric_review_count": 10
+    },
+    "CCST9018": {
+        "llm_sentiment_score": 2.83,
+        "llm_workload_score": 3.5,
+        "ric_review_count": 3
+    },
+    "CCST9020": {
+        "llm_sentiment_score": 3.2,
+        "llm_workload_score": 3.5,
+        "ric_review_count": 10
+    },
+    "CCST9022": {
+        "llm_sentiment_score": 1.75,
+        "llm_workload_score": 2.1,
+        "ric_review_count": 10
+    },
+    "CCST9023": {
+        "llm_sentiment_score": 3.6,
+        "llm_workload_score": 2.35,
+        "ric_review_count": 10
+    },
+    "CCST9025": {
+        "llm_sentiment_score": 3.4,
+        "llm_workload_score": 2.8,
+        "ric_review_count": 10
+    },
+    "CCST9026": {
+        "llm_sentiment_score": 3.65,
+        "llm_workload_score": 2.7,
+        "ric_review_count": 10
+    },
+    "CCST9027": {
+        "llm_sentiment_score": 3.1,
+        "llm_workload_score": 2.85,
+        "ric_review_count": 10
+    },
+    "CCST9030": {
+        "llm_sentiment_score": 2.95,
+        "llm_workload_score": 2.9,
+        "ric_review_count": 10
+    },
+    "CCST9032": {
+        "llm_sentiment_score": 2.9,
+        "llm_workload_score": 3.1,
+        "ric_review_count": 10
+    },
+    "CCST9033": {
+        "llm_sentiment_score": 2.5,
+        "llm_workload_score": 3.5,
+        "ric_review_count": 10
+    },
+    "CCST9034": {
+        "llm_sentiment_score": 2.7,
+        "llm_workload_score": 4.0,
+        "ric_review_count": 5
+    },
+    "CCST9042": {
+        "llm_sentiment_score": 3.3,
+        "llm_workload_score": 2.9,
+        "ric_review_count": 10
+    },
+    "CCST9045": {
+        "llm_sentiment_score": 3.2,
+        "llm_workload_score": 3.1,
+        "ric_review_count": 10
+    },
+    "CCST9051": {
+        "llm_sentiment_score": 3.3,
+        "llm_workload_score": 1.95,
+        "ric_review_count": 10
+    },
+    "CCST9056": {
+        "llm_sentiment_score": 3.45,
+        "llm_workload_score": 2.65,
+        "ric_review_count": 10
+    },
+    "CCST9062": {
+        "llm_sentiment_score": 3.5,
+        "llm_workload_score": 1.35,
+        "ric_review_count": 10
+    },
+    "CCST9064": {
+        "llm_sentiment_score": 3.25,
+        "llm_workload_score": 1.8,
+        "ric_review_count": 10
+    },
+    "CCST9070": {
+        "llm_sentiment_score": 2.56,
+        "llm_workload_score": 3.1,
+        "ric_review_count": 10
+    },
+    "CCST9072": {
+        "llm_sentiment_score": 2.8,
+        "llm_workload_score": 1.4,
+        "ric_review_count": 10
+    },
+    "CCST9073": {
+        "llm_sentiment_score": 2.85,
+        "llm_workload_score": 2.4,
+        "ric_review_count": 10
+    },
+    "CCST9074": {
+        "llm_sentiment_score": 2.0,
+        "llm_workload_score": 4.3,
+        "ric_review_count": 7
+    },
+    "CCST9075": {
+        "llm_sentiment_score": 4.4,
+        "llm_workload_score": 2.0,
+        "ric_review_count": 10
+    },
+    "CCST9077": {
+        "llm_sentiment_score": 3.5,
+        "llm_workload_score": 1.9,
+        "ric_review_count": 10
+    },
+    "CCST9078": {
+        "llm_sentiment_score": 3.45,
+        "llm_workload_score": 2.25,
+        "ric_review_count": 3
+    },
+    "CCST9080": {
+        "llm_sentiment_score": 2.8,
+        "llm_workload_score": 2.5,
+        "ric_review_count": 10
+    },
+    "CCST9081": {
+        "llm_sentiment_score": 2.45,
+        "llm_workload_score": 4.2,
+        "ric_review_count": 10
+    },
+    "CCST9083": {
+        "llm_sentiment_score": 2.1,
+        "llm_workload_score": 4.2,
+        "ric_review_count": 10
+    },
+    "CCST9084": {
+        "llm_sentiment_score": 4.0,
+        "llm_workload_score": 1.75,
+        "ric_review_count": 10
+    },
+    "CCST9086": {
+        "llm_sentiment_score": 3.8,
+        "llm_workload_score": 2.4,
+        "ric_review_count": 10
+    },
+    "CCST9088": {
+        "llm_sentiment_score": 3.52,
+        "llm_workload_score": 2.7,
+        "ric_review_count": 5
+    },
+    "CCST9089": {
+        "llm_sentiment_score": 3.17,
+        "llm_workload_score": 3.17,
+        "ric_review_count": 3
+    },
+    "CCST9090": {
+        "llm_sentiment_score": 2.7,
+        "llm_workload_score": 2.8,
+        "ric_review_count": 5
+    },
+    "CCST9091": {
+        "llm_sentiment_score": 3.95,
+        "llm_workload_score": 2.15,
+        "ric_review_count": 6
+    }
+}
