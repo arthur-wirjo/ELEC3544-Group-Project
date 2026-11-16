@@ -1,0 +1,1561 @@
+{
+    "CCST5037": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9003": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9006": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9009": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9013": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9016": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9017": {
+        "sem1_quota": 240,
+        "sem1_vacancies": 3,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem1_B"
+        ]
+    },
+    "CCST9020": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9022": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 38,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9025": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_B"
+        ]
+    },
+    "CCST9026": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9027": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9030": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9034": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9042": {
+        "sem1_quota": 288,
+        "sem1_vacancies": 1,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9056": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9062": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9064": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9070": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9077": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9078": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9081": {
+        "sem1_quota": 288,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9083": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 58,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9084": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9086": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST9090": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 4,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU5074": {
+        "sem1_quota": 80,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9009": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 3,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9011": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9012": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9013": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9015": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9022": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 3,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9033": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 11,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9039": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 120,
+        "sem2_vacancies": 59,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_B"
+        ]
+    },
+    "CCHU9045": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_A"
+        ]
+    },
+    "CCHU9049": {
+        "sem1_quota": 116,
+        "sem1_vacancies": 3,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9051": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9053": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9060": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9076": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9078": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 28,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_B"
+        ]
+    },
+    "CCHU9079": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 5,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9081": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9082": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCHU9094": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_B"
+        ]
+    },
+    "CCGL5005": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCGL9001": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_B"
+        ]
+    },
+    "CCGL9002": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCGL9007": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_B"
+        ]
+    },
+    "CCGL9010": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCGL9011": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCGL9016": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCGL9018": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 4,
+        "sem2_quota": 120,
+        "sem2_vacancies": 44,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_A"
+        ]
+    },
+    "CCGL9019": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCGL9030": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_B"
+        ]
+    },
+    "CCGL9031": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_B"
+        ]
+    },
+    "CCGL9036": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 34,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCGL9040": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCGL9042": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 120,
+        "sem2_vacancies": 2,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_B"
+        ]
+    },
+    "CCGL9053": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 2,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_B"
+        ]
+    },
+    "CCGL9065": {
+        "sem1_quota": 116,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCGL9074": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCGL9078": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_B"
+        ]
+    },
+    "CCGL9079": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_B"
+        ]
+    },
+    "CCGL9082": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 71,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCGL9083": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH5054": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9001": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9005": {
+        "sem1_quota": 240,
+        "sem1_vacancies": 4,
+        "sem2_quota": 240,
+        "sem2_vacancies": 2,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem1_B",
+            "sem2_C",
+            "sem2_D"
+        ]
+    },
+    "CCCH9006": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 8,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9007": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_B"
+        ]
+    },
+    "CCCH9010": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 3,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9012": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 64,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9015": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9018": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A",
+            "sem2_B"
+        ]
+    },
+    "CCCH9019": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 4,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9023": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9026": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 4,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9029": {
+        "sem1_quota": 288,
+        "sem1_vacancies": 1,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9031": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9033": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9037": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9044": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9045": {
+        "sem1_quota": 115,
+        "sem1_vacancies": 79,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9057": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 1,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9059": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9061": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9064": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 2,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9067": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 0,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCCH9068": {
+        "sem1_quota": 120,
+        "sem1_vacancies": 45,
+        "sem2_quota": 0,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem1_A"
+        ]
+    },
+    "CCST5035": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 27,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9012": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9014": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9018": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 3,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9023": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 4,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9032": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 2,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9033": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9045": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9051": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 43,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9072": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 288,
+        "sem2_vacancies": 2,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9073": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 2,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9074": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 110,
+        "sem2_vacancies": 72,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9075": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9076": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9080": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 2,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9088": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 3,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9089": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 3,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCST9091": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU5088": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 36,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9005": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 288,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9006": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 81,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9007": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 30,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9010": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 76,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9014": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9019": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 52,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9021": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9030": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 75,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9042": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 78,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9043": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9044": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9048": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 45,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9052": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 32,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9055": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 83,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9062": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 80,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9065": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 600,
+        "sem2_vacancies": 159,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9069": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 4,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9075": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 2,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9080": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 55,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9084": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 2,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9086": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9090": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9091": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 11,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9093": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 116,
+        "sem2_vacancies": 84,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCHU9096": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 79,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL5022": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL5048": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9014": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9024": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9025": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9026": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9032": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 75,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9038": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 71,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9049": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9052": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 31,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9055": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9056": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 68,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9057": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 84,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9062": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 79,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9066": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9068": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 92,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9069": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 89,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9070": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 61,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9077": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 61,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9080": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 2,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9081": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 55,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCGL9084": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 99,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCCH5017": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 2,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCCH5039": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCCH9002": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 104,
+        "sem2_vacancies": 61,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCCH9014": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCCH9027": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCCH9028": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 60,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCCH9032": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCCH9041": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 5,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCCH9042": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 1,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCCH9047": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 95,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCCH9050": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCCH9051": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCCH9066": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 0,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    },
+    "CCCH9069": {
+        "sem1_quota": 0,
+        "sem1_vacancies": 0,
+        "sem2_quota": 120,
+        "sem2_vacancies": 38,
+        "regular_subclasses": [
+            "sem2_A"
+        ]
+    }
+}
